@@ -1,0 +1,40 @@
+{
+  "phrases": [
+    {
+      "english": "Hello, friend, how are you?",
+      "bosnian": "Zdravo, prijatelju, kako si?",
+      "transliteration": "Zdravo, prijatelju, kako si?",
+      "category": "Greetings",
+      "generated_at": "2026-06-17T19:27:47.564523"
+    },
+    {
+      "english": "Good morning, sir.",
+      "bosnian": "Dobro jutro, gospodine.",
+      "transliteration": "Dobro jutro, gospodine.",
+      "category": "Greetings",
+      "generated_at": "2026-06-17T19:27:47.564531"
+    },
+    {
+      "english": "Good afternoon, madam.",
+      "bosnian": "Dobar dan, gospođo.",
+      "transliteration": "Dobar dan, gospođo.",
+      "category": "Greetings",
+      "generated_at": "2026-06-17T19:27:47.564532"
+    },
+    {
+      "english": "Good evening, everyone.",
+      "bosnian": "Dobro veče, svima.",
+      "transliteration": "Dobro veče, svima.",
+      "category": "Greetings",
+      "generated_at": "2026-06-17T19:27:47.564534"
+    },
+    {
+      "english": "Nice to meet you.",
+      "bosnian": "Drago mi je.",
+      "transliteration": "Drago mi je.",
+      "category": "Greetings",
+      "generated_at": "2026-06-17T19:27:47.564535"
+    }
+  ],
+  "last_updated": "2026-06-17T19:27:47.564536"
+}
