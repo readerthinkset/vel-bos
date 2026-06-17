@@ -34,7 +34,42 @@
       "transliteration": "Drago mi je.",
       "category": "Greetings",
       "generated_at": "2026-06-17T19:27:47.564535"
+    },
+    {
+      "english": "Breathe in, breathe out.",
+      "bosnian": "Diši duboko, diši mirno.",
+      "transliteration": "Disi duboko, disi mirno.",
+      "category": "Mindfulness",
+      "generated_at": "2026-06-17T22:06:08.110083"
+    },
+    {
+      "english": "Feel your feet, on the ground.",
+      "bosnian": "Osjeti stopala, na zemlji.",
+      "transliteration": "Osjeti stopala, na zemlji.",
+      "category": "Mindfulness",
+      "generated_at": "2026-06-17T22:06:08.110093"
+    },
+    {
+      "english": "Notice your thoughts, let them go.",
+      "bosnian": "Primijeti misli, pusti ih.",
+      "transliteration": "Primijeti misli, pusti ih.",
+      "category": "Mindfulness",
+      "generated_at": "2026-06-17T22:06:08.110094"
+    },
+    {
+      "english": "This moment, is all you have.",
+      "bosnian": "Ovaj trenutak, je sve što imaš.",
+      "transliteration": "Ovaj trenutak, je sve što imaš.",
+      "category": "Mindfulness",
+      "generated_at": "2026-06-17T22:06:08.110096"
+    },
+    {
+      "english": "Be here now, truly present.",
+      "bosnian": "Budi ovdje sada, stvarno prisutan.",
+      "transliteration": "Budi ovdje sada, stvarno prisutan.",
+      "category": "Mindfulness",
+      "generated_at": "2026-06-17T22:06:08.110097"
     }
   ],
-  "last_updated": "2026-06-17T19:27:47.564536"
+  "last_updated": "2026-06-17T22:06:08.110099"
 }
