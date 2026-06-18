@@ -69,7 +69,42 @@
       "transliteration": "Budi ovdje sada, stvarno prisutan.",
       "category": "Mindfulness",
       "generated_at": "2026-06-17T22:06:08.110097"
+    },
+    {
+      "english": "Hello, how are you?",
+      "bosnian": "Zdravo, kako si?",
+      "transliteration": "Zdrah-vo, kah-ko see?",
+      "category": "Basic Phrases",
+      "generated_at": "2026-06-18T04:41:37.576656"
+    },
+    {
+      "english": "Good morning, friend.",
+      "bosnian": "Dobro jutro, prijatelju.",
+      "transliteration": "Doh-bro yoo-tro, pree-yah-tel-yoo.",
+      "category": "Basic Phrases",
+      "generated_at": "2026-06-18T04:41:37.576665"
+    },
+    {
+      "english": "Thank you, very much.",
+      "bosnian": "Hvala, puno.",
+      "transliteration": "Hva-la, poo-no.",
+      "category": "Basic Phrases",
+      "generated_at": "2026-06-18T04:41:37.576670"
+    },
+    {
+      "english": "You're welcome.",
+      "bosnian": "Nema na čemu.",
+      "transliteration": "Neh-ma na cheh-moo.",
+      "category": "Basic Phrases",
+      "generated_at": "2026-06-18T04:41:37.576671"
+    },
+    {
+      "english": "Excuse me, please.",
+      "bosnian": "Izvinite, molim.",
+      "transliteration": "Eez-vee-nee-teh, moh-leem.",
+      "category": "Basic Phrases",
+      "generated_at": "2026-06-18T04:41:37.576673"
     }
   ],
-  "last_updated": "2026-06-17T22:06:08.110099"
+  "last_updated": "2026-06-18T04:41:37.576674"
 }
