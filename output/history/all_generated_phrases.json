@@ -104,7 +104,42 @@
       "transliteration": "Eez-vee-nee-teh, moh-leem.",
       "category": "Basic Phrases",
       "generated_at": "2026-06-18T04:41:37.576673"
+    },
+    {
+      "english": "Oh, this is wonderful, truly!",
+      "bosnian": "Ovo je divno, zaista!",
+      "transliteration": "Ovo ye divno, zaista!",
+      "category": "Joy",
+      "generated_at": "2026-06-18T15:20:43.535326"
+    },
+    {
+      "english": "What a happy surprise, yes!",
+      "bosnian": "Kakvo sretno iznenađenje, da!",
+      "transliteration": "Kakvo sretno iznenađenje, da!",
+      "category": "Joy",
+      "generated_at": "2026-06-18T15:20:43.535336"
+    },
+    {
+      "english": "My heart is full, you know?",
+      "bosnian": "Srce mi je puno, znaš?",
+      "transliteration": "Srce mi ye puno, znaš?",
+      "category": "Joy",
+      "generated_at": "2026-06-18T15:20:43.535338"
+    },
+    {
+      "english": "So much joy, right now!",
+      "bosnian": "Toliko radosti, sada!",
+      "transliteration": "Toliko radosti, sada!",
+      "category": "Joy",
+      "generated_at": "2026-06-18T15:20:43.535339"
+    },
+    {
+      "english": "This feels so good, wow!",
+      "bosnian": "Ovo je tako dobro, vau!",
+      "transliteration": "Ovo ye tako dobro, vau!",
+      "category": "Joy",
+      "generated_at": "2026-06-18T15:20:43.535341"
     }
   ],
-  "last_updated": "2026-06-18T04:41:37.576674"
+  "last_updated": "2026-06-18T15:20:43.535343"
 }
