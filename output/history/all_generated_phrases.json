@@ -244,7 +244,42 @@
       "transliteration": "Gdje je bolnitsa?",
       "category": "Emergency",
       "generated_at": "2026-06-19T00:00:10.828890"
+    },
+    {
+      "english": "Be brave, little by little.",
+      "bosnian": "Budi hrabar, malo po malo.",
+      "transliteration": "Boodi hra-bar, maa-lo po maa-lo.",
+      "category": "Strength",
+      "generated_at": "2026-06-19T05:00:33.395549"
+    },
+    {
+      "english": "You are stronger, than you think.",
+      "bosnian": "Jači si, nego što misliš.",
+      "transliteration": "Yaa-chi si, ne-go shtoh mee-shlish.",
+      "category": "Strength",
+      "generated_at": "2026-06-19T05:00:33.395557"
+    },
+    {
+      "english": "Every step, counts.",
+      "bosnian": "Svaki korak, se broji.",
+      "transliteration": "Sva-ki ko-rak, se bro-yi.",
+      "category": "Strength",
+      "generated_at": "2026-06-19T05:00:33.395559"
+    },
+    {
+      "english": "Don't give up, keep trying.",
+      "bosnian": "Ne odustaj, nastavi pokušavati.",
+      "transliteration": "Ne oo-da-stay, na-sta-vi po-koo-sha-va-ti.",
+      "category": "Strength",
+      "generated_at": "2026-06-19T05:00:33.395560"
+    },
+    {
+      "english": "Find your inner strength.",
+      "bosnian": "Pronađi svoju unutrašnju snagu.",
+      "transliteration": "Pro-na-dji svo-yoo oo-noo-trash-nyoo sna-goo.",
+      "category": "Strength",
+      "generated_at": "2026-06-19T05:00:33.395561"
     }
   ],
-  "last_updated": "2026-06-19T00:00:10.828892"
+  "last_updated": "2026-06-19T05:00:33.395563"
 }
