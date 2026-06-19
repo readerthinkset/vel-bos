@@ -279,7 +279,42 @@
       "transliteration": "Pro-na-dji svo-yoo oo-noo-trash-nyoo sna-goo.",
       "category": "Strength",
       "generated_at": "2026-06-19T05:00:33.395561"
+    },
+    {
+      "english": "My dear mother, I love you.",
+      "bosnian": "Draga moja majko, volim te.",
+      "transliteration": "Draga moja majko, volim te.",
+      "category": "Family Terms",
+      "generated_at": "2026-06-19T14:57:17.997977"
+    },
+    {
+      "english": "Father, how are you doing?",
+      "bosnian": "Oče, kako si?",
+      "transliteration": "Oče, kako si?",
+      "category": "Family Terms",
+      "generated_at": "2026-06-19T14:57:17.997989"
+    },
+    {
+      "english": "My brother, let's go play.",
+      "bosnian": "Brate moj, idemo igrati.",
+      "transliteration": "Brate moj, idemo igrati.",
+      "category": "Family Terms",
+      "generated_at": "2026-06-19T14:57:17.997991"
+    },
+    {
+      "english": "Sister, can you help me?",
+      "bosnian": "Sestro, možeš li mi pomoći?",
+      "transliteration": "Sestro, možeš li mi pomoći?",
+      "category": "Family Terms",
+      "generated_at": "2026-06-19T14:57:17.997992"
+    },
+    {
+      "english": "Grandma, tell me a story.",
+      "bosnian": "Bakice, ispričaj mi priču.",
+      "transliteration": "Bakice, ispričaj mi priču.",
+      "category": "Family Terms",
+      "generated_at": "2026-06-19T14:57:17.997993"
     }
   ],
-  "last_updated": "2026-06-19T05:00:33.395563"
+  "last_updated": "2026-06-19T14:57:17.997995"
 }
