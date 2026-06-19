@@ -209,7 +209,42 @@
       "transliteration": "Strpljenje, moj prijatelju, raste.",
       "category": "Inspiration",
       "generated_at": "2026-06-18T21:09:57.427382"
+    },
+    {
+      "english": "Help, please, I need help.",
+      "bosnian": "Pomoć, molim, treba mi pomoć.",
+      "transliteration": "Pomoch, molim, treba mi pomoch.",
+      "category": "Emergency",
+      "generated_at": "2026-06-19T00:00:10.828878"
+    },
+    {
+      "english": "Call police, quickly!",
+      "bosnian": "Zovite policiju, brzo!",
+      "transliteration": "Zovite policiju, brzo!",
+      "category": "Emergency",
+      "generated_at": "2026-06-19T00:00:10.828885"
+    },
+    {
+      "english": "I am lost, can you help?",
+      "bosnian": "Izgubio/la sam se, možete li pomoći?",
+      "transliteration": "Izgubio/la sam se, mozhete li pomochi?",
+      "category": "Emergency",
+      "generated_at": "2026-06-19T00:00:10.828887"
+    },
+    {
+      "english": "Fire, we need to leave.",
+      "bosnian": "Vatra, moramo ići.",
+      "transliteration": "Vatra, moramo idi.",
+      "category": "Emergency",
+      "generated_at": "2026-06-19T00:00:10.828889"
+    },
+    {
+      "english": "Where is the hospital?",
+      "bosnian": "Gdje je bolnica?",
+      "transliteration": "Gdje je bolnitsa?",
+      "category": "Emergency",
+      "generated_at": "2026-06-19T00:00:10.828890"
     }
   ],
-  "last_updated": "2026-06-18T21:09:57.427384"
+  "last_updated": "2026-06-19T00:00:10.828892"
 }
