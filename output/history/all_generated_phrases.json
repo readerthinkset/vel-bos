@@ -454,7 +454,42 @@
       "transliteration": "Mali koraci, veliko putovanje.",
       "category": "Self Improvement",
       "generated_at": "2026-06-20T04:13:36.507707"
+    },
+    {
+      "english": "Where is the bus station?",
+      "bosnian": "Gdje je autobuska stanica?",
+      "transliteration": "Gdje je autobuska stanica?",
+      "category": "Travel",
+      "generated_at": "2026-06-20T13:54:28.415250"
+    },
+    {
+      "english": "How much is this, please?",
+      "bosnian": "Koliko je ovo, molim?",
+      "transliteration": "Koliko je ovo, molim?",
+      "category": "Travel",
+      "generated_at": "2026-06-20T13:54:28.415258"
+    },
+    {
+      "english": "I need a taxi.",
+      "bosnian": "Treba mi taksi.",
+      "transliteration": "Treba mi taksi.",
+      "category": "Travel",
+      "generated_at": "2026-06-20T13:54:28.415260"
+    },
+    {
+      "english": "Can you help me?",
+      "bosnian": "Možete li mi pomoći?",
+      "transliteration": "Možete li mi pomoći?",
+      "category": "Travel",
+      "generated_at": "2026-06-20T13:54:28.415261"
+    },
+    {
+      "english": "I would like a coffee.",
+      "bosnian": "Htio bih kafu.",
+      "transliteration": "Htio bih kafu.",
+      "category": "Travel",
+      "generated_at": "2026-06-20T13:54:28.415262"
     }
   ],
-  "last_updated": "2026-06-20T04:13:36.507709"
+  "last_updated": "2026-06-20T13:54:28.415264"
 }
