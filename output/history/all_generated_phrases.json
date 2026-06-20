@@ -524,7 +524,42 @@
       "transliteration": "Nastavi, možeš to.",
       "category": "Success",
       "generated_at": "2026-06-20T15:41:55.305032"
+    },
+    {
+      "english": "Believe in yourself, always.",
+      "bosnian": "Vjeruj u sebe, uvijek.",
+      "transliteration": "Vjeruj u sebe, uvijek.",
+      "category": "Hope",
+      "generated_at": "2026-06-20T18:15:34.439680"
+    },
+    {
+      "english": "Tomorrow, a new day.",
+      "bosnian": "Sutra, novi dan.",
+      "transliteration": "Sutra, novi dan.",
+      "category": "Hope",
+      "generated_at": "2026-06-20T18:15:34.439691"
+    },
+    {
+      "english": "Keep moving forward, slowly.",
+      "bosnian": "Nastavi naprijed, polako.",
+      "transliteration": "Nastavi naprijed, polako.",
+      "category": "Hope",
+      "generated_at": "2026-06-20T18:15:34.439693"
+    },
+    {
+      "english": "Good things will come.",
+      "bosnian": "Dobre stvari će doći.",
+      "transliteration": "Dobre stvari će doći.",
+      "category": "Hope",
+      "generated_at": "2026-06-20T18:15:34.439695"
+    },
+    {
+      "english": "Never give up, ever.",
+      "bosnian": "Nikad ne odustaj, nikad.",
+      "transliteration": "Nikad ne odustaj, nikad.",
+      "category": "Hope",
+      "generated_at": "2026-06-20T18:15:34.439696"
     }
   ],
-  "last_updated": "2026-06-20T15:41:55.305033"
+  "last_updated": "2026-06-20T18:15:34.439698"
 }
