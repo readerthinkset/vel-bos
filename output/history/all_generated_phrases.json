@@ -734,7 +734,42 @@
       "transliteration": "To yeh broj o-sam.",
       "category": "Numbers",
       "generated_at": "2026-06-21T18:21:00.849371"
+    },
+    {
+      "english": "Where can I find, bread?",
+      "bosnian": "Gdje mogu naći, hljeb?",
+      "transliteration": "Gde mogu nachi, hlyeb?",
+      "category": "Shopping",
+      "generated_at": "2026-06-21T21:20:29.644041"
+    },
+    {
+      "english": "I'm looking for, a souvenir.",
+      "bosnian": "Tražim, suvenir.",
+      "transliteration": "Trazhim, suvenir.",
+      "category": "Shopping",
+      "generated_at": "2026-06-21T21:20:29.644050"
+    },
+    {
+      "english": "Do you have, this in blue?",
+      "bosnian": "Imate li, ovo u plavo?",
+      "transliteration": "Imate li, ovo u plavo?",
+      "category": "Shopping",
+      "generated_at": "2026-06-21T21:20:29.644051"
+    },
+    {
+      "english": "Can I try this on, please?",
+      "bosnian": "Mogu li probati, ovo?",
+      "transliteration": "Mogu li probati, ovo?",
+      "category": "Shopping",
+      "generated_at": "2026-06-21T21:20:29.644053"
+    },
+    {
+      "english": "What time do you close?",
+      "bosnian": "U koliko sati, zatvarate?",
+      "transliteration": "U koliko sati, zatvarate?",
+      "category": "Shopping",
+      "generated_at": "2026-06-21T21:20:29.644054"
     }
   ],
-  "last_updated": "2026-06-21T18:21:00.849372"
+  "last_updated": "2026-06-21T21:20:29.644055"
 }
