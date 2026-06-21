@@ -699,7 +699,42 @@
       "transliteration": "Ne gubi nadu.",
       "category": "Perseverance",
       "generated_at": "2026-06-21T15:47:26.130089"
+    },
+    {
+      "english": "One, two, three, go!",
+      "bosnian": "Jedan, dva, tri, kreni!",
+      "transliteration": "Ye-dan, dva, tri, kre-nee!",
+      "category": "Numbers",
+      "generated_at": "2026-06-21T18:21:00.849358"
+    },
+    {
+      "english": "How many? Ten.",
+      "bosnian": "Koliko? Deset.",
+      "transliteration": "Ko-li-ko? De-set.",
+      "category": "Numbers",
+      "generated_at": "2026-06-21T18:21:00.849367"
+    },
+    {
+      "english": "More than five.",
+      "bosnian": "Više od pet.",
+      "transliteration": "Vee-sheh od pet.",
+      "category": "Numbers",
+      "generated_at": "2026-06-21T18:21:00.849368"
+    },
+    {
+      "english": "Less than seven.",
+      "bosnian": "Manje od sedam.",
+      "transliteration": "Man-yeh od se-dam.",
+      "category": "Numbers",
+      "generated_at": "2026-06-21T18:21:00.849370"
+    },
+    {
+      "english": "It's number eight.",
+      "bosnian": "To je broj osam.",
+      "transliteration": "To yeh broj o-sam.",
+      "category": "Numbers",
+      "generated_at": "2026-06-21T18:21:00.849371"
     }
   ],
-  "last_updated": "2026-06-21T15:47:26.130090"
+  "last_updated": "2026-06-21T18:21:00.849372"
 }
