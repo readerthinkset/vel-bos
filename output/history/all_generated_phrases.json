@@ -874,7 +874,42 @@
       "transliteration": "Kakav blagoslov, zaista.",
       "category": "Joy",
       "generated_at": "2026-06-22T18:13:00.820686"
+    },
+    {
+      "english": "When, did you arrive?",
+      "bosnian": "Kada, si stigao/stigla?",
+      "transliteration": "Kada, si stigao/stigla?",
+      "category": "Time",
+      "generated_at": "2026-06-22T22:08:27.145102"
+    },
+    {
+      "english": "Now, is a good time.",
+      "bosnian": "Sada, je dobro vrijeme.",
+      "transliteration": "Sada, je dobro vrijeme.",
+      "category": "Time",
+      "generated_at": "2026-06-22T22:08:27.145110"
+    },
+    {
+      "english": "Later, maybe tomorrow.",
+      "bosnian": "Kasnije, možda sutra.",
+      "transliteration": "Kasnije, možda sutra.",
+      "category": "Time",
+      "generated_at": "2026-06-22T22:08:27.145111"
+    },
+    {
+      "english": "Before, we eat lunch.",
+      "bosnian": "Prije, nego jedemo ručak.",
+      "transliteration": "Prije, nego jedemo ručak.",
+      "category": "Time",
+      "generated_at": "2026-06-22T22:08:27.145113"
+    },
+    {
+      "english": "After, the meeting ends.",
+      "bosnian": "Nakon, što sastanak završi.",
+      "transliteration": "Nakon, što sastanak završi.",
+      "category": "Time",
+      "generated_at": "2026-06-22T22:08:27.145114"
     }
   ],
-  "last_updated": "2026-06-22T18:13:00.820687"
+  "last_updated": "2026-06-22T22:08:27.145116"
 }
