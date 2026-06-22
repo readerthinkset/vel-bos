@@ -769,7 +769,42 @@
       "transliteration": "U koliko sati, zatvarate?",
       "category": "Shopping",
       "generated_at": "2026-06-21T21:20:29.644054"
+    },
+    {
+      "english": "Breathe deeply, find stillness.",
+      "bosnian": "Diši duboko, nađi mir.",
+      "transliteration": "Di-shi du-bo-ko, na-ji mir.",
+      "category": "Inner Peace",
+      "generated_at": "2026-06-22T05:04:28.853270"
+    },
+    {
+      "english": "Let go, gently.",
+      "bosnian": "Pusti, polako.",
+      "transliteration": "Pus-ti, po-la-ko.",
+      "category": "Inner Peace",
+      "generated_at": "2026-06-22T05:04:28.853280"
+    },
+    {
+      "english": "Listen to your heart.",
+      "bosnian": "Slušaj svoje srce.",
+      "transliteration": "Slu-shai svo-ye sr-tse.",
+      "category": "Inner Peace",
+      "generated_at": "2026-06-22T05:04:28.853281"
+    },
+    {
+      "english": "Be present, now.",
+      "bosnian": "Budi ovdje, sada.",
+      "transliteration": "Bu-di ov-dje, sa-da.",
+      "category": "Inner Peace",
+      "generated_at": "2026-06-22T05:04:28.853282"
+    },
+    {
+      "english": "Find your center.",
+      "bosnian": "Nađi svoj centar.",
+      "transliteration": "Na-ji svoj sen-tar.",
+      "category": "Inner Peace",
+      "generated_at": "2026-06-22T05:04:28.853282"
     }
   ],
-  "last_updated": "2026-06-21T21:20:29.644055"
+  "last_updated": "2026-06-22T05:04:28.853283"
 }
