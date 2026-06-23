@@ -909,7 +909,42 @@
       "transliteration": "Nakon, što sastanak završi.",
       "category": "Time",
       "generated_at": "2026-06-22T22:08:27.145114"
+    },
+    {
+      "english": "I forgive you, truly.",
+      "bosnian": "Opraštam ti, iskreno.",
+      "transliteration": "Opra-shtam ti, is-kre-no.",
+      "category": "Forgiveness",
+      "generated_at": "2026-06-23T04:03:17.862751"
+    },
+    {
+      "english": "Let's move on, please.",
+      "bosnian": "Hajdemo dalje, molim te.",
+      "transliteration": "Hai-de-mo dal-je, mo-lim te.",
+      "category": "Forgiveness",
+      "generated_at": "2026-06-23T04:03:17.862760"
+    },
+    {
+      "english": "It is forgiven now.",
+      "bosnian": "Sada je oprošteno.",
+      "transliteration": "Sa-da je o-pro-shche-no.",
+      "category": "Forgiveness",
+      "generated_at": "2026-06-23T04:03:17.862762"
+    },
+    {
+      "english": "I release this anger.",
+      "bosnian": "Puštam ovu ljutnju.",
+      "transliteration": "Pushtam o-vu lyut-nyu.",
+      "category": "Forgiveness",
+      "generated_at": "2026-06-23T04:03:17.862763"
+    },
+    {
+      "english": "We can start anew.",
+      "bosnian": "Možemo početi iznova.",
+      "transliteration": "Mo-zhe-mo po-che-ti iz-no-va.",
+      "category": "Forgiveness",
+      "generated_at": "2026-06-23T04:03:17.862764"
     }
   ],
-  "last_updated": "2026-06-22T22:08:27.145116"
+  "last_updated": "2026-06-23T04:03:17.862766"
 }
