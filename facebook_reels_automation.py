@@ -78,7 +78,27 @@ CATEGORIES_ENGLISH = [
     "Growth",
     "Purpose",
     "Mindfulness"
-]
+
+    "Daily Routine",
+    "Weather",
+    "Feelings",
+    "Food",
+    "Health",
+    "Work",
+    "Technology",
+    "Nature",
+    "Animals",
+    "Colors",
+    "Directions",
+    "Body Parts",
+    "Clothes",
+    "Music",
+    "Sports",
+    "Holidays",
+    "Education",
+    "Culture",
+    "Finance",
+    "Relationships",]
 
 CATEGORIES_NATIVE = {
     "Greetings": "Pozdravi",
@@ -123,7 +143,7 @@ NATIVE_VOICE = "bs-BA-GoranNeural"
 
 PHRASE_HISTORY_FILE = HISTORY_DIR / "all_generated_phrases.json"
 RECENT_CATEGORIES_FILE = HISTORY_DIR / "recent_categories.json"
-MAX_RECENT_CATEGORIES = 15
+MAX_RECENT_CATEGORIES = 25
 
 
 def load_phrase_history():
@@ -198,6 +218,10 @@ def get_available_category():
 def generate_phrases(category_english: str, num_phrases: int = 5) -> list:
     category_native = CATEGORIES_NATIVE[category_english]
     max_attempts = 3
+
+    history = load_phrase_history()
+    recent_english = [p["english"] for p in history.get("phrases", []) if p.get("category") == category_english][-30:]
+
     for attempt in range(max_attempts):
         try:
             import requests
@@ -207,7 +231,11 @@ def generate_phrases(category_english: str, num_phrases: int = 5) -> list:
                 "Content-Type": "application/json"
             }
 
-            prompt = f"""Create {num_phrases * 2} unique {category_english} phrases for English speakers learning Bosnian.
+            avoid_text = ""
+            if recent_english:
+                avoid_text = "\nABSOLUTELY AVOID these already-used phrases:\n" + "\n".join(f"- {p}" for p in recent_english)
+
+            prompt = f"""Create {num_phrases * 6} unique and creative {category_english} phrases for English speakers learning Bosnian.{avoid_text}
 
 IMPORTANT RULES FOR NATURAL SPEECH:
 1. Keep phrases SHORT (5-12 words max per language)
@@ -218,6 +246,7 @@ IMPORTANT RULES FOR NATURAL SPEECH:
 6. Bosnian text should be CLEAN - use standard Bosnian script
 7. Do NOT include multiple versions or slashes - just ONE clean Bosnian translation
 8. Transliteration should be in Roman script for pronunciation
+9. BE CREATIVE AND VARIED - do NOT repeat themes from the avoid list
 
 For each phrase:
 1. English phrase (with commas for natural pauses)
@@ -233,10 +262,10 @@ IMPORTANT: Bosnian text must be clean - no slashes, no multiple versions."""
             payload = {
                 "model": AI_MODEL,
                 "messages": [
-                    {"role": "system", "content": "You are a Bosnian teacher. Create short, natural phrases with pauses."},
+                    {"role": "system", "content": "You are a Bosnian teacher. Create short, natural phrases with pauses. Each generation must produce completely different, creative phrases."},
                     {"role": "user", "content": prompt}
                 ],
-                "temperature": 0.9
+                "temperature": min(0.95 + attempt * 0.03, 1.0)
             }
 
             response = requests.post(url, headers=headers, json=payload, timeout=60)
@@ -277,6 +306,11 @@ IMPORTANT: Bosnian text must be clean - no slashes, no multiple versions."""
                 add_phrases_to_history(unique_phrases[:num_phrases], category_english)
                 return unique_phrases[:num_phrases]
 
+            print(f"[content] Attempt {attempt + 1}: API returned {len(phrases)} phrases, only {len(unique_phrases)} are new (need {num_phrases})")
+            for p in unique_phrases:
+                if p["english"] not in recent_english:
+                    recent_english.append(p["english"])
+
         except Exception as e:
             print(f"[content] Attempt {attempt + 1} failed: {e}")
 
@@ -288,22 +322,58 @@ IMPORTANT: Bosnian text must be clean - no slashes, no multiple versions."""
 def get_fresh_fallback_phrases(category: str, num_phrases: int) -> list:
     """Return simple English fallback phrases when AI generation fails"""
     generic_fallbacks = [
-        {"english": "Hello, nice to meet you.", "bosnian": "[SK] Hello", "transliteration": "hello"},
-        {"english": "Thank you very much.", "bosnian": "[SK] Thank you", "transliteration": "thank you"},
-        {"english": "Good morning, have a great day.", "bosnian": "[SK] Good morning", "transliteration": "good morning"},
-        {"english": "I love learning new languages.", "bosnian": "[SK] Love learning", "transliteration": "love learning"},
-        {"english": "Never give up on your dreams.", "bosnian": "[SK] Never give up", "transliteration": "never give up"},
-        {"english": "Every day is a fresh start.", "bosnian": "[SK] Fresh start", "transliteration": "fresh start"},
-        {"english": "Believe in yourself always.", "bosnian": "[SK] Believe", "transliteration": "believe"},
-        {"english": "Small steps lead to big changes.", "bosnian": "[SK] Small steps", "transliteration": "small steps"},
-        {"english": "You are stronger than you think.", "bosnian": "[SK] Stronger", "transliteration": "stronger"},
-        {"english": "Happiness is a choice, choose it.", "bosnian": "[SK] Happiness", "transliteration": "happiness"},
+        {"english": "Hello, nice to meet you.", "bosnian": "Zdravo, drago mi je.", "transliteration": "Zdravo, drago mi je."},
+        {"english": "Thank you very much.", "bosnian": "Hvala vam puno.", "transliteration": "Hvala vam puno."},
+        {"english": "Good morning, have a great day.", "bosnian": "Dobro jutro, ugodan dan.", "transliteration": "Dobro jutro, ugodan dan."},
+        {"english": "I love learning new languages.", "bosnian": "Volim u\u010diti nove jezike.", "transliteration": "Volim u\u010diti nove jezike."},
+        {"english": "Never give up on your dreams.", "bosnian": "Nikada ne odustajte od svojih snova.", "transliteration": "Nikada ne odustajte od svojih snova."},
+        {"english": "Every day is a fresh start.", "bosnian": "Svaki dan je novi po\u010detak.", "transliteration": "Svaki dan je novi po\u010detak."},
+        {"english": "Believe in yourself always.", "bosnian": "Vjerujte u sebe uvijek.", "transliteration": "Vjerujte u sebe uvijek."},
+        {"english": "Small steps lead to big changes.", "bosnian": "Mali koraci vode do velikih promjena.", "transliteration": "Mali koraci vode do velikih promjena."},
+        {"english": "You are stronger than you think.", "bosnian": "Ja\u010di ste nego \u0161to mislite.", "transliteration": "Ja\u010di ste nego \u0161to mislite."},
+        {"english": "Happiness is a choice, choose it.", "bosnian": "Sre\u0107a je izbor, izaberite je.", "transliteration": "Sre\u0107a je izbor, izaberite je."},
+        {"english": "What time is it please.", "bosnian": "Koliko je sati, molim.", "transliteration": "Koliko je sati, molim."},
+        {"english": "Where is the train station.", "bosnian": "Gdje je \u017eeljezni\u010dka stanica.", "transliteration": "Gdje je \u017eeljezni\u010dka stanica."},
+        {"english": "How much does this cost.", "bosnian": "Koliko ovo ko\u0161ta.", "transliteration": "Koliko ovo ko\u0161ta."},
+        {"english": "Can you help me please.", "bosnian": "Mo\u017eete li mi pomo\u0107i, molim.", "transliteration": "Mo\u017eete li mi pomo\u0107i, molim."},
+        {"english": "I would like a coffee please.", "bosnian": "\u017delio bih kafu, molim.", "transliteration": "\u017delio bih kafu, molim."},
+        {"english": "The food is delicious today.", "bosnian": "Hrana je ukusna danas.", "transliteration": "Hrana je ukusna danas."},
+        {"english": "Have a wonderful weekend.", "bosnian": "Ugodan vikend.", "transliteration": "Ugodan vikend."},
+        {"english": "Take care of yourself.", "bosnian": "Brinite o sebi.", "transliteration": "Brinite o sebi."},
+        {"english": "See you tomorrow my friend.", "bosnian": "Vidimo se sutra, prijatelju.", "transliteration": "Vidimo se sutra, prijatelju."},
+        {"english": "The weather is beautiful outside.", "bosnian": "Vrijeme je lijepo vani.", "transliteration": "Vrijeme je lijepo vani."},
+        {"english": "I am very happy today.", "bosnian": "Veoma sam sretan danas.", "transliteration": "Veoma sam sretan danas."},
+        {"english": "Learning a language opens new doors.", "bosnian": "U\u010denje jezika otvara nova vrata.", "transliteration": "U\u010denje jezika otvara nova vrata."},
+        {"english": "Keep practicing every single day.", "bosnian": "Nastavite vje\u017ebati svaki dan.", "transliteration": "Nastavite vje\u017ebati svaki dan."},
+        {"english": "You can achieve anything you want.", "bosnian": "Mo\u017eete posti\u0107i sve \u0161to \u017eelite.", "transliteration": "Mo\u017eete posti\u0107i sve \u0161to \u017eelite."},
+        {"english": "Rest when you are tired.", "bosnian": "Odmorite se kad ste umorni.", "transliteration": "Odmorite se kad ste umorni."},
+        {"english": "Focus on the positive things.", "bosnian": "Fokusirajte se na pozitivne stvari.", "transliteration": "Fokusirajte se na pozitivne stvari."},
+        {"english": "Learn from your mistakes.", "bosnian": "U\u010dite iz svojih gre\u0161aka.", "transliteration": "U\u010dite iz svojih gre\u0161aka."},
+        {"english": "Trust the process completely.", "bosnian": "Potpuno vjerujte procesu.", "transliteration": "Potpuno vjerujte procesu."},
+        {"english": "Breathe deeply and stay calm.", "bosnian": "Di\u0161ite duboko i ostanite mirni.", "transliteration": "Di\u0161ite duboko i ostanite mirni."},
+        {"english": "Enjoy the little moments in life.", "bosnian": "U\u017eivajte u malim trenucima u \u017eivotu.", "transliteration": "U\u017eivajte u malim trenucima u \u017eivotu."},
+        {"english": "Smile more, worry less.", "bosnian": "Vi\u0161e se smijte, manje brinite.", "transliteration": "Vi\u0161e se smijte, manje brinite."},
+        {"english": "Be kind to everyone you meet.", "bosnian": "Budite ljubazni prema svima koje sretnete.", "transliteration": "Budite ljubazni prema svima koje sretnete."},
+        {"english": "Help others without expecting anything back.", "bosnian": "Poma\u017eite drugima bez o\u010dekivanja ne\u010dega zauzvrat.", "transliteration": "Poma\u017eite drugima bez o\u010dekivanja ne\u010dega zauzvrat."},
+        {"english": "Forgive yourself and move forward.", "bosnian": "Oprostite sebi i idite dalje.", "transliteration": "Oprostite sebi i idite dalje."},
+        {"english": "Stay strong in difficult times.", "bosnian": "Ostanite jaki u te\u0161kim vremenima.", "transliteration": "Ostanite jaki u te\u0161kim vremenima."},
+        {"english": "Every moment is a new beginning.", "bosnian": "Svaki trenutak je novi po\u010detak.", "transliteration": "Svaki trenutak je novi po\u010detak."},
+        {"english": "Listen to your heart always.", "bosnian": "Uvijek slu\u0161ajte svoje srce.", "transliteration": "Uvijek slu\u0161ajte svoje srce."},
+        {"english": "Do what makes you happy.", "bosnian": "Radite ono \u0161to vas \u010dini sretnim.", "transliteration": "Radite ono \u0161to vas \u010dini sretnim."},
+        {"english": "Your potential is unlimited.", "bosnian": "Va\u0161 potencijal je neograni\u010den.", "transliteration": "Va\u0161 potencijal je neograni\u010den."},
+        {"english": "Be brave and take risks.", "bosnian": "Budite hrabri i preuzmite rizike.", "transliteration": "Budite hrabri i preuzmite rizike."},
+        {"english": "Celebrate your progress every day.", "bosnian": "Svaki dan slavite svoj napredak.", "transliteration": "Svaki dan slavite svoj napredak."},
+        {"english": "Surround yourself with good people.", "bosnian": "Okru\u017eite se dobrim ljudima.", "transliteration": "Okru\u017eite se dobrim ljudima."},
+        {"english": "Read books and grow your mind.", "bosnian": "\u010citajte knjige i razvijajte svoj um.", "transliteration": "\u010citajte knjige i razvijajte svoj um."},
+        {"english": "Travel and discover new places.", "bosnian": "Putujte i otkrivajte nova mjesta.", "transliteration": "Putujte i otkrivajte nova mjesta."},
+        {"english": "Appreciate what you already have.", "bosnian": "Cijenite ono \u0161to ve\u0107 imate.", "transliteration": "Cijenite ono \u0161to ve\u0107 imate."},
+        {"english": "Dance like nobody is watching.", "bosnian": "Ple\u0161ite kao da vas niko ne gleda.", "transliteration": "Ple\u0161ite kao da vas niko ne gleda."},
+        {"english": "Sing from your heart out loud.", "bosnian": "Pjevajte iz srca glasno.", "transliteration": "Pjevajte iz srca glasno."},
+        {"english": "Plant seeds of kindness everywhere.", "bosnian": "Sijte sjeme dobrote svuda.", "transliteration": "Sijte sjeme dobrote svuda."},
+        {"english": "Let go of what you cannot control.", "bosnian": "Pustite ono \u0161to ne mo\u017eete kontrolisati.", "transliteration": "Pustite ono \u0161to ne mo\u017eete kontrolisati."},
+        {"english": "Be present in the here and now.", "bosnian": "Budite prisutni u sada\u0161njem trenutku.", "transliteration": "Budite prisutni u sada\u0161njem trenutku."}
     ]
     fresh = [p for p in generic_fallbacks if not is_phrase_used(p["english"])]
-    # Assign the right language key
-    lang_key = "bosnian"
-    for p in fresh:
-        p[lang_key] = p.pop("bosnian")
     return fresh[:num_phrases]
 async def generate_single_audio(text: str, voice: str, output_path: str):
     try:
