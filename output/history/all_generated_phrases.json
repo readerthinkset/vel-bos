@@ -1399,7 +1399,42 @@
       "transliteration": "Je li ovo domaće?",
       "category": "Food",
       "generated_at": "2026-06-27T18:07:25.695186"
+    },
+    {
+      "english": "My best friend, always there.",
+      "bosnian": "Moj najbolji prijatelj, uvijek tu.",
+      "transliteration": "Moy naybol'yee preeyatel', ooveeyek too.",
+      "category": "Relationships",
+      "generated_at": "2026-06-27T21:10:55.476611"
+    },
+    {
+      "english": "We share everything, you and I.",
+      "bosnian": "Dijelimo sve, ti i ja.",
+      "transliteration": "Deel'ee-mo sveh, tee ee yah.",
+      "category": "Relationships",
+      "generated_at": "2026-06-27T21:10:55.476623"
+    },
+    {
+      "english": "Family first, always.",
+      "bosnian": "Porodica na prvom mjestu, uvijek.",
+      "transliteration": "Por'ee-tsah nah prvom myestoo, ooveeyek.",
+      "category": "Relationships",
+      "generated_at": "2026-06-27T21:10:55.476625"
+    },
+    {
+      "english": "A true partner, by my side.",
+      "bosnian": "Pravi partner, uz mene.",
+      "transliteration": "Prah-vee partner, ooz meh-neh.",
+      "category": "Relationships",
+      "generated_at": "2026-06-27T21:10:55.476626"
+    },
+    {
+      "english": "Love grows, with time.",
+      "bosnian": "Ljubav raste, s vremenom.",
+      "transliteration": "L'oobav rah-steh, s vrye-menom.",
+      "category": "Relationships",
+      "generated_at": "2026-06-27T21:10:55.476627"
     }
   ],
-  "last_updated": "2026-06-27T18:07:25.695188"
+  "last_updated": "2026-06-27T21:10:55.476629"
 }
