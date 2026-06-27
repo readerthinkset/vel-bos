@@ -1364,7 +1364,42 @@
       "transliteration": "Tee see blah-go, zai-sta.",
       "category": "Gratitude",
       "generated_at": "2026-06-27T15:10:51.801214"
+    },
+    {
+      "english": "Let's try this, it's delicious.",
+      "bosnian": "Hajdemo probati, ukusno je.",
+      "transliteration": "Hajdemo probati, ukusno je.",
+      "category": "Food",
+      "generated_at": "2026-06-27T18:07:25.695173"
+    },
+    {
+      "english": "A little spice, please.",
+      "bosnian": "Malo ljuto, molim.",
+      "transliteration": "Malo ljuto, molim.",
+      "category": "Food",
+      "generated_at": "2026-06-27T18:07:25.695182"
+    },
+    {
+      "english": "So fresh, so good.",
+      "bosnian": "Tako svježe, tako dobro.",
+      "transliteration": "Tako svježe, tako dobro.",
+      "category": "Food",
+      "generated_at": "2026-06-27T18:07:25.695184"
+    },
+    {
+      "english": "More bread, if you can.",
+      "bosnian": "Još hljeba, ako može.",
+      "transliteration": "Još hljeba, ako može.",
+      "category": "Food",
+      "generated_at": "2026-06-27T18:07:25.695185"
+    },
+    {
+      "english": "Is this homemade?",
+      "bosnian": "Je li ovo domaće?",
+      "transliteration": "Je li ovo domaće?",
+      "category": "Food",
+      "generated_at": "2026-06-27T18:07:25.695186"
     }
   ],
-  "last_updated": "2026-06-27T15:10:51.801216"
+  "last_updated": "2026-06-27T18:07:25.695188"
 }
