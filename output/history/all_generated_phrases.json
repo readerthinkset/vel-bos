@@ -1504,7 +1504,42 @@
       "transliteration": "Topli pozdravi svima vama.",
       "category": "Holidays",
       "generated_at": "2026-06-28T13:29:16.268924"
+    },
+    {
+      "english": "I need a doctor, urgently.",
+      "bosnian": "Hitno mi treba doktor.",
+      "transliteration": "Hitno mi treba doktor.",
+      "category": "Emergency",
+      "generated_at": "2026-06-28T15:13:22.248545"
+    },
+    {
+      "english": "Someone fell, here.",
+      "bosnian": "Neko je pao, ovdje.",
+      "transliteration": "Neko je pao, ovdje.",
+      "category": "Emergency",
+      "generated_at": "2026-06-28T15:13:22.248555"
+    },
+    {
+      "english": "My child is sick.",
+      "bosnian": "Moje dijete je bolesno.",
+      "transliteration": "Moje dijete je bolesno.",
+      "category": "Emergency",
+      "generated_at": "2026-06-28T15:13:22.248557"
+    },
+    {
+      "english": "There's been an accident.",
+      "bosnian": "Desila se nesreća.",
+      "transliteration": "Desila se nesreća.",
+      "category": "Emergency",
+      "generated_at": "2026-06-28T15:13:22.248559"
+    },
+    {
+      "english": "I can't breathe.",
+      "bosnian": "Ne mogu disati.",
+      "transliteration": "Ne mogu disati.",
+      "category": "Emergency",
+      "generated_at": "2026-06-28T15:13:22.248560"
     }
   ],
-  "last_updated": "2026-06-28T13:29:16.268925"
+  "last_updated": "2026-06-28T15:13:22.248562"
 }
