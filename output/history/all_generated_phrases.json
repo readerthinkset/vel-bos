@@ -1539,7 +1539,42 @@
       "transliteration": "Ne mogu disati.",
       "category": "Emergency",
       "generated_at": "2026-06-28T15:13:22.248560"
+    },
+    {
+      "english": "Blue sky, white clouds. Peaceful.",
+      "bosnian": "Plavo nebo, bijeli oblaci. Mirno.",
+      "transliteration": "Plavo nebo, bijeli oblaci. Mirno.",
+      "category": "Colors",
+      "generated_at": "2026-06-28T18:08:08.950654"
+    },
+    {
+      "english": "Green grass, fresh start.",
+      "bosnian": "Zelena trava, svjež početak.",
+      "transliteration": "Zelena trava, svjež početak.",
+      "category": "Colors",
+      "generated_at": "2026-06-28T18:08:08.950664"
+    },
+    {
+      "english": "Red rose, deep love.",
+      "bosnian": "Crvena ruža, duboka ljubav.",
+      "transliteration": "Crvena ruža, duboka ljubav.",
+      "category": "Colors",
+      "generated_at": "2026-06-28T18:08:08.950665"
+    },
+    {
+      "english": "Yellow sun, warm feeling.",
+      "bosnian": "Žuto sunce, topao osjećaj.",
+      "transliteration": "Žuto sunce, topao osjećaj.",
+      "category": "Colors",
+      "generated_at": "2026-06-28T18:08:08.950666"
+    },
+    {
+      "english": "Black night, quiet sleep.",
+      "bosnian": "Crna noć, miran san.",
+      "transliteration": "Crna noć, miran san.",
+      "category": "Colors",
+      "generated_at": "2026-06-28T18:08:08.950667"
     }
   ],
-  "last_updated": "2026-06-28T15:13:22.248562"
+  "last_updated": "2026-06-28T18:08:08.950669"
 }
