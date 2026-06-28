@@ -1434,7 +1434,42 @@
       "transliteration": "L'oobav rah-steh, s vrye-menom.",
       "category": "Relationships",
       "generated_at": "2026-06-27T21:10:55.476627"
+    },
+    {
+      "english": "Listen closely, feel the rhythm.",
+      "bosnian": "Slušaj pažljivo, osjeti ritam.",
+      "transliteration": "Slushay pazhljivo, os'eti ritam.",
+      "category": "Music",
+      "generated_at": "2026-06-28T04:21:37.347010"
+    },
+    {
+      "english": "Sing your heart out, loud.",
+      "bosnian": "Pjevaj iz sveg srca, glasno.",
+      "transliteration": "P'evay iz sveg srca, glasno.",
+      "category": "Music",
+      "generated_at": "2026-06-28T04:21:37.347020"
+    },
+    {
+      "english": "Dance like nobody's watching.",
+      "bosnian": "Pleši kao da niko ne gleda.",
+      "transliteration": "Plesh'i kao da niko ne gleda.",
+      "category": "Music",
+      "generated_at": "2026-06-28T04:21:37.347022"
+    },
+    {
+      "english": "Melody fills the air.",
+      "bosnian": "Melodija ispunjava zrak.",
+      "transliteration": "Melodiya ispun'ava zrak.",
+      "category": "Music",
+      "generated_at": "2026-06-28T04:21:37.347023"
+    },
+    {
+      "english": "Notes flow, sweet and clear.",
+      "bosnian": "Note teku, slatke i jasne.",
+      "transliteration": "Note teku, slatke i y'asne.",
+      "category": "Music",
+      "generated_at": "2026-06-28T04:21:37.347024"
     }
   ],
-  "last_updated": "2026-06-27T21:10:55.476629"
+  "last_updated": "2026-06-28T04:21:37.347026"
 }
