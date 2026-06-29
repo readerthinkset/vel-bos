@@ -1644,7 +1644,42 @@
       "transliteration": "Novi jezik, novi svijet.",
       "category": "Education",
       "generated_at": "2026-06-29T04:41:13.511551"
+    },
+    {
+      "english": "The cat naps, softly purring.",
+      "bosnian": "Mačka drijema, tiho prede.",
+      "transliteration": "Machka dri-yema, tee-ho pre-deh.",
+      "category": "Animals",
+      "generated_at": "2026-06-29T15:40:45.262490"
+    },
+    {
+      "english": "A dog barks, loud and clear.",
+      "bosnian": "Pas laje, glasno i jasno.",
+      "transliteration": "Pas la-yeh, glas-no ee yas-no.",
+      "category": "Animals",
+      "generated_at": "2026-06-29T15:40:45.262501"
+    },
+    {
+      "english": "Birds sing, in the morning.",
+      "bosnian": "Ptice pjevaju, ujutro.",
+      "transliteration": "Ptee-tsay pye-va-yoo, oo-yoo-tro.",
+      "category": "Animals",
+      "generated_at": "2026-06-29T15:40:45.262503"
+    },
+    {
+      "english": "Fish swim, in the deep blue.",
+      "bosnian": "Ribe plivaju, u dubokom plavom.",
+      "transliteration": "Ree-bay plee-va-yoo, oo doo-bo-kom pla-vom.",
+      "category": "Animals",
+      "generated_at": "2026-06-29T15:40:45.262504"
+    },
+    {
+      "english": "A bee buzzes, near the flowers.",
+      "bosnian": "Pčela zuji, blizu cvijeća.",
+      "transliteration": "Pcheh-la zoo-yee, bleez-oo tsvee-yeh-cha.",
+      "category": "Animals",
+      "generated_at": "2026-06-29T15:40:45.262505"
     }
   ],
-  "last_updated": "2026-06-29T04:41:13.511553"
+  "last_updated": "2026-06-29T15:40:45.262507"
 }
