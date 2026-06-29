@@ -1609,7 +1609,42 @@
       "transliteration": "Gde mo-gu na-chi, do-ma-che ru-ko-tvo-ri-ne?",
       "category": "Travel",
       "generated_at": "2026-06-28T21:08:59.672392"
+    },
+    {
+      "english": "Learn Bosnian, step by step.",
+      "bosnian": "Uči bosanski, korak po korak.",
+      "transliteration": "Uchi bosanski, korak po korak.",
+      "category": "Education",
+      "generated_at": "2026-06-29T04:41:13.511535"
+    },
+    {
+      "english": "Open a book, open your mind.",
+      "bosnian": "Otvori knjigu, otvori um.",
+      "transliteration": "Otvori knjigu, otvori um.",
+      "category": "Education",
+      "generated_at": "2026-06-29T04:41:13.511543"
+    },
+    {
+      "english": "Practice makes perfect, always.",
+      "bosnian": "Vježba čini majstora, uvijek.",
+      "transliteration": "Vježba čini majstora, uvijek.",
+      "category": "Education",
+      "generated_at": "2026-06-29T04:41:13.511545"
+    },
+    {
+      "english": "Every word counts, really.",
+      "bosnian": "Svaka riječ je važna, zaista.",
+      "transliteration": "Svaka riječ je važna, zaista.",
+      "category": "Education",
+      "generated_at": "2026-06-29T04:41:13.511546"
+    },
+    {
+      "english": "New language, new world.",
+      "bosnian": "Novi jezik, novi svijet.",
+      "transliteration": "Novi jezik, novi svijet.",
+      "category": "Education",
+      "generated_at": "2026-06-29T04:41:13.511551"
     }
   ],
-  "last_updated": "2026-06-28T21:08:59.672393"
+  "last_updated": "2026-06-29T04:41:13.511553"
 }
