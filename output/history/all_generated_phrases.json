@@ -1749,7 +1749,42 @@
       "transliteration": "Trenutak čiste sreće.",
       "category": "Joy",
       "generated_at": "2026-06-29T19:06:11.012912"
+    },
+    {
+      "english": "Let's get to work, team.",
+      "bosnian": "Idemo na posao, tim.",
+      "transliteration": "Idemo na posao, tim.",
+      "category": "Work",
+      "generated_at": "2026-06-29T21:39:25.466948"
+    },
+    {
+      "english": "This task is challenging, but doable.",
+      "bosnian": "Ovaj zadatak je težak, ali izvodljiv.",
+      "transliteration": "Ovaj zadatak je težak, ali izvodljiv.",
+      "category": "Work",
+      "generated_at": "2026-06-29T21:39:25.466957"
+    },
+    {
+      "english": "My colleague is very helpful.",
+      "bosnian": "Moj kolega, mnogo pomaže.",
+      "transliteration": "Moj kolega, mnogo pomaže.",
+      "category": "Work",
+      "generated_at": "2026-06-29T21:39:25.466959"
+    },
+    {
+      "english": "We need more supplies, quickly.",
+      "bosnian": "Treba nam više zaliha, brzo.",
+      "transliteration": "Treba nam više zaliha, brzo.",
+      "category": "Work",
+      "generated_at": "2026-06-29T21:39:25.466960"
+    },
+    {
+      "english": "The deadline is approaching, so hurry.",
+      "bosnian": "Rok se približava, požuri.",
+      "transliteration": "Rok se približava, požuri.",
+      "category": "Work",
+      "generated_at": "2026-06-29T21:39:25.466961"
     }
   ],
-  "last_updated": "2026-06-29T19:06:11.012914"
+  "last_updated": "2026-06-29T21:39:25.466966"
 }
