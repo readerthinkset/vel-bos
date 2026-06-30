@@ -1819,7 +1819,42 @@
       "transliteration": "Oh-koo-see trah-dee-tsee-yoo, sah svah-keem zah-loh-gai-yem.",
       "category": "Culture",
       "generated_at": "2026-06-30T04:08:23.582169"
+    },
+    {
+      "english": "My head, it aches.",
+      "bosnian": "Moja glava, boli.",
+      "transliteration": "Moya glava, boli.",
+      "category": "Body Parts",
+      "generated_at": "2026-06-30T14:11:32.667252"
+    },
+    {
+      "english": "Touch your nose, quickly.",
+      "bosnian": "Dotakni nos, brzo.",
+      "transliteration": "Dotakni nos, brzo.",
+      "category": "Body Parts",
+      "generated_at": "2026-06-30T14:11:32.667260"
+    },
+    {
+      "english": "See my eyes, my dear.",
+      "bosnian": "Vidi moje oči, draga.",
+      "transliteration": "Vidi moye oči, draga.",
+      "category": "Body Parts",
+      "generated_at": "2026-06-30T14:11:32.667262"
+    },
+    {
+      "english": "Hear with your ears.",
+      "bosnian": "Čuj svojim ušima.",
+      "transliteration": "Chuy svoyim ušima.",
+      "category": "Body Parts",
+      "generated_at": "2026-06-30T14:11:32.667263"
+    },
+    {
+      "english": "Open your mouth, please.",
+      "bosnian": "Otvori usta, molim.",
+      "transliteration": "Otvori usta, molim.",
+      "category": "Body Parts",
+      "generated_at": "2026-06-30T14:11:32.667265"
     }
   ],
-  "last_updated": "2026-06-30T04:08:23.582171"
+  "last_updated": "2026-06-30T14:11:32.667266"
 }
