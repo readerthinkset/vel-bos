@@ -1854,7 +1854,42 @@
       "transliteration": "Otvori usta, molim.",
       "category": "Body Parts",
       "generated_at": "2026-06-30T14:11:32.667265"
+    },
+    {
+      "english": "Green forest, quiet river.",
+      "bosnian": "Zelena šuma, mirna rijeka.",
+      "transliteration": "Zelena shuma, mirna rijeka.",
+      "category": "Nature",
+      "generated_at": "2026-06-30T16:18:24.698381"
+    },
+    {
+      "english": "Sun shines, birds sing.",
+      "bosnian": "Sunce sija, ptice pjevaju.",
+      "transliteration": "Sunce sija, ptice pjevaju.",
+      "category": "Nature",
+      "generated_at": "2026-06-30T16:18:24.698390"
+    },
+    {
+      "english": "Mountains high, clouds float.",
+      "bosnian": "Visoke planine, oblaci plove.",
+      "transliteration": "Visoke planine, oblaci plove.",
+      "category": "Nature",
+      "generated_at": "2026-06-30T16:18:24.698391"
+    },
+    {
+      "english": "Ocean deep, waves crash.",
+      "bosnian": "Duboki okean, valovi udaraju.",
+      "transliteration": "Duboki okean, valovi udaraju.",
+      "category": "Nature",
+      "generated_at": "2026-06-30T16:18:24.698393"
+    },
+    {
+      "english": "Stars twinkle, night sky.",
+      "bosnian": "Zvijezde trepere, noćno nebo.",
+      "transliteration": "Zvijezde trepere, noćno nebo.",
+      "category": "Nature",
+      "generated_at": "2026-06-30T16:18:24.698394"
     }
   ],
-  "last_updated": "2026-06-30T14:11:32.667266"
+  "last_updated": "2026-06-30T16:18:24.698396"
 }
