@@ -1889,7 +1889,42 @@
       "transliteration": "Zvijezde trepere, noćno nebo.",
       "category": "Nature",
       "generated_at": "2026-06-30T16:18:24.698394"
+    },
+    {
+      "english": "Just one, maybe two.",
+      "bosnian": "Samo jedan, možda dva.",
+      "transliteration": "Samo jedan, možda dva.",
+      "category": "Numbers",
+      "generated_at": "2026-06-30T18:59:05.708329"
+    },
+    {
+      "english": "We need three, no more.",
+      "bosnian": "Treba nam tri, ništa više.",
+      "transliteration": "Treba nam tri, ništa više.",
+      "category": "Numbers",
+      "generated_at": "2026-06-30T18:59:05.708337"
+    },
+    {
+      "english": "Found four, by the river.",
+      "bosnian": "Nađoh četiri, kod rijeke.",
+      "transliteration": "Nađoh četiri, kod rijeke.",
+      "category": "Numbers",
+      "generated_at": "2026-06-30T18:59:05.708339"
+    },
+    {
+      "english": "That's five, for sure.",
+      "bosnian": "To je pet, sigurno.",
+      "transliteration": "To je pet, sigurno.",
+      "category": "Numbers",
+      "generated_at": "2026-06-30T18:59:05.708340"
+    },
+    {
+      "english": "Six friends, gathered here.",
+      "bosnian": "Šest prijatelja, ovdje skupljenih.",
+      "transliteration": "Šest prijatelja, ovdje skupljenih.",
+      "category": "Numbers",
+      "generated_at": "2026-06-30T18:59:05.708341"
     }
   ],
-  "last_updated": "2026-06-30T16:18:24.698396"
+  "last_updated": "2026-06-30T18:59:05.708343"
 }
