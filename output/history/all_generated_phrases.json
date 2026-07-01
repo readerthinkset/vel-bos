@@ -2064,7 +2064,42 @@
       "transliteration": "Neka čuđenje procvjeta, bujno.",
       "category": "Creativity",
       "generated_at": "2026-07-01T16:20:15.969564"
+    },
+    {
+      "english": "Listen closely, try again.",
+      "bosnian": "Slušaj pažljivo, probaj ponovo.",
+      "transliteration": "Slushai pazhljivo, probai ponovo.",
+      "category": "Directions",
+      "generated_at": "2026-07-01T19:00:41.382560"
+    },
+    {
+      "english": "Read aloud, speak clearly.",
+      "bosnian": "Čitaj naglas, govori jasno.",
+      "transliteration": "Chitai naglas, govori yasno.",
+      "category": "Directions",
+      "generated_at": "2026-07-01T19:00:41.382569"
+    },
+    {
+      "english": "Write this down, remember it.",
+      "bosnian": "Zapiši ovo, zapamti.",
+      "transliteration": "Zapishi ovo, zapamti.",
+      "category": "Directions",
+      "generated_at": "2026-07-01T19:00:41.382571"
+    },
+    {
+      "english": "Repeat after me, slowly.",
+      "bosnian": "Ponovi za mnom, polako.",
+      "transliteration": "Ponovi za mnom, polako.",
+      "category": "Directions",
+      "generated_at": "2026-07-01T19:00:41.382572"
+    },
+    {
+      "english": "Open your book, page ten.",
+      "bosnian": "Otvori knjigu, strana deset.",
+      "transliteration": "Otvori knjigu, strana deset.",
+      "category": "Directions",
+      "generated_at": "2026-07-01T19:00:41.382573"
     }
   ],
-  "last_updated": "2026-07-01T16:20:15.969565"
+  "last_updated": "2026-07-01T19:00:41.382575"
 }
