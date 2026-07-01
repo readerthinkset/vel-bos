@@ -2099,7 +2099,42 @@
       "transliteration": "Otvori knjigu, strana deset.",
       "category": "Directions",
       "generated_at": "2026-07-01T19:00:41.382573"
+    },
+    {
+      "english": "You're my sunshine, on cloudy days.",
+      "bosnian": "Ti si moje sunce, u tmurnim danima.",
+      "transliteration": "Ti si moje sunce, u tmurnim danima.",
+      "category": "Friendship",
+      "generated_at": "2026-07-01T21:41:47.572506"
+    },
+    {
+      "english": "We laugh, we cry, we're family.",
+      "bosnian": "Smijemo se, plačemo, porodica smo.",
+      "transliteration": "Smijemo se, plačemo, porodica smo.",
+      "category": "Friendship",
+      "generated_at": "2026-07-01T21:41:47.572517"
+    },
+    {
+      "english": "Always there, for me, you are.",
+      "bosnian": "Uvijek tu, za mene, ti si.",
+      "transliteration": "Uvijek tu, za mene, ti si.",
+      "category": "Friendship",
+      "generated_at": "2026-07-01T21:41:47.572519"
+    },
+    {
+      "english": "Shared secrets, strong bonds.",
+      "bosnian": "Podijeljene tajne, snažne veze.",
+      "transliteration": "Podijeljene tajne, snažne veze.",
+      "category": "Friendship",
+      "generated_at": "2026-07-01T21:41:47.572521"
+    },
+    {
+      "english": "Through thick, and thin, we go.",
+      "bosnian": "Kroz dobro, i zlo, idemo zajedno.",
+      "transliteration": "Kroz dobro, i zlo, idemo zajedno.",
+      "category": "Friendship",
+      "generated_at": "2026-07-01T21:41:47.572522"
     }
   ],
-  "last_updated": "2026-07-01T19:00:41.382575"
+  "last_updated": "2026-07-01T21:41:47.572524"
 }
