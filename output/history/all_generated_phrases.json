@@ -2204,7 +2204,42 @@
       "transliteration": "Otkri lepoyu, u gramatici.",
       "category": "Purpose",
       "generated_at": "2026-07-02T13:51:22.171151"
+    },
+    {
+      "english": "Morning light, greets the day.",
+      "bosnian": "Jutarnje svjetlo, pozdravlja dan.",
+      "transliteration": "Jutarnje svjetlo, pozdravlja dan.",
+      "category": "Time",
+      "generated_at": "2026-07-02T16:01:48.654256"
+    },
+    {
+      "english": "Midday sun, shines so bright.",
+      "bosnian": "Podnevno sunce, sija jako jako.",
+      "transliteration": "Podnevno sunce, sija jako jako.",
+      "category": "Time",
+      "generated_at": "2026-07-02T16:01:48.654267"
+    },
+    {
+      "english": "Evening breeze, whispers secrets.",
+      "bosnian": "Večernji povjetarac, šapuće tajne.",
+      "transliteration": "Večernji povjetarac, šapuće tajne.",
+      "category": "Time",
+      "generated_at": "2026-07-02T16:01:48.654269"
+    },
+    {
+      "english": "Night falls, stars appear.",
+      "bosnian": "Noć pada, zvijezde se pojavljuju.",
+      "transliteration": "Noć pada, zvijezde se pojavljuju.",
+      "category": "Time",
+      "generated_at": "2026-07-02T16:01:48.654270"
+    },
+    {
+      "english": "Soon, we will go.",
+      "bosnian": "Uskoro, idemo.",
+      "transliteration": "Uskoro, idemo.",
+      "category": "Time",
+      "generated_at": "2026-07-02T16:01:48.654272"
     }
   ],
-  "last_updated": "2026-07-02T13:51:22.171152"
+  "last_updated": "2026-07-02T16:01:48.654273"
 }
