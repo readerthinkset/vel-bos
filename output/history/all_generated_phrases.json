@@ -2274,7 +2274,42 @@
       "transliteration": "Toplo sunce, osjeti vruchinu.",
       "category": "Weather",
       "generated_at": "2026-07-02T18:27:19.260140"
+    },
+    {
+      "english": "This is delicious, truly.",
+      "bosnian": "Ovo je ukusno, zaista.",
+      "transliteration": "Ovo je ukusno, zaista.",
+      "category": "Basic Phrases",
+      "generated_at": "2026-07-02T21:14:48.616216"
+    },
+    {
+      "english": "I like this song.",
+      "bosnian": "Sviđa mi se ova pjesma.",
+      "transliteration": "Sviđa mi se ova pjesma.",
+      "category": "Basic Phrases",
+      "generated_at": "2026-07-02T21:14:48.616225"
+    },
+    {
+      "english": "Where is the bus?",
+      "bosnian": "Gdje je autobus?",
+      "transliteration": "Gdje je autobus?",
+      "category": "Basic Phrases",
+      "generated_at": "2026-07-02T21:14:48.616227"
+    },
+    {
+      "english": "What time is it?",
+      "bosnian": "Koliko je sati?",
+      "transliteration": "Koliko je sati?",
+      "category": "Basic Phrases",
+      "generated_at": "2026-07-02T21:14:48.616229"
+    },
+    {
+      "english": "I need water, please.",
+      "bosnian": "Trebam vodu, molim.",
+      "transliteration": "Trebam vodu, molim.",
+      "category": "Basic Phrases",
+      "generated_at": "2026-07-02T21:14:48.616230"
     }
   ],
-  "last_updated": "2026-07-02T18:27:19.260142"
+  "last_updated": "2026-07-02T21:14:48.616231"
 }
