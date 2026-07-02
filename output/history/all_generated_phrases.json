@@ -2239,7 +2239,42 @@
       "transliteration": "Uskoro, idemo.",
       "category": "Time",
       "generated_at": "2026-07-02T16:01:48.654272"
+    },
+    {
+      "english": "Sunny skies, perfect day.",
+      "bosnian": "Sunčano nebo, savršen dan.",
+      "transliteration": "Sunchano nebo, savrshen dan.",
+      "category": "Weather",
+      "generated_at": "2026-07-02T18:27:19.260125"
+    },
+    {
+      "english": "Clouds are gathering, rain soon.",
+      "bosnian": "Oblaci se skupljaju, kiša uskoro.",
+      "transliteration": "Oblaci se skupljaju, kisha uskoroo.",
+      "category": "Weather",
+      "generated_at": "2026-07-02T18:27:19.260136"
+    },
+    {
+      "english": "Wind is blowing, strong today.",
+      "bosnian": "Vjetar duva, danas jako.",
+      "transliteration": "Vjetar duva, danas yako.",
+      "category": "Weather",
+      "generated_at": "2026-07-02T18:27:19.260138"
+    },
+    {
+      "english": "It's freezing outside, bundle up.",
+      "bosnian": "Vanjska je hladnoća, obući se toplo.",
+      "transliteration": "Vansjska ye hladnoca, obuchi se toplo.",
+      "category": "Weather",
+      "generated_at": "2026-07-02T18:27:19.260139"
+    },
+    {
+      "english": "Warm sunshine, feel the heat.",
+      "bosnian": "Toplo sunce, osjeti vrućinu.",
+      "transliteration": "Toplo sunce, osjeti vruchinu.",
+      "category": "Weather",
+      "generated_at": "2026-07-02T18:27:19.260140"
     }
   ],
-  "last_updated": "2026-07-02T16:01:48.654273"
+  "last_updated": "2026-07-02T18:27:19.260142"
 }
