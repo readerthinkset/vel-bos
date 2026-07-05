@@ -2799,7 +2799,42 @@
       "transliteration": "Nastavite s odličnim trudom.",
       "category": "Work",
       "generated_at": "2026-07-05T18:06:29.978684"
+    },
+    {
+      "english": "Something is wrong, hear me?",
+      "bosnian": "Nešto nije u redu, čujete li me?",
+      "transliteration": "Neshto nije u redu, chu-yeh-teh li meh?",
+      "category": "Emergency",
+      "generated_at": "2026-07-05T21:08:14.038531"
+    },
+    {
+      "english": "I feel dizzy, need to sit.",
+      "bosnian": "Vrti mi se, moram sjesti.",
+      "transliteration": "Vrti mi seh, moram syes-ti.",
+      "category": "Emergency",
+      "generated_at": "2026-07-05T21:08:14.038543"
+    },
+    {
+      "english": "My leg is hurt, can you assist?",
+      "bosnian": "Noga me boli, možete li pomoći?",
+      "transliteration": "Noga meh boli, mozhe-teh li pomochi?",
+      "category": "Emergency",
+      "generated_at": "2026-07-05T21:08:14.038545"
+    },
+    {
+      "english": "There's a gas leak, smell it?",
+      "bosnian": "Curi plin, osjetite li?",
+      "transliteration": "Churi plin, os-yet-eh teh li?",
+      "category": "Emergency",
+      "generated_at": "2026-07-05T21:08:14.038546"
+    },
+    {
+      "english": "I need water, very thirsty.",
+      "bosnian": "Treba mi vode, baš sam žedan.",
+      "transliteration": "Tre-bah mi vo-deh, bash sam zheh-dahn.",
+      "category": "Emergency",
+      "generated_at": "2026-07-05T21:08:14.038547"
     }
   ],
-  "last_updated": "2026-07-05T18:06:29.978686"
+  "last_updated": "2026-07-05T21:08:14.038549"
 }
