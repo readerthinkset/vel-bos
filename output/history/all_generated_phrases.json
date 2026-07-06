@@ -2974,7 +2974,42 @@
       "transliteration": "Šal-jem lju-bav, i-zde-le-ka.",
       "category": "Holidays",
       "generated_at": "2026-07-06T19:00:56.630812"
+    },
+    {
+      "english": "Drink water, feel better.",
+      "bosnian": "Pij vodu, osjećaj se bolje.",
+      "transliteration": "Piy voh-doo, oh-seh-cha-y se boh-lyeh.",
+      "category": "Health",
+      "generated_at": "2026-07-06T21:40:35.800651"
+    },
+    {
+      "english": "Eat well, live long.",
+      "bosnian": "Jedi zdravo, živi dugo.",
+      "transliteration": "Yeh-dee zhah-vro, zhee-vee doo-goh.",
+      "category": "Health",
+      "generated_at": "2026-07-06T21:40:35.800659"
+    },
+    {
+      "english": "Sleep enough, stay strong.",
+      "bosnian": "Spavaj dovoljno, budi jak.",
+      "transliteration": "Spah-vay doh-vol-nyoh, boo-dee yahk.",
+      "category": "Health",
+      "generated_at": "2026-07-06T21:40:35.800661"
+    },
+    {
+      "english": "Move your body, daily.",
+      "bosnian": "Kreći tijelo, svakodnevno.",
+      "transliteration": "Kreh-chee tee-yeh-loh, svah-koh-dev-noh.",
+      "category": "Health",
+      "generated_at": "2026-07-06T21:40:35.800662"
+    },
+    {
+      "english": "Fresh air, good for you.",
+      "bosnian": "Svež vazduh, dobro je.",
+      "transliteration": "Sveh-zh vahz-doohkh, doh-broh yeh.",
+      "category": "Health",
+      "generated_at": "2026-07-06T21:40:35.800663"
     }
   ],
-  "last_updated": "2026-07-06T19:00:56.630813"
+  "last_updated": "2026-07-06T21:40:35.800665"
 }
