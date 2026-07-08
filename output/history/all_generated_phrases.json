@@ -3254,7 +3254,42 @@
       "transliteration": "Osjećaj čuđenja, obuzima me.",
       "category": "Feelings",
       "generated_at": "2026-07-08T18:20:56.455406"
+    },
+    {
+      "english": "Quiet now, the song begins.",
+      "bosnian": "Tiho sad, pjesma počinje.",
+      "transliteration": "Tiho sad, pjesma pochinye.",
+      "category": "Music",
+      "generated_at": "2026-07-08T21:14:02.593757"
+    },
+    {
+      "english": "Can you hear that echo?",
+      "bosnian": "Čuješ li taj odjek?",
+      "transliteration": "Chuyesh li tay odyèk?",
+      "category": "Music",
+      "generated_at": "2026-07-08T21:14:02.593772"
+    },
+    {
+      "english": "Let the beat guide you.",
+      "bosnian": "Neka te vodi ritam.",
+      "transliteration": "Nèka te vodi ritaam.",
+      "category": "Music",
+      "generated_at": "2026-07-08T21:14:02.593774"
+    },
+    {
+      "english": "This tune is lovely, isn't it?",
+      "bosnian": "Ova melodija je divna, zar ne?",
+      "transliteration": "Ova melodiya yè divna, zar nè?",
+      "category": "Music",
+      "generated_at": "2026-07-08T21:14:02.593776"
+    },
+    {
+      "english": "Feel the vibration, deep inside.",
+      "bosnian": "Osjeti vibraciju, duboko u sebi.",
+      "transliteration": "Osèti vibratsiyu, duboko oo sèbi.",
+      "category": "Music",
+      "generated_at": "2026-07-08T21:14:02.593777"
     }
   ],
-  "last_updated": "2026-07-08T18:20:56.455408"
+  "last_updated": "2026-07-08T21:14:02.593779"
 }
