@@ -3429,7 +3429,42 @@
       "transliteration": "Pogodite značenje, šta to sugeriše?",
       "category": "Directions",
       "generated_at": "2026-07-09T18:51:54.952496"
+    },
+    {
+      "english": "A moment, to reflect.",
+      "bosnian": "Trenutak, za razmišljanje.",
+      "transliteration": "Trenutak, za razmišljanje.",
+      "category": "Time",
+      "generated_at": "2026-07-09T21:26:44.402469"
+    },
+    {
+      "english": "The clock, ticks on.",
+      "bosnian": "Sat, otkucava.",
+      "transliteration": "Sat, otkucava.",
+      "category": "Time",
+      "generated_at": "2026-07-09T21:26:44.402479"
+    },
+    {
+      "english": "In due time, all will be clear.",
+      "bosnian": "Svojim vremenom, sve će biti jasno.",
+      "transliteration": "Svojim vremenom, sve će biti jasno.",
+      "category": "Time",
+      "generated_at": "2026-07-09T21:26:44.402481"
+    },
+    {
+      "english": "Just a second, please.",
+      "bosnian": "Samo tren, molim.",
+      "transliteration": "Samo tren, molim.",
+      "category": "Time",
+      "generated_at": "2026-07-09T21:26:44.402482"
+    },
+    {
+      "english": "It was yesterday, I remember.",
+      "bosnian": "Bilo je jučer, sjećam se.",
+      "transliteration": "Bilo je jučer, sjećam se.",
+      "category": "Time",
+      "generated_at": "2026-07-09T21:26:44.402483"
     }
   ],
-  "last_updated": "2026-07-09T18:51:54.952500"
+  "last_updated": "2026-07-09T21:26:44.402485"
 }
