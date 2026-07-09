@@ -3394,7 +3394,42 @@
       "transliteration": "Generacije se povezuju, kroz zajednički smijeh.",
       "category": "Culture",
       "generated_at": "2026-07-09T16:24:12.541767"
+    },
+    {
+      "english": "Think for a moment, then answer.",
+      "bosnian": "Razmisli trenutak, pa odgovori.",
+      "transliteration": "Razmisli trenutak, pa odgovori.",
+      "category": "Directions",
+      "generated_at": "2026-07-09T18:51:54.952479"
+    },
+    {
+      "english": "Imagine this scene, what do you see?",
+      "bosnian": "Zamislite ovu scenu, šta vidite?",
+      "transliteration": "Zamislite ovu scenu, šta vidite?",
+      "category": "Directions",
+      "generated_at": "2026-07-09T18:51:54.952490"
+    },
+    {
+      "english": "Describe the picture, use your own words.",
+      "bosnian": "Opiszite sliku, svojim riječima.",
+      "transliteration": "Opiszite sliku, svojim riječima.",
+      "category": "Directions",
+      "generated_at": "2026-07-09T18:51:54.952492"
+    },
+    {
+      "english": "Follow the instructions, step by step.",
+      "bosnian": "Pratite upute, korak po korak.",
+      "transliteration": "Pratite upute, korak po korak.",
+      "category": "Directions",
+      "generated_at": "2026-07-09T18:51:54.952494"
+    },
+    {
+      "english": "Guess the meaning, what does it suggest?",
+      "bosnian": "Pogodite značenje, šta to sugeriše?",
+      "transliteration": "Pogodite značenje, šta to sugeriše?",
+      "category": "Directions",
+      "generated_at": "2026-07-09T18:51:54.952496"
     }
   ],
-  "last_updated": "2026-07-09T16:24:12.541768"
+  "last_updated": "2026-07-09T18:51:54.952500"
 }
