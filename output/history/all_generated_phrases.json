@@ -3534,7 +3534,42 @@
       "transliteration": "Ugodan pozdrav tebi.",
       "category": "Greetings",
       "generated_at": "2026-07-10T14:15:24.973086"
+    },
+    {
+      "english": "Your voice, it matters.",
+      "bosnian": "Tvoj glas, on je bitan.",
+      "transliteration": "Tvoy glas, on ye bitan.",
+      "category": "Confidence",
+      "generated_at": "2026-07-10T16:17:55.245112"
+    },
+    {
+      "english": "Little steps, big journey.",
+      "bosnian": "Mali koraci, veliko putovanje.",
+      "transliteration": "Mali koraci, veliko putovanje.",
+      "category": "Confidence",
+      "generated_at": "2026-07-10T16:17:55.245123"
+    },
+    {
+      "english": "Each attempt, a lesson.",
+      "bosnian": "Svaki pokušaj, lekcija.",
+      "transliteration": "Svaki pokušaj, lekcija.",
+      "category": "Confidence",
+      "generated_at": "2026-07-10T16:17:55.245126"
+    },
+    {
+      "english": "Listen closely, then speak.",
+      "bosnian": "Slušaj pažljivo, onda pričaj.",
+      "transliteration": "Slušaj pažljivo, onda pričaj.",
+      "category": "Confidence",
+      "generated_at": "2026-07-10T16:17:55.245127"
+    },
+    {
+      "english": "Your effort, it shines.",
+      "bosnian": "Tvoj trud, on sija.",
+      "transliteration": "Tvoy trud, on sija.",
+      "category": "Confidence",
+      "generated_at": "2026-07-10T16:17:55.245128"
     }
   ],
-  "last_updated": "2026-07-10T14:15:24.973087"
+  "last_updated": "2026-07-10T16:17:55.245130"
 }
