@@ -3604,7 +3604,42 @@
       "transliteration": "Čuvaj uspomene, kao drago kamenje.",
       "category": "Common Expressions",
       "generated_at": "2026-07-10T18:25:14.855693"
+    },
+    {
+      "english": "This scarf, feels so soft.",
+      "bosnian": "Ovaj šal, tako je mekan.",
+      "transliteration": "Ovaj shal, tako ye mekan.",
+      "category": "Clothes",
+      "generated_at": "2026-07-10T21:10:21.647885"
+    },
+    {
+      "english": "I like your hat, very much.",
+      "bosnian": "Tvoja kapa, mi se mnogo sviđa.",
+      "transliteration": "Tvoja kapa, mi se mnogo svidja.",
+      "category": "Clothes",
+      "generated_at": "2026-07-10T21:10:21.647894"
+    },
+    {
+      "english": "These socks, keep my feet warm.",
+      "bosnian": "Ove čarape, griju mi stopala.",
+      "transliteration": "Ove charape, griju mi stopala.",
+      "category": "Clothes",
+      "generated_at": "2026-07-10T21:10:21.647896"
+    },
+    {
+      "english": "Is this shirt, too tight?",
+      "bosnian": "Je li ova košulja, preusko?",
+      "transliteration": "Ye li ova koshulja, preusko?",
+      "category": "Clothes",
+      "generated_at": "2026-07-10T21:10:21.647900"
+    },
+    {
+      "english": "I'm looking for gloves, for winter.",
+      "bosnian": "Tražim rukavice, za zimu.",
+      "transliteration": "Trazhim rukavice, za zimu.",
+      "category": "Clothes",
+      "generated_at": "2026-07-10T21:10:21.647901"
     }
   ],
-  "last_updated": "2026-07-10T18:25:14.855694"
+  "last_updated": "2026-07-10T21:10:21.647903"
 }
