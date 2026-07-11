@@ -3779,7 +3779,42 @@
       "transliteration": "Daj sve od sebe.",
       "category": "Sports",
       "generated_at": "2026-07-11T17:56:38.865876"
+    },
+    {
+      "english": "Danger here, move back.",
+      "bosnian": "Opasnost ovdje, povucite se.",
+      "transliteration": "Opasnost ovdje, povucite se.",
+      "category": "Emergency",
+      "generated_at": "2026-07-11T20:56:39.018017"
+    },
+    {
+      "english": "Need a safe place, now.",
+      "bosnian": "Trebam sigurno mjesto, odmah.",
+      "transliteration": "Trebam sigurno mjesto, odmah.",
+      "category": "Emergency",
+      "generated_at": "2026-07-11T20:56:39.018027"
+    },
+    {
+      "english": "Someone is trapped, help!",
+      "bosnian": "Netko je zarobljen, pomozite!",
+      "transliteration": "Netko je zarobljen, pomozite!",
+      "category": "Emergency",
+      "generated_at": "2026-07-11T20:56:39.018029"
+    },
+    {
+      "english": "I cannot find my way.",
+      "bosnian": "Ne mogu pronaći put.",
+      "transliteration": "Ne mogu pronaći put.",
+      "category": "Emergency",
+      "generated_at": "2026-07-11T20:56:39.018030"
+    },
+    {
+      "english": "Is there an exit nearby?",
+      "bosnian": "Ima li izlaz u blizini?",
+      "transliteration": "Ima li izlaz u blizini?",
+      "category": "Emergency",
+      "generated_at": "2026-07-11T20:56:39.018031"
     }
   ],
-  "last_updated": "2026-07-11T17:56:38.865877"
+  "last_updated": "2026-07-11T20:56:39.018033"
 }
