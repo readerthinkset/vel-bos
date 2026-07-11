@@ -3709,7 +3709,42 @@
       "transliteration": "O-bu-tsi se pa-zhli-vo, os-je-chai o-sh-tri-ne.",
       "category": "Daily Routine",
       "generated_at": "2026-07-11T13:10:12.450676"
+    },
+    {
+      "english": "Excuse me, how much is this, exactly?",
+      "bosnian": "Izvinite, koliko je ovo, tačno?",
+      "transliteration": "iz-VEE-nee-teh, KOL-ee-koh yeh OH-voh, TA-chnoh?",
+      "category": "Shopping",
+      "generated_at": "2026-07-11T14:45:26.975081"
+    },
+    {
+      "english": "I need, some fresh fruit.",
+      "bosnian": "Treba mi, svježeg voća.",
+      "transliteration": "TREH-bah mee, SVYEH-zheg VOH-cha.",
+      "category": "Shopping",
+      "generated_at": "2026-07-11T14:45:26.975091"
+    },
+    {
+      "english": "Do you have, any local cheese?",
+      "bosnian": "Imate li, domaći sir?",
+      "transliteration": "EE-mah-teh lee, doh-MAH-chee seer?",
+      "category": "Shopping",
+      "generated_at": "2026-07-11T14:45:26.975093"
+    },
+    {
+      "english": "Where is the, pharmacy section?",
+      "bosnian": "Gdje je, apotekarski odjel?",
+      "transliteration": "GDYAY yeh, ah-poh-TEH-kar-skee OD-yel?",
+      "category": "Shopping",
+      "generated_at": "2026-07-11T14:45:26.975094"
+    },
+    {
+      "english": "This is perfect, thank you.",
+      "bosnian": "Ovo je savršeno, hvala.",
+      "transliteration": "OH-voh yeh SAH-ver-sheh-noh, HVAH-lah.",
+      "category": "Shopping",
+      "generated_at": "2026-07-11T14:45:26.975096"
     }
   ],
-  "last_updated": "2026-07-11T13:10:12.450678"
+  "last_updated": "2026-07-11T14:45:26.975097"
 }
