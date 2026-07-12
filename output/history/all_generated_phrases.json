@@ -3814,7 +3814,42 @@
       "transliteration": "Ima li izlaz u blizini?",
       "category": "Emergency",
       "generated_at": "2026-07-11T20:56:39.018031"
+    },
+    {
+      "english": "Gently, touch your chin.",
+      "bosnian": "Nježno, dotakni bradu.",
+      "transliteration": "Njezhno, dotakni bradu.",
+      "category": "Body Parts",
+      "generated_at": "2026-07-12T03:30:41.233385"
+    },
+    {
+      "english": "Show me, your lovely smile.",
+      "bosnian": "Pokaži mi, osmijeh tvoj.",
+      "transliteration": "Pokazhi mi, osmijeh tvoj.",
+      "category": "Body Parts",
+      "generated_at": "2026-07-12T03:30:41.233396"
+    },
+    {
+      "english": "Your strong hand, wave hello.",
+      "bosnian": "Tvoja jaka ruka, mahni.",
+      "transliteration": "Tvoja jaka ruka, mahni.",
+      "category": "Body Parts",
+      "generated_at": "2026-07-12T03:30:41.233398"
+    },
+    {
+      "english": "A quick stretch, for your neck.",
+      "bosnian": "Brzo istezanje, za vrat.",
+      "transliteration": "Brzo istezanje, za vrat.",
+      "category": "Body Parts",
+      "generated_at": "2026-07-12T03:30:41.233400"
+    },
+    {
+      "english": "Feel the breeze, on your cheek.",
+      "bosnian": "Osjeti vjetar, na obrazu.",
+      "transliteration": "Osjeti vjetar, na obrazu.",
+      "category": "Body Parts",
+      "generated_at": "2026-07-12T03:30:41.233401"
     }
   ],
-  "last_updated": "2026-07-11T20:56:39.018033"
+  "last_updated": "2026-07-12T03:30:41.233403"
 }
