@@ -4094,7 +4094,42 @@
       "transliteration": "Ja sam vegetarijanac.",
       "category": "Restaurant",
       "generated_at": "2026-07-13T16:24:28.060770"
+    },
+    {
+      "english": "Sky is weeping, gently now.",
+      "bosnian": "Nebo plače, tiho sada.",
+      "transliteration": "Nebo pla-che, ti-ho sa-da.",
+      "category": "Weather",
+      "generated_at": "2026-07-13T18:46:16.463851"
+    },
+    {
+      "english": "Air feels crisp, a fresh start.",
+      "bosnian": "Zrak je oštar, svježi početak.",
+      "transliteration": "Zrak yeh os-tar, svezh-ee po-chet-ak.",
+      "category": "Weather",
+      "generated_at": "2026-07-13T18:46:16.463863"
+    },
+    {
+      "english": "Sun peeking, through the grey.",
+      "bosnian": "Sunce virka, kroz sivilo.",
+      "transliteration": "Sun-tse veer-ka, kroz see-vee-lo.",
+      "category": "Weather",
+      "generated_at": "2026-07-13T18:46:16.463864"
+    },
+    {
+      "english": "Dewdrops forming, on the leaves.",
+      "bosnian": "Kapljice rose, na lišću.",
+      "transliteration": "Kap-lyee-tse ro-se, na leesh-choo.",
+      "category": "Weather",
+      "generated_at": "2026-07-13T18:46:16.463866"
+    },
+    {
+      "english": "Fog is lifting, slowly, slowly.",
+      "bosnian": "Magla se diže, polako, polako.",
+      "transliteration": "Mag-la seh dee-zheh, po-la-ko, po-la-ko.",
+      "category": "Weather",
+      "generated_at": "2026-07-13T18:46:16.463866"
     }
   ],
-  "last_updated": "2026-07-13T16:24:28.060772"
+  "last_updated": "2026-07-13T18:46:16.463868"
 }
