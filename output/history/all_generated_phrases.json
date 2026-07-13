@@ -4059,7 +4059,42 @@
       "transliteration": "Moj dom, je tamo.",
       "category": "Basic Phrases",
       "generated_at": "2026-07-13T14:26:23.289616"
+    },
+    {
+      "english": "A table for two, please.",
+      "bosnian": "Sto za dvoje, molim.",
+      "transliteration": "Sto za dvoje, molim.",
+      "category": "Restaurant",
+      "generated_at": "2026-07-13T16:24:28.060756"
+    },
+    {
+      "english": "What do you recommend?",
+      "bosnian": "Šta preporučujete?",
+      "transliteration": "Shta preporuchujete?",
+      "category": "Restaurant",
+      "generated_at": "2026-07-13T16:24:28.060767"
+    },
+    {
+      "english": "Can I see the menu?",
+      "bosnian": "Mogu li vidjeti meni?",
+      "transliteration": "Mogu li vidjeti meni?",
+      "category": "Restaurant",
+      "generated_at": "2026-07-13T16:24:28.060768"
+    },
+    {
+      "english": "Is this dish spicy?",
+      "bosnian": "Da li je ovo jelo ljuto?",
+      "transliteration": "Da li je ovo jelo ljuto?",
+      "category": "Restaurant",
+      "generated_at": "2026-07-13T16:24:28.060770"
+    },
+    {
+      "english": "I'm a vegetarian.",
+      "bosnian": "Ja sam vegetarijanac.",
+      "transliteration": "Ja sam vegetarijanac.",
+      "category": "Restaurant",
+      "generated_at": "2026-07-13T16:24:28.060770"
     }
   ],
-  "last_updated": "2026-07-13T14:26:23.289618"
+  "last_updated": "2026-07-13T16:24:28.060772"
 }
