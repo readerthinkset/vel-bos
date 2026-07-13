@@ -4024,7 +4024,42 @@
       "transliteration": "Problem riješen, idemo dalje.",
       "category": "Work",
       "generated_at": "2026-07-13T03:33:33.461755"
+    },
+    {
+      "english": "Sun is shining, beautiful day.",
+      "bosnian": "Sunce sija, lijep dan.",
+      "transliteration": "Sunce sija, lijep dan.",
+      "category": "Basic Phrases",
+      "generated_at": "2026-07-13T14:26:23.289603"
+    },
+    {
+      "english": "This coffee, is strong.",
+      "bosnian": "Ova kafa, je jaka.",
+      "transliteration": "Ova kafa, je jaka.",
+      "category": "Basic Phrases",
+      "generated_at": "2026-07-13T14:26:23.289612"
+    },
+    {
+      "english": "Let's walk, by the river.",
+      "bosnian": "Hajdemo prošetati, pored rijeke.",
+      "transliteration": "Hajdemo prošetati, pored rijeke.",
+      "category": "Basic Phrases",
+      "generated_at": "2026-07-13T14:26:23.289614"
+    },
+    {
+      "english": "What is this, object?",
+      "bosnian": "Šta je ovo, predmet?",
+      "transliteration": "Šta je ovo, predmet?",
+      "category": "Basic Phrases",
+      "generated_at": "2026-07-13T14:26:23.289615"
+    },
+    {
+      "english": "My home, is over there.",
+      "bosnian": "Moj dom, je tamo.",
+      "transliteration": "Moj dom, je tamo.",
+      "category": "Basic Phrases",
+      "generated_at": "2026-07-13T14:26:23.289616"
     }
   ],
-  "last_updated": "2026-07-13T03:33:33.461757"
+  "last_updated": "2026-07-13T14:26:23.289618"
 }
