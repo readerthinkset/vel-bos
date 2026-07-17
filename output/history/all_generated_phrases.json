@@ -4724,7 +4724,42 @@
       "transliteration": "Svaka riječ, je gradivni blok.",
       "category": "Perseverance",
       "generated_at": "2026-07-17T18:08:15.763015"
+    },
+    {
+      "english": "Peace be upon you.",
+      "bosnian": "Mir vama.",
+      "transliteration": "Mir vah-mah.",
+      "category": "Greetings",
+      "generated_at": "2026-07-17T21:01:32.670504"
+    },
+    {
+      "english": "A happy meeting, indeed.",
+      "bosnian": "Srećan susret, zbilja.",
+      "transliteration": "Sret-chan soo-sret, zbilya.",
+      "category": "Greetings",
+      "generated_at": "2026-07-17T21:01:32.670514"
+    },
+    {
+      "english": "Welcome, weary soul.",
+      "bosnian": "Dobro došli, umorni dušo.",
+      "transliteration": "Dob-ro dosh-li, oo-mor-nee doo-sho.",
+      "category": "Greetings",
+      "generated_at": "2026-07-17T21:01:32.670516"
+    },
+    {
+      "english": "May your day shine bright.",
+      "bosnian": "Neka ti dan blista.",
+      "transliteration": "Ne-ka tee dahn blis-tah.",
+      "category": "Greetings",
+      "generated_at": "2026-07-17T21:01:32.670517"
+    },
+    {
+      "english": "Hello there, stranger.",
+      "bosnian": "Zdravo tamo, neznanče.",
+      "transliteration": "Zdrah-vo tah-mo, nez-nahn-cheh.",
+      "category": "Greetings",
+      "generated_at": "2026-07-17T21:01:32.670518"
     }
   ],
-  "last_updated": "2026-07-17T18:08:15.763017"
+  "last_updated": "2026-07-17T21:01:32.670520"
 }
