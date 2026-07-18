@@ -4899,7 +4899,42 @@
       "transliteration": "Vrijeme leti, kad si sretan.",
       "category": "Time",
       "generated_at": "2026-07-18T17:57:58.432456"
+    },
+    {
+      "english": "Picture this, a sunny day.",
+      "bosnian": "Zamislite ovo, sunčan dan.",
+      "transliteration": "Zamislite ovo, sunchan dan.",
+      "category": "Directions",
+      "generated_at": "2026-07-18T20:56:14.549819"
+    },
+    {
+      "english": "What's the feeling, express it.",
+      "bosnian": "Kakav je osjećaj, izrazite ga.",
+      "transliteration": "Kakav je osjecaj, izrazite ga.",
+      "category": "Directions",
+      "generated_at": "2026-07-18T20:56:14.549832"
+    },
+    {
+      "english": "Tell me a story, from your heart.",
+      "bosnian": "Ispričajte mi priču, iz srca.",
+      "transliteration": "Ispricajte mi pricu, iz srca.",
+      "category": "Directions",
+      "generated_at": "2026-07-18T20:56:14.549833"
+    },
+    {
+      "english": "Imagine a sound, describe it.",
+      "bosnian": "Zamislite zvuk, opišite ga.",
+      "transliteration": "Zamislite zvuk, opisite ga.",
+      "category": "Directions",
+      "generated_at": "2026-07-18T20:56:14.549834"
+    },
+    {
+      "english": "What's missing, fill the gap.",
+      "bosnian": "Šta nedostaje, popunite prazninu.",
+      "transliteration": "Shta nedostaje, popunite prazninu.",
+      "category": "Directions",
+      "generated_at": "2026-07-18T20:56:14.549836"
     }
   ],
-  "last_updated": "2026-07-18T17:57:58.432458"
+  "last_updated": "2026-07-18T20:56:14.549838"
 }
