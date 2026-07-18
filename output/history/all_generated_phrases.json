@@ -4829,7 +4829,42 @@
       "transliteration": "Vyezh-ba chi-ni ma-is-to-ra, zar ne?",
       "category": "Growth",
       "generated_at": "2026-07-18T13:06:15.553617"
+    },
+    {
+      "english": "Maybe... just a little bit, like, two.",
+      "bosnian": "Možda... samo malo, kao, dvije.",
+      "transliteration": "Mozhda... samo malo, kao, dvije.",
+      "category": "Numbers",
+      "generated_at": "2026-07-18T14:45:16.719647"
+    },
+    {
+      "english": "Can I have, perhaps, three cookies?",
+      "bosnian": "Mogu li dobiti, možda, tri keksa?",
+      "transliteration": "Mogu li dobiti, možda, tri keksa?",
+      "category": "Numbers",
+      "generated_at": "2026-07-18T14:45:16.719658"
+    },
+    {
+      "english": "Look, a whole bunch, maybe ten.",
+      "bosnian": "Gledaj, cijela gomila, možda deset.",
+      "transliteration": "Gledaj, cijela gomila, možda deset.",
+      "category": "Numbers",
+      "generated_at": "2026-07-18T14:45:16.719660"
+    },
+    {
+      "english": "I saw, at least, four birds.",
+      "bosnian": "Vidio sam, najmanje, četiri ptice.",
+      "transliteration": "Vidio sam, najmanje, četiri ptice.",
+      "category": "Numbers",
+      "generated_at": "2026-07-18T14:45:16.719662"
+    },
+    {
+      "english": "She bought, exactly, six apples.",
+      "bosnian": "Kupila je, tačno, šest jabuka.",
+      "transliteration": "Kupila je, tačno, šest jabuka.",
+      "category": "Numbers",
+      "generated_at": "2026-07-18T14:45:16.719663"
     }
   ],
-  "last_updated": "2026-07-18T13:06:15.553619"
+  "last_updated": "2026-07-18T14:45:16.719665"
 }
