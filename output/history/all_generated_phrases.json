@@ -4864,7 +4864,42 @@
       "transliteration": "Kupila je, tačno, šest jabuka.",
       "category": "Numbers",
       "generated_at": "2026-07-18T14:45:16.719663"
+    },
+    {
+      "english": "Dawn breaks, painting the sky.",
+      "bosnian": "Svanulo je, boji nebo.",
+      "transliteration": "Svanulo je, boji nebo.",
+      "category": "Time",
+      "generated_at": "2026-07-18T17:57:58.432440"
+    },
+    {
+      "english": "The afternoon, warms us gently.",
+      "bosnian": "Popodne, grije nas blago.",
+      "transliteration": "Popodne, grije nas blago.",
+      "category": "Time",
+      "generated_at": "2026-07-18T17:57:58.432451"
+    },
+    {
+      "english": "As dusk settles, peace arrives.",
+      "bosnian": "Kad se smrkne, dođe mir.",
+      "transliteration": "Kad se smrkne, dođe mir.",
+      "category": "Time",
+      "generated_at": "2026-07-18T17:57:58.432453"
+    },
+    {
+      "english": "The witching hour, approaches now.",
+      "bosnian": "Kasni sat, približava se.",
+      "transliteration": "Kasni sat, približava se.",
+      "category": "Time",
+      "generated_at": "2026-07-18T17:57:58.432454"
+    },
+    {
+      "english": "Time flies, when you're happy.",
+      "bosnian": "Vrijeme leti, kad si sretan.",
+      "transliteration": "Vrijeme leti, kad si sretan.",
+      "category": "Time",
+      "generated_at": "2026-07-18T17:57:58.432456"
     }
   ],
-  "last_updated": "2026-07-18T14:45:16.719665"
+  "last_updated": "2026-07-18T17:57:58.432458"
 }
