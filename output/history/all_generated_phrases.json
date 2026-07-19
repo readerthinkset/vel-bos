@@ -4934,7 +4934,42 @@
       "transliteration": "Shta nedostaje, popunite prazninu.",
       "category": "Directions",
       "generated_at": "2026-07-18T20:56:14.549836"
+    },
+    {
+      "english": "Whispering leaves, gentle breeze.",
+      "bosnian": "Šaputanje lišća, blagi povjetarac.",
+      "transliteration": "Shaputanje lishcha, blagi povjetarac.",
+      "category": "Nature",
+      "generated_at": "2026-07-19T03:26:37.438285"
+    },
+    {
+      "english": "Ancient trees, deep roots.",
+      "bosnian": "Stara stabla, duboki korijeni.",
+      "transliteration": "Stara stabla, duboki korijeni.",
+      "category": "Nature",
+      "generated_at": "2026-07-19T03:26:37.438292"
+    },
+    {
+      "english": "Crystal streams, cool water.",
+      "bosnian": "Kristalni potoci, hladna voda.",
+      "transliteration": "Kristalni potoci, hladna voda.",
+      "category": "Nature",
+      "generated_at": "2026-07-19T03:26:37.438294"
+    },
+    {
+      "english": "Silent meadows, wild flowers.",
+      "bosnian": "Tihe livade, divlje cvijeće.",
+      "transliteration": "Tihe livade, divlje cvijeće.",
+      "category": "Nature",
+      "generated_at": "2026-07-19T03:26:37.438295"
+    },
+    {
+      "english": "Rolling hills, green valleys.",
+      "bosnian": "Valoviti brežuljci, zelene doline.",
+      "transliteration": "Valoviti brezhuljci, zelene doline.",
+      "category": "Nature",
+      "generated_at": "2026-07-19T03:26:37.438296"
     }
   ],
-  "last_updated": "2026-07-18T20:56:14.549838"
+  "last_updated": "2026-07-19T03:26:37.438298"
 }
