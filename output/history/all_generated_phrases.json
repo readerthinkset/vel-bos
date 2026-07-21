@@ -5354,7 +5354,42 @@
       "transliteration": "Bako, tvoja supa je divna.",
       "category": "Family Terms",
       "generated_at": "2026-07-21T13:40:27.238567"
+    },
+    {
+      "english": "This, is a good idea.",
+      "bosnian": "Ovo, je dobra ideja.",
+      "transliteration": "Ovo, ye dobra ideya.",
+      "category": "Basic Phrases",
+      "generated_at": "2026-07-21T15:30:04.114422"
+    },
+    {
+      "english": "Let's, go eat something.",
+      "bosnian": "Idemo, jesti nešto.",
+      "transliteration": "Idemo, yesti neshto.",
+      "category": "Basic Phrases",
+      "generated_at": "2026-07-21T15:30:04.114435"
+    },
+    {
+      "english": "The sky, is very blue.",
+      "bosnian": "Nebo, je jako plavo.",
+      "transliteration": "Nebo, ye yako plavo.",
+      "category": "Basic Phrases",
+      "generated_at": "2026-07-21T15:30:04.114437"
+    },
+    {
+      "english": "Can you, help me, please?",
+      "bosnian": "Možeš li, mi pomoći, molim?",
+      "transliteration": "Mozhesh li, mi pomoci, molim?",
+      "category": "Basic Phrases",
+      "generated_at": "2026-07-21T15:30:04.114439"
+    },
+    {
+      "english": "I am learning, Bosnian language.",
+      "bosnian": "Učim, bosanski jezik.",
+      "transliteration": "Uchim, bosanski yezik.",
+      "category": "Basic Phrases",
+      "generated_at": "2026-07-21T15:30:04.114440"
     }
   ],
-  "last_updated": "2026-07-21T13:40:27.238569"
+  "last_updated": "2026-07-21T15:30:04.114442"
 }
