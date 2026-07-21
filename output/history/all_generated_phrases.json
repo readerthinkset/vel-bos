@@ -5319,7 +5319,42 @@
       "transliteration": "Topao zagrljaj, baš kako treba.",
       "category": "Joy",
       "generated_at": "2026-07-21T03:20:36.628694"
+    },
+    {
+      "english": "Mom, can I have a snack?",
+      "bosnian": "Mama, mogu li dobiti grickalicu?",
+      "transliteration": "Mama, mogu li dobiti grickalicu?",
+      "category": "Family Terms",
+      "generated_at": "2026-07-21T13:40:27.238545"
+    },
+    {
+      "english": "Dad, the car is ready.",
+      "bosnian": "Tata, auto je spreman.",
+      "transliteration": "Tata, auto je spreman.",
+      "category": "Family Terms",
+      "generated_at": "2026-07-21T13:40:27.238562"
+    },
+    {
+      "english": "My dear brother, thank you.",
+      "bosnian": "Dragi brate, hvala ti.",
+      "transliteration": "Dragi brate, hvala ti.",
+      "category": "Family Terms",
+      "generated_at": "2026-07-21T13:40:27.238564"
+    },
+    {
+      "english": "Sister, did you see that?",
+      "bosnian": "Sestro, jesi li vidjela to?",
+      "transliteration": "Sestro, jesi li vidjela to?",
+      "category": "Family Terms",
+      "generated_at": "2026-07-21T13:40:27.238566"
+    },
+    {
+      "english": "Grandma, your soup is amazing.",
+      "bosnian": "Bako, tvoja supa je divna.",
+      "transliteration": "Bako, tvoja supa je divna.",
+      "category": "Family Terms",
+      "generated_at": "2026-07-21T13:40:27.238567"
     }
   ],
-  "last_updated": "2026-07-21T03:20:36.628696"
+  "last_updated": "2026-07-21T13:40:27.238569"
 }
