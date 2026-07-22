@@ -5599,7 +5599,42 @@
       "transliteration": "Pusti korijen, prije nego se popneš.",
       "category": "Patience",
       "generated_at": "2026-07-22T18:10:15.082193"
+    },
+    {
+      "english": "This is a beautiful, rug.",
+      "bosnian": "Ovo je lijep, ćilim.",
+      "transliteration": "Ovo yeh lee-ep, cheelim.",
+      "category": "Shopping",
+      "generated_at": "2026-07-22T21:14:41.386748"
+    },
+    {
+      "english": "I'd like, that scarf.",
+      "bosnian": "Željela bih, onu maramu.",
+      "transliteration": "Zhel-yeh-lah beekh, oh-noo mah-rah-moo.",
+      "category": "Shopping",
+      "generated_at": "2026-07-22T21:14:41.386758"
+    },
+    {
+      "english": "Do you sell, handmade soap?",
+      "bosnian": "Prodajete li, ručno rađen sapun?",
+      "transliteration": "Proh-dah-yeh-teh lee, rooch-noh rah-jen sah-poon?",
+      "category": "Shopping",
+      "generated_at": "2026-07-22T21:14:41.386760"
+    },
+    {
+      "english": "Where are, the spices?",
+      "bosnian": "Gdje su, začini?",
+      "transliteration": "G'dyeh soo, zah-chee-nee?",
+      "category": "Shopping",
+      "generated_at": "2026-07-22T21:14:41.386761"
+    },
+    {
+      "english": "I need, some local honey.",
+      "bosnian": "Treba mi, domaći med.",
+      "transliteration": "Treh-bah mee, doh-mah-chee med.",
+      "category": "Shopping",
+      "generated_at": "2026-07-22T21:14:41.386762"
     }
   ],
-  "last_updated": "2026-07-22T18:10:15.082195"
+  "last_updated": "2026-07-22T21:14:41.386764"
 }
