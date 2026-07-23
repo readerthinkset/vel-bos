@@ -5704,7 +5704,42 @@
       "transliteration": "Nastavite govoriti, nađite svoj tok.",
       "category": "Perseverance",
       "generated_at": "2026-07-23T13:48:20.746533"
+    },
+    {
+      "english": "Gentle breeze, rustles the leaves.",
+      "bosnian": "Blagi povjetarac, njiše lišće.",
+      "transliteration": "Blagi povjetarac, njishe lishche.",
+      "category": "Weather",
+      "generated_at": "2026-07-23T16:32:34.260890"
+    },
+    {
+      "english": "Sky is bruised, with purple hues.",
+      "bosnian": "Nebo je modro, ljubičastih nijansi.",
+      "transliteration": "Nebo ye modro, lyubichastih niyansi.",
+      "category": "Weather",
+      "generated_at": "2026-07-23T16:32:34.260899"
+    },
+    {
+      "english": "Sun dips low, painting the west.",
+      "bosnian": "Sunce zalazi, boji zapad.",
+      "transliteration": "Sunce zalazi, boi zapad.",
+      "category": "Weather",
+      "generated_at": "2026-07-23T16:32:34.260901"
+    },
+    {
+      "english": "Distant thunder, rumbles closer.",
+      "bosnian": "Udaljen grmljavina, bliži se.",
+      "transliteration": "Udaljen grmljavina, blizhi se.",
+      "category": "Weather",
+      "generated_at": "2026-07-23T16:32:34.260902"
+    },
+    {
+      "english": "Morning mist, hugs the valleys.",
+      "bosnian": "Jutarnja magla, grli doline.",
+      "transliteration": "Yutarnja magla, grli doline.",
+      "category": "Weather",
+      "generated_at": "2026-07-23T16:32:34.260903"
     }
   ],
-  "last_updated": "2026-07-23T13:48:20.746535"
+  "last_updated": "2026-07-23T16:32:34.260905"
 }
