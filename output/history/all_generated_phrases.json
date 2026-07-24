@@ -5914,7 +5914,42 @@
       "transliteration": "Poveži se s ljudima, bez nagađanja.",
       "category": "Purpose",
       "generated_at": "2026-07-24T13:28:28.112235"
+    },
+    {
+      "english": "My bag, it's gone!",
+      "bosnian": "Moja torba, nestala je!",
+      "transliteration": "Moya torba, nestala ye!",
+      "category": "Emergency",
+      "generated_at": "2026-07-24T15:23:18.839141"
+    },
+    {
+      "english": "I'm having trouble, sir.",
+      "bosnian": "Imam problem, gospodine.",
+      "transliteration": "Imam problem, gospodine.",
+      "category": "Emergency",
+      "generated_at": "2026-07-24T15:23:18.839150"
+    },
+    {
+      "english": "Watch out, that's dangerous.",
+      "bosnian": "Pazi, to je opasno.",
+      "transliteration": "Pazi, to ye opasno.",
+      "category": "Emergency",
+      "generated_at": "2026-07-24T15:23:18.839152"
+    },
+    {
+      "english": "My phone died, please.",
+      "bosnian": "Telefon mi je crkao, molim.",
+      "transliteration": "Telefon mi ye crkao, molim.",
+      "category": "Emergency",
+      "generated_at": "2026-07-24T15:23:18.839154"
+    },
+    {
+      "english": "Is someone there? Hello?",
+      "bosnian": "Ima li koga? Halo?",
+      "transliteration": "Ima li koga? Halo?",
+      "category": "Emergency",
+      "generated_at": "2026-07-24T15:23:18.839155"
     }
   ],
-  "last_updated": "2026-07-24T13:28:28.112237"
+  "last_updated": "2026-07-24T15:23:18.839157"
 }
