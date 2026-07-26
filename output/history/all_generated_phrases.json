@@ -6264,7 +6264,42 @@
       "transliteration": "Ma-ho-vi-na ras-te, na sta-rim ka-me-njem.",
       "category": "Nature",
       "generated_at": "2026-07-26T18:04:07.188146"
+    },
+    {
+      "english": "Your Bosnian, it's growing. Nicely.",
+      "bosnian": "Tvoj bosanski, raste. Lijepo.",
+      "transliteration": "Tvoy bosanski, raste. Liepo.",
+      "category": "Confidence",
+      "generated_at": "2026-07-26T21:03:10.232071"
+    },
+    {
+      "english": "Every sentence, a small victory.",
+      "bosnian": "Svaka rečenica, mala pobjeda.",
+      "transliteration": "Svaka rechenitsa, mala pobeda.",
+      "category": "Confidence",
+      "generated_at": "2026-07-26T21:03:10.232080"
+    },
+    {
+      "english": "Trust your ears, then your tongue.",
+      "bosnian": "Vjeruj ušima, pa jeziku.",
+      "transliteration": "Vjeruy ushima, pa jeziku.",
+      "category": "Confidence",
+      "generated_at": "2026-07-26T21:03:10.232082"
+    },
+    {
+      "english": "The melody of words, hear it.",
+      "bosnian": "Melodija riječi, čuj je.",
+      "transliteration": "Melodiya rechie, chuy ye.",
+      "category": "Confidence",
+      "generated_at": "2026-07-26T21:03:10.232083"
+    },
+    {
+      "english": "Your understanding, deepening. Good.",
+      "bosnian": "Tvoje razumijevanje, produbljuje se. Dobro.",
+      "transliteration": "Tvoyey razumijevaniye, produbljuje se. Dobro.",
+      "category": "Confidence",
+      "generated_at": "2026-07-26T21:03:10.232084"
     }
   ],
-  "last_updated": "2026-07-26T18:04:07.188147"
+  "last_updated": "2026-07-26T21:03:10.232086"
 }
