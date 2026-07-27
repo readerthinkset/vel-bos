@@ -6439,7 +6439,42 @@
       "transliteration": "Neka bosanski techeh, prirodno.",
       "category": "Success",
       "generated_at": "2026-07-27T05:23:41.584619"
+    },
+    {
+      "english": "A good day, to wander.",
+      "bosnian": "Dobar dan, za lutanje.",
+      "transliteration": "Dobar dan, za lutanje.",
+      "category": "Travel",
+      "generated_at": "2026-07-27T14:24:36.682198"
+    },
+    {
+      "english": "This path, leads somewhere new.",
+      "bosnian": "Ova staza, vodi nekud novo.",
+      "transliteration": "Ova staza, vodi nekud novo.",
+      "category": "Travel",
+      "generated_at": "2026-07-27T14:24:36.682207"
+    },
+    {
+      "english": "Hidden gem, found!",
+      "bosnian": "Skriveni dragulj, pronađen!",
+      "transliteration": "Skriveni dragulj, pronađen!",
+      "category": "Travel",
+      "generated_at": "2026-07-27T14:24:36.682209"
+    },
+    {
+      "english": "What story, does this echo hold?",
+      "bosnian": "Kakvu priču, ova jeka nosi?",
+      "transliteration": "Kakvu priču, ova jeka nosi?",
+      "category": "Travel",
+      "generated_at": "2026-07-27T14:24:36.682210"
+    },
+    {
+      "english": "Let's try, a local treat.",
+      "bosnian": "Hajdemo probati, lokalni specijalitet.",
+      "transliteration": "Hajdemo probati, lokalni specijalitet.",
+      "category": "Travel",
+      "generated_at": "2026-07-27T14:24:36.682212"
     }
   ],
-  "last_updated": "2026-07-27T05:23:41.584621"
+  "last_updated": "2026-07-27T14:24:36.682213"
 }
