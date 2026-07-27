@@ -6369,7 +6369,42 @@
       "transliteration": "Da li ti, se sviđa?",
       "category": "Basic Phrases",
       "generated_at": "2026-07-27T05:15:32.934980"
+    },
+    {
+      "english": "This t-shirt, has a cool print.",
+      "bosnian": "Ova majica, ima fora print.",
+      "transliteration": "Ova majica, ima fora print.",
+      "category": "Clothes",
+      "generated_at": "2026-07-27T05:19:50.244283"
+    },
+    {
+      "english": "My new trousers, are very comfortable.",
+      "bosnian": "Moji novi pantalone, su udobne.",
+      "transliteration": "Moji novi pantalone, su udobne.",
+      "category": "Clothes",
+      "generated_at": "2026-07-27T05:19:50.244296"
+    },
+    {
+      "english": "That blouse, looks elegant on you.",
+      "bosnian": "Ta bluza, ti lijepo stoji.",
+      "transliteration": "Ta bluza, ti lijepo stoji.",
+      "category": "Clothes",
+      "generated_at": "2026-07-27T05:19:50.244297"
+    },
+    {
+      "english": "I need some shorts, for the summer.",
+      "bosnian": "Trebaju mi kratke hlače, za ljeto.",
+      "transliteration": "Trebaju mi kratke hlače, za ljeto.",
+      "category": "Clothes",
+      "generated_at": "2026-07-27T05:19:50.244299"
+    },
+    {
+      "english": "This skirt, is a bit too short.",
+      "bosnian": "Ova suknja, je malo prekratka.",
+      "transliteration": "Ova suknja, je malo prekratka.",
+      "category": "Clothes",
+      "generated_at": "2026-07-27T05:19:50.244300"
     }
   ],
-  "last_updated": "2026-07-27T05:15:32.934982"
+  "last_updated": "2026-07-27T05:19:50.244302"
 }
