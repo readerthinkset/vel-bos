@@ -6614,7 +6614,42 @@
       "transliteration": "Vaša bosanska iskra, pali se sada.",
       "category": "Education",
       "generated_at": "2026-07-29T15:46:30.786178"
+    },
+    {
+      "english": "This soup, smells wonderful.",
+      "bosnian": "Ova supa, miriše divno.",
+      "transliteration": "Ova supa, mirishe divno.",
+      "category": "Restaurant",
+      "generated_at": "2026-07-29T18:09:55.394349"
+    },
+    {
+      "english": "Another glass, of water, please.",
+      "bosnian": "Još jedna čaša, vode, molim.",
+      "transliteration": "Yosh jedna chasha, vode, molim.",
+      "category": "Restaurant",
+      "generated_at": "2026-07-29T18:09:55.394360"
+    },
+    {
+      "english": "Is this, the daily special?",
+      "bosnian": "Je li ovo, dnevni meni?",
+      "transliteration": "Ye lee ovo, dnevni meni?",
+      "category": "Restaurant",
+      "generated_at": "2026-07-29T18:09:55.394362"
+    },
+    {
+      "english": "Could I have, the bill, soon?",
+      "bosnian": "Mogu li dobiti, račun, uskoro?",
+      "transliteration": "Mogu lee dobiti, rachun, uskoro?",
+      "category": "Restaurant",
+      "generated_at": "2026-07-29T18:09:55.394364"
+    },
+    {
+      "english": "This bread, is very fresh.",
+      "bosnian": "Ovaj hljeb, je vrlo svjež.",
+      "transliteration": "Oviy hlyeb, ye vrlo svezh.",
+      "category": "Restaurant",
+      "generated_at": "2026-07-29T18:09:55.394365"
     }
   ],
-  "last_updated": "2026-07-29T15:46:30.786180"
+  "last_updated": "2026-07-29T18:09:55.394367"
 }
