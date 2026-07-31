@@ -6894,7 +6894,42 @@
       "transliteration": "Moja zahvalnost, ne poznaje granice.",
       "category": "Gratitude",
       "generated_at": "2026-07-31T18:22:55.991070"
+    },
+    {
+      "english": "The wolf howls, to the moon.",
+      "bosnian": "Vuk zavija, na mjesec.",
+      "transliteration": "Vook zah-vee-yah, nah myeh-set.",
+      "category": "Animals",
+      "generated_at": "2026-07-31T21:12:47.483403"
+    },
+    {
+      "english": "A squirrel scampers, up the oak.",
+      "bosnian": "Vjeverica juri, uz hrast.",
+      "transliteration": "Vyeh-veh-ree-tsah yoo-ree, ooz hrahst.",
+      "category": "Animals",
+      "generated_at": "2026-07-31T21:12:47.483414"
+    },
+    {
+      "english": "The owl blinks, wise and slow.",
+      "bosnian": "Sova trepće, mudro i sporo.",
+      "transliteration": "Soh-vah trehp-cheh, moo-droh ee spoh-roh.",
+      "category": "Animals",
+      "generated_at": "2026-07-31T21:12:47.483415"
+    },
+    {
+      "english": "A fox creeps, through the grass.",
+      "bosnian": "Lisica se prikrada, kroz travu.",
+      "transliteration": "Lee-see-tsah seh pree-krah-dah, kroz trah-voo.",
+      "category": "Animals",
+      "generated_at": "2026-07-31T21:12:47.483416"
+    },
+    {
+      "english": "Dolphins leap, in the clear water.",
+      "bosnian": "Dupini iskaču, u bistroj vodi.",
+      "transliteration": "Doo-pee-nee ees-kah-choo, oo bee-stroh-ee voh-dee.",
+      "category": "Animals",
+      "generated_at": "2026-07-31T21:12:47.483417"
     }
   ],
-  "last_updated": "2026-07-31T18:22:55.991072"
+  "last_updated": "2026-07-31T21:12:47.483419"
 }
