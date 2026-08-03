@@ -7349,7 +7349,42 @@
       "transliteration": "Gradite samopouzdanje, vježbom.",
       "category": "Success",
       "generated_at": "2026-08-03T14:30:30.415403"
+    },
+    {
+      "english": "Sky is turning, a deep blue.",
+      "bosnian": "Nebo se boji, u tamno plavo.",
+      "transliteration": "Nebo se boji, u tamno plavo.",
+      "category": "Weather",
+      "generated_at": "2026-08-03T16:16:13.908231"
+    },
+    {
+      "english": "Air is thick, with pollen.",
+      "bosnian": "Zrak je gust, od peludi.",
+      "transliteration": "Zrak je gust, od peludi.",
+      "category": "Weather",
+      "generated_at": "2026-08-03T16:16:13.908243"
+    },
+    {
+      "english": "First snowflakes, begin to fall.",
+      "bosnian": "Prve pahulje, počinju padati.",
+      "transliteration": "Prve pahulje, počinju padati.",
+      "category": "Weather",
+      "generated_at": "2026-08-03T16:16:13.908245"
+    },
+    {
+      "english": "Sun feels weak, almost gone.",
+      "bosnian": "Sunce je slabo, skoro nestalo.",
+      "transliteration": "Sunce je slabo, skoro nestalo.",
+      "category": "Weather",
+      "generated_at": "2026-08-03T16:16:13.908246"
+    },
+    {
+      "english": "Raindrops drumming, on the roof.",
+      "bosnian": "Kiša bubnja, po krovu.",
+      "transliteration": "Kiša bubnja, po krovu.",
+      "category": "Weather",
+      "generated_at": "2026-08-03T16:16:13.908247"
     }
   ],
-  "last_updated": "2026-08-03T14:30:30.415405"
+  "last_updated": "2026-08-03T16:16:13.908249"
 }
