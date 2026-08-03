@@ -7384,7 +7384,42 @@
       "transliteration": "Kiša bubnja, po krovu.",
       "category": "Weather",
       "generated_at": "2026-08-03T16:16:13.908247"
+    },
+    {
+      "english": "This coffee, is just right.",
+      "bosnian": "Ova kafa, je taman.",
+      "transliteration": "Ova kafa, je taman.",
+      "category": "Food",
+      "generated_at": "2026-08-03T18:52:37.232777"
+    },
+    {
+      "english": "A perfect pastry, for my morning.",
+      "bosnian": "Savršeno pecivo, za moje jutro.",
+      "transliteration": "Savršeno pecivo, za moje jutro.",
+      "category": "Food",
+      "generated_at": "2026-08-03T18:52:37.232788"
+    },
+    {
+      "english": "The cheese, is wonderfully sharp.",
+      "bosnian": "Sir, je divno oštar.",
+      "transliteration": "Sir, je divno oštar.",
+      "category": "Food",
+      "generated_at": "2026-08-03T18:52:37.232790"
+    },
+    {
+      "english": "This stew, has deep flavors.",
+      "bosnian": "Ovo varivo, ima duboke ukuse.",
+      "transliteration": "Ovo varivo, ima duboke ukuse.",
+      "category": "Food",
+      "generated_at": "2026-08-03T18:52:37.232792"
+    },
+    {
+      "english": "I could eat this, all day.",
+      "bosnian": "Ovo bih jeo, cijeli dan.",
+      "transliteration": "Ovo bih jeo, cijeli dan.",
+      "category": "Food",
+      "generated_at": "2026-08-03T18:52:37.232793"
     }
   ],
-  "last_updated": "2026-08-03T16:16:13.908249"
+  "last_updated": "2026-08-03T18:52:37.232795"
 }
