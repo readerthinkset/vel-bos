@@ -7594,7 +7594,42 @@
       "transliteration": "Novi putevi, čekaju.",
       "category": "Creativity",
       "generated_at": "2026-08-04T18:40:42.804022"
+    },
+    {
+      "english": "This is lovely, how much?",
+      "bosnian": "Ovo je divno, koliko košta?",
+      "transliteration": "Ovo ye divno, koliko košta?",
+      "category": "Shopping",
+      "generated_at": "2026-08-04T21:16:30.243565"
+    },
+    {
+      "english": "Just looking, thank you.",
+      "bosnian": "Samo gledam, hvala.",
+      "transliteration": "Samo gledam, hvala.",
+      "category": "Shopping",
+      "generated_at": "2026-08-04T21:16:30.243575"
+    },
+    {
+      "english": "Do you have, something else?",
+      "bosnian": "Imate li, nešto drugo?",
+      "transliteration": "Imate li, nešto drugo?",
+      "category": "Shopping",
+      "generated_at": "2026-08-04T21:16:30.243576"
+    },
+    {
+      "english": "I need a gift, for a friend.",
+      "bosnian": "Treba mi poklon, za druga.",
+      "transliteration": "Treba mi poklon, za druga.",
+      "category": "Shopping",
+      "generated_at": "2026-08-04T21:16:30.243577"
+    },
+    {
+      "english": "Where can I pay?",
+      "bosnian": "Gdje mogu platiti?",
+      "transliteration": "Gdje mogu platiti?",
+      "category": "Shopping",
+      "generated_at": "2026-08-04T21:16:30.243578"
     }
   ],
-  "last_updated": "2026-08-04T18:40:42.804024"
+  "last_updated": "2026-08-04T21:16:30.243580"
 }
