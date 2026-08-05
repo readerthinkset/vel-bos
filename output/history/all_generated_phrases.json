@@ -7734,7 +7734,42 @@
       "transliteration": "Ovo vino, je odlichno.",
       "category": "Restaurant",
       "generated_at": "2026-08-05T15:56:20.187780"
+    },
+    {
+      "english": "Just a few, maybe three.",
+      "bosnian": "Samo nekoliko, možda tri.",
+      "transliteration": "Samo nekoliko, možda tri.",
+      "category": "Numbers",
+      "generated_at": "2026-08-05T18:24:02.897204"
+    },
+    {
+      "english": "I have, five. Right here.",
+      "bosnian": "Imam, pet. Evo ovdje.",
+      "transliteration": "Imam, pet. Evo ovdje.",
+      "category": "Numbers",
+      "generated_at": "2026-08-05T18:24:02.897212"
+    },
+    {
+      "english": "Call me, at seven.",
+      "bosnian": "Nazovi me, u sedam.",
+      "transliteration": "Nazovi me, u sedam.",
+      "category": "Numbers",
+      "generated_at": "2026-08-05T18:24:02.897213"
+    },
+    {
+      "english": "We need, six. Urgent.",
+      "bosnian": "Treba nam, šest. Hitno.",
+      "transliteration": "Treba nam, šest. Hitno.",
+      "category": "Numbers",
+      "generated_at": "2026-08-05T18:24:02.897214"
+    },
+    {
+      "english": "Only one, left.",
+      "bosnian": "Samo jedan, ostao.",
+      "transliteration": "Samo jedan, ostao.",
+      "category": "Numbers",
+      "generated_at": "2026-08-05T18:24:02.897215"
     }
   ],
-  "last_updated": "2026-08-05T15:56:20.187782"
+  "last_updated": "2026-08-05T18:24:02.897216"
 }
