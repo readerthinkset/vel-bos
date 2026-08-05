@@ -7699,7 +7699,42 @@
       "transliteration": "Blagi treptaj, nade.",
       "category": "Feelings",
       "generated_at": "2026-08-05T14:00:29.882352"
+    },
+    {
+      "english": "This looks, delicious, thank you.",
+      "bosnian": "Ovo izgleda, ukusno, hvala.",
+      "transliteration": "Ovo izgleda, ukusno, hvala.",
+      "category": "Restaurant",
+      "generated_at": "2026-08-05T15:56:20.187764"
+    },
+    {
+      "english": "Could we, try that dessert?",
+      "bosnian": "Možemo li, probati taj desert?",
+      "transliteration": "Mozhemo li, probati tai desert?",
+      "category": "Restaurant",
+      "generated_at": "2026-08-05T15:56:20.187776"
+    },
+    {
+      "english": "What's, the soup, of the day?",
+      "bosnian": "Koja je, supa, današnja?",
+      "transliteration": "Koja je, supa, danashnja?",
+      "category": "Restaurant",
+      "generated_at": "2026-08-05T15:56:20.187778"
+    },
+    {
+      "english": "Just, water, for now, please.",
+      "bosnian": "Samo, vodu, za sada, molim.",
+      "transliteration": "Samo, vodu, za sada, molim.",
+      "category": "Restaurant",
+      "generated_at": "2026-08-05T15:56:20.187779"
+    },
+    {
+      "english": "This wine, is excellent.",
+      "bosnian": "Ovo vino, je odlično.",
+      "transliteration": "Ovo vino, je odlichno.",
+      "category": "Restaurant",
+      "generated_at": "2026-08-05T15:56:20.187780"
     }
   ],
-  "last_updated": "2026-08-05T14:00:29.882354"
+  "last_updated": "2026-08-05T15:56:20.187782"
 }
