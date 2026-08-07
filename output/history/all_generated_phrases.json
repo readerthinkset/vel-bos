@@ -7874,7 +7874,42 @@
       "transliteration": "Zamislite lakocu, pa se smirite.",
       "category": "Balance",
       "generated_at": "2026-08-06T13:57:17.725699"
+    },
+    {
+      "english": "The gentle deer, grazes quietly.",
+      "bosnian": "Blaga košuta, tiho pase.",
+      "transliteration": "Blaga koshuta, tiho pase.",
+      "category": "Animals",
+      "generated_at": "2026-08-07T00:54:14.519006"
+    },
+    {
+      "english": "A playful otter, dives with glee.",
+      "bosnian": "Razigrani vidra, roni s radošću.",
+      "transliteration": "Razigrani vidra, roni s radošću.",
+      "category": "Animals",
+      "generated_at": "2026-08-07T00:54:14.519016"
+    },
+    {
+      "english": "The proud peacock, displays its fan.",
+      "bosnian": "Ponosni paun, pokazuje lepezu.",
+      "transliteration": "Ponosni paun, pokazuje lepezu.",
+      "category": "Animals",
+      "generated_at": "2026-08-07T00:54:14.519017"
+    },
+    {
+      "english": "A busy ant, carries a crumb.",
+      "bosnian": "Vrijedni mrav, nosi mrvicu.",
+      "transliteration": "Vrijedni mrav, nosi mrvicu.",
+      "category": "Animals",
+      "generated_at": "2026-08-07T00:54:14.519019"
+    },
+    {
+      "english": "The swift eagle, soars above.",
+      "bosnian": "Brzi orao, leti iznad.",
+      "transliteration": "Brzi orao, leti iznad.",
+      "category": "Animals",
+      "generated_at": "2026-08-07T00:54:14.519020"
     }
   ],
-  "last_updated": "2026-08-06T13:57:17.725700"
+  "last_updated": "2026-08-07T00:54:14.519022"
 }
