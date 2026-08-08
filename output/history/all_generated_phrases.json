@@ -8084,7 +8084,42 @@
       "transliteration": "uči bosanski, za pravo razumijevanje",
       "category": "Purpose",
       "generated_at": "2026-08-07T20:47:00.413722"
+    },
+    {
+      "english": "My kin, gathering soon.",
+      "bosnian": "Moja rodbina, uskoro na okupu.",
+      "transliteration": "Moy-ah rod-bee-nah, us-ko-ro nah ok-oo-poo.",
+      "category": "Family Terms",
+      "generated_at": "2026-08-08T01:59:34.810578"
+    },
+    {
+      "english": "Dad, I need your advice.",
+      "bosnian": "Tata, trebam savjet tvoj.",
+      "transliteration": "Tah-tah, treh-bahm sah-vyet tvoy.",
+      "category": "Family Terms",
+      "generated_at": "2026-08-08T01:59:34.810587"
+    },
+    {
+      "english": "Mom, what's for dinner?",
+      "bosnian": "Mama, šta je večeras?",
+      "transliteration": "Mah-mah, shtah yeh veh-cheh-rahs?",
+      "category": "Family Terms",
+      "generated_at": "2026-08-08T01:59:34.810589"
+    },
+    {
+      "english": "Brother, can you lend a hand?",
+      "bosnian": "Brate, možeš li pomoći?",
+      "transliteration": "Bra-teh, moh-zhesh lee poh-moh-chee?",
+      "category": "Family Terms",
+      "generated_at": "2026-08-08T01:59:34.810590"
+    },
+    {
+      "english": "Sister, let's share a secret.",
+      "bosnian": "Sestro, podijelimo tajnu.",
+      "transliteration": "Ses-tro, poh-dee-yeh-lee-moh taay-noo.",
+      "category": "Family Terms",
+      "generated_at": "2026-08-08T01:59:34.810592"
     }
   ],
-  "last_updated": "2026-08-07T20:47:00.413724"
+  "last_updated": "2026-08-08T01:59:34.810593"
 }
