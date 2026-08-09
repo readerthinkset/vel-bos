@@ -8224,7 +8224,42 @@
       "transliteration": "Po-noach-nah cr-nah, mis-teh-ree-yah doo-bo-kah.",
       "category": "Colors",
       "generated_at": "2026-08-08T20:35:55.556862"
+    },
+    {
+      "english": "My tongue, tastes something sweet.",
+      "bosnian": "Moj jezik, osjeti nešto slatko.",
+      "transliteration": "Moj jezik, osjeti nešto slatko.",
+      "category": "Body Parts",
+      "generated_at": "2026-08-09T02:07:35.204790"
+    },
+    {
+      "english": "Press your thumb, gently.",
+      "bosnian": "Pritisni palac, blago.",
+      "transliteration": "Pritisni palac, blago.",
+      "category": "Body Parts",
+      "generated_at": "2026-08-09T02:07:35.204800"
+    },
+    {
+      "english": "A slight nod, of agreement.",
+      "bosnian": "Malo kimanje, glavom.",
+      "transliteration": "Malo kimanje, glavom.",
+      "category": "Body Parts",
+      "generated_at": "2026-08-09T02:07:35.204802"
+    },
+    {
+      "english": "Twist your wrist, carefully.",
+      "bosnian": "Savij zglob, pažljivo.",
+      "transliteration": "Savij zglob, pažljivo.",
+      "category": "Body Parts",
+      "generated_at": "2026-08-09T02:07:35.204803"
+    },
+    {
+      "english": "Her forehead, feels warm.",
+      "bosnian": "Njeno čelo, je toplo.",
+      "transliteration": "Njeno čelo, je toplo.",
+      "category": "Body Parts",
+      "generated_at": "2026-08-09T02:07:35.204804"
     }
   ],
-  "last_updated": "2026-08-08T20:35:55.556864"
+  "last_updated": "2026-08-09T02:07:35.204806"
 }
