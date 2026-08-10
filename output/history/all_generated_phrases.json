@@ -8539,7 +8539,42 @@
       "transliteration": "Ova salata, osvezhavayucha bash.",
       "category": "Food",
       "generated_at": "2026-08-10T17:53:58.148391"
+    },
+    {
+      "english": "Quickly, find me water.",
+      "bosnian": "Brzo, dajte mi vode.",
+      "transliteration": "Brzo, dajte mi vode.",
+      "category": "Emergency",
+      "generated_at": "2026-08-10T20:49:36.324934"
+    },
+    {
+      "english": "I need to sit down.",
+      "bosnian": "Trebam sjesti, molim.",
+      "transliteration": "Trebam sjesti, molim.",
+      "category": "Emergency",
+      "generated_at": "2026-08-10T20:49:36.324946"
+    },
+    {
+      "english": "Is anyone hurt badly?",
+      "bosnian": "Je li neko teško povrijeđen?",
+      "transliteration": "Je li neko teško povrijeđen?",
+      "category": "Emergency",
+      "generated_at": "2026-08-10T20:49:36.324948"
+    },
+    {
+      "english": "My head is spinning.",
+      "bosnian": "Vrti mi se u glavi.",
+      "transliteration": "Vrti mi se u glavi.",
+      "category": "Emergency",
+      "generated_at": "2026-08-10T20:49:36.324950"
+    },
+    {
+      "english": "Where can I get help?",
+      "bosnian": "Gdje mogu dobiti pomoć?",
+      "transliteration": "Gdje mogu dobiti pomoć?",
+      "category": "Emergency",
+      "generated_at": "2026-08-10T20:49:36.324951"
     }
   ],
-  "last_updated": "2026-08-10T17:53:58.148393"
+  "last_updated": "2026-08-10T20:49:36.324953"
 }
