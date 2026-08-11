@@ -8574,7 +8574,42 @@
       "transliteration": "Gdje mogu dobiti pomoć?",
       "category": "Emergency",
       "generated_at": "2026-08-10T20:49:36.324951"
+    },
+    {
+      "english": "This old bridge, connects us.",
+      "bosnian": "Ovaj stari most, nas spaja.",
+      "transliteration": "Ovaj stari most, nas spaja.",
+      "category": "Travel",
+      "generated_at": "2026-08-11T02:06:35.400357"
+    },
+    {
+      "english": "Let's find, a hidden cafe.",
+      "bosnian": "Nađimo, skroviti kafić.",
+      "transliteration": "Nađimo, skroviti kafić.",
+      "category": "Travel",
+      "generated_at": "2026-08-11T02:06:35.400367"
+    },
+    {
+      "english": "The mountain air, is so fresh.",
+      "bosnian": "Gorski zrak, je tako svjež.",
+      "transliteration": "Gorski zrak, je tako svjež.",
+      "category": "Travel",
+      "generated_at": "2026-08-11T02:06:35.400368"
+    },
+    {
+      "english": "A warm welcome, awaits us.",
+      "bosnian": "Topla dobrodošlica, nas čeka.",
+      "transliteration": "Topla dobrodošlica, nas čeka.",
+      "category": "Travel",
+      "generated_at": "2026-08-11T02:06:35.400370"
+    },
+    {
+      "english": "Can I hear, the call to prayer?",
+      "bosnian": "Mogu li čuti, ezan?",
+      "transliteration": "Mogu li čuti, ezan?",
+      "category": "Travel",
+      "generated_at": "2026-08-11T02:06:35.400371"
     }
   ],
-  "last_updated": "2026-08-10T20:49:36.324953"
+  "last_updated": "2026-08-11T02:06:35.400373"
 }
