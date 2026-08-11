@@ -8644,7 +8644,42 @@
       "transliteration": "Ovo mi znači, sve.",
       "category": "Gratitude",
       "generated_at": "2026-08-11T12:54:46.107288"
+    },
+    {
+      "english": "Sky's alive, with dancing light.",
+      "bosnian": "Nebo živo, pleše svjetlost.",
+      "transliteration": "Nebo zhivo, pleshe svetlost.",
+      "category": "Weather",
+      "generated_at": "2026-08-11T14:52:28.902976"
+    },
+    {
+      "english": "Air is buzzing, with insect hum.",
+      "bosnian": "Zrak zuji, insekti bruje.",
+      "transliteration": "Zrak zuji, insekti bruje.",
+      "category": "Weather",
+      "generated_at": "2026-08-11T14:52:28.902984"
+    },
+    {
+      "english": "Quiet drizzle, whispers secrets.",
+      "bosnian": "Tiha kiša, šapuće tajne.",
+      "transliteration": "Tiha kisha, shapuche tayne.",
+      "category": "Weather",
+      "generated_at": "2026-08-11T14:52:28.902986"
+    },
+    {
+      "english": "Sunbeams stretch, golden fingers.",
+      "bosnian": "Sunčevi zraci, zlatni prsti.",
+      "transliteration": "Sunchev zraci, zlatni prsti.",
+      "category": "Weather",
+      "generated_at": "2026-08-11T14:52:28.902988"
+    },
+    {
+      "english": "Storm's brewing, a low growl.",
+      "bosnian": "Oluja se sprema, tiho režanje.",
+      "transliteration": "Oluya se sprema, tiho rezhanje.",
+      "category": "Weather",
+      "generated_at": "2026-08-11T14:52:28.902989"
     }
   ],
-  "last_updated": "2026-08-11T12:54:46.107290"
+  "last_updated": "2026-08-11T14:52:28.902990"
 }
