@@ -9309,7 +9309,42 @@
       "transliteration": "Gdje su, kožni predmeti?",
       "category": "Shopping",
       "generated_at": "2026-08-15T17:23:13.959341"
+    },
+    {
+      "english": "Your Bosnian, it's taking shape.",
+      "bosnian": "Tvoj bosanski, oblikuje se.",
+      "transliteration": "Tvoy bosanski, oblikuje se.",
+      "category": "Confidence",
+      "generated_at": "2026-08-15T20:27:17.883672"
+    },
+    {
+      "english": "Every sound, a chance to grow.",
+      "bosnian": "Svaki zvuk, šansa za rast.",
+      "transliteration": "Svaki zvuk, shansa za rast.",
+      "category": "Confidence",
+      "generated_at": "2026-08-15T20:27:17.883684"
+    },
+    {
+      "english": "You're building a new skill.",
+      "bosnian": "Izgrađuješ novu vještinu.",
+      "transliteration": "Izgradjuyesh novu vještinu.",
+      "category": "Confidence",
+      "generated_at": "2026-08-15T20:27:17.883686"
+    },
+    {
+      "english": "Feel the rhythm of the words.",
+      "bosnian": "Osjeti ritam riječi.",
+      "transliteration": "Osjeti ritam riječi.",
+      "category": "Confidence",
+      "generated_at": "2026-08-15T20:27:17.883687"
+    },
+    {
+      "english": "Let your confidence bloom.",
+      "bosnian": "Neka ti samopouzdanje procvjeta.",
+      "transliteration": "Neka ti samopouzdanje procvjeta.",
+      "category": "Confidence",
+      "generated_at": "2026-08-15T20:27:17.883689"
     }
   ],
-  "last_updated": "2026-08-15T17:23:13.959342"
+  "last_updated": "2026-08-15T20:27:17.883690"
 }
