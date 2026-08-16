@@ -9449,7 +9449,42 @@
       "transliteration": "Uperi prst, ka prozoru.",
       "category": "Body Parts",
       "generated_at": "2026-08-16T14:15:00.139236"
+    },
+    {
+      "english": "This instant, is our chance.",
+      "bosnian": "Ovaj trenutak, je naša šansa.",
+      "transliteration": "Ovaj trenutak, je naša šansa.",
+      "category": "Time",
+      "generated_at": "2026-08-16T17:22:05.274075"
+    },
+    {
+      "english": "Every second, counts greatly.",
+      "bosnian": "Svaka sekunda, mnogo znači.",
+      "transliteration": "Svaka sekunda, mnogo znači.",
+      "category": "Time",
+      "generated_at": "2026-08-16T17:22:05.274086"
+    },
+    {
+      "english": "Just a heartbeat, more please.",
+      "bosnian": "Samo još jedan, otkucaj srca.",
+      "transliteration": "Samo još jedan, otkucaj srca.",
+      "category": "Time",
+      "generated_at": "2026-08-16T17:22:05.274088"
+    },
+    {
+      "english": "The past, is a lesson.",
+      "bosnian": "Prošlost, je lekcija.",
+      "transliteration": "Prošlost, je lekcija.",
+      "category": "Time",
+      "generated_at": "2026-08-16T17:22:05.274092"
+    },
+    {
+      "english": "The future, awaits us.",
+      "bosnian": "Budućnost, nas čeka.",
+      "transliteration": "Budućnost, nas čeka.",
+      "category": "Time",
+      "generated_at": "2026-08-16T17:22:05.274094"
     }
   ],
-  "last_updated": "2026-08-16T14:15:00.139238"
+  "last_updated": "2026-08-16T17:22:05.274095"
 }
