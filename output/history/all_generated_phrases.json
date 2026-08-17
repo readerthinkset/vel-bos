@@ -9624,7 +9624,42 @@
       "transliteration": "No-vee ho-ree-zon-tee, ot-vah-rah-yoo seh sah-dah.",
       "category": "Hope",
       "generated_at": "2026-08-17T14:20:09.154582"
+    },
+    {
+      "english": "The air, it hums.",
+      "bosnian": "Zrak, on bruji.",
+      "transliteration": "Zrak, on bruji.",
+      "category": "Weather",
+      "generated_at": "2026-08-17T20:32:20.880391"
+    },
+    {
+      "english": "Sky's a canvas, changing.",
+      "bosnian": "Nebo je platno, mijenja se.",
+      "transliteration": "Nebo je platno, mijenja se.",
+      "category": "Weather",
+      "generated_at": "2026-08-17T20:32:20.880400"
+    },
+    {
+      "english": "A whisper of frost, this morning.",
+      "bosnian": "Šapat mraza, jutros.",
+      "transliteration": "Šapat mraza, jutros.",
+      "category": "Weather",
+      "generated_at": "2026-08-17T20:32:20.880402"
+    },
+    {
+      "english": "Sun's a shy visitor.",
+      "bosnian": "Sunce je stidljivi gost.",
+      "transliteration": "Sunce je stidljivi gost.",
+      "category": "Weather",
+      "generated_at": "2026-08-17T20:32:20.880403"
+    },
+    {
+      "english": "Air tastes like rain.",
+      "bosnian": "Zrak ima okus kiše.",
+      "transliteration": "Zrak ima okus kiše.",
+      "category": "Weather",
+      "generated_at": "2026-08-17T20:32:20.880405"
     }
   ],
-  "last_updated": "2026-08-17T14:20:09.154584"
+  "last_updated": "2026-08-17T20:32:20.880406"
 }
