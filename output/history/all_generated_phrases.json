@@ -9659,7 +9659,42 @@
       "transliteration": "Zrak ima okus kiše.",
       "category": "Weather",
       "generated_at": "2026-08-17T20:32:20.880405"
+    },
+    {
+      "english": "A nod to you, passerby.",
+      "bosnian": "Pozdrav tebi, prolazniče.",
+      "transliteration": "Pozdrav tebi, prolaznice.",
+      "category": "Greetings",
+      "generated_at": "2026-08-18T01:46:07.461888"
+    },
+    {
+      "english": "Glad our paths crossed.",
+      "bosnian": "Drago mi je, da smo se sreli.",
+      "transliteration": "Drago mi je, da smo se sreli.",
+      "category": "Greetings",
+      "generated_at": "2026-08-18T01:46:07.461897"
+    },
+    {
+      "english": "Sun is up, let's begin.",
+      "bosnian": "Sunce je izašlo, započnimo.",
+      "transliteration": "Sunce je izašlo, započnimo.",
+      "category": "Greetings",
+      "generated_at": "2026-08-18T01:46:07.461899"
+    },
+    {
+      "english": "A moment of greeting.",
+      "bosnian": "Trenutak pozdrava, samo.",
+      "transliteration": "Trenutak pozdrava, samo.",
+      "category": "Greetings",
+      "generated_at": "2026-08-18T01:46:07.461900"
+    },
+    {
+      "english": "Hope your journey's good.",
+      "bosnian": "Nadam se, da ti je put dobar.",
+      "transliteration": "Nadam se, da ti je put dobar.",
+      "category": "Greetings",
+      "generated_at": "2026-08-18T01:46:07.461901"
     }
   ],
-  "last_updated": "2026-08-17T20:32:20.880406"
+  "last_updated": "2026-08-18T01:46:07.461903"
 }
