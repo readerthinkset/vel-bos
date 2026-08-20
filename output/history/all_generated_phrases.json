@@ -10079,7 +10079,42 @@
       "transliteration": "Ovay trenutak, ye poseban.",
       "category": "Gratitude",
       "generated_at": "2026-08-20T14:27:50.890271"
+    },
+    {
+      "english": "Excuse me, a moment please.",
+      "bosnian": "Izvinite, samo trenutak.",
+      "transliteration": "Iz-vee-nee-te, sah-mo troo-en-oo-tak.",
+      "category": "Emergency",
+      "generated_at": "2026-08-20T17:32:23.191507"
+    },
+    {
+      "english": "Is this the right way?",
+      "bosnian": "Je li ovo pravi put?",
+      "transliteration": "Yeh lee oh-vo prah-vee poot?",
+      "category": "Emergency",
+      "generated_at": "2026-08-20T17:32:23.191517"
+    },
+    {
+      "english": "I feel unwell, can you help?",
+      "bosnian": "Osjećam se loše, možete li pomoći?",
+      "transliteration": "Oh-se-cha-m seh lo-she, mo-zhe-teh lee po-moch-ee?",
+      "category": "Emergency",
+      "generated_at": "2026-08-20T17:32:23.191519"
+    },
+    {
+      "english": "My belongings are missing.",
+      "bosnian": "Nestale su moje stvari.",
+      "transliteration": "Nes-tah-leh soo mo-yeh stva-ree.",
+      "category": "Emergency",
+      "generated_at": "2026-08-20T17:32:23.191521"
+    },
+    {
+      "english": "Where is the nearest pharmacy?",
+      "bosnian": "Gdje je najbliža apoteka?",
+      "transliteration": "Gdje yeh nai-blee-zhah ah-po-teh-kah?",
+      "category": "Emergency",
+      "generated_at": "2026-08-20T17:32:23.191522"
     }
   ],
-  "last_updated": "2026-08-20T14:27:50.890273"
+  "last_updated": "2026-08-20T17:32:23.191524"
 }
