@@ -10429,7 +10429,42 @@
       "transliteration": "Jesenje lišće, vije i pada.",
       "category": "Nature",
       "generated_at": "2026-08-22T14:14:06.452578"
+    },
+    {
+      "english": "This jacket, is it warm enough?",
+      "bosnian": "Ovaj kaput, je li dovoljno topao?",
+      "transliteration": "Ovaj kaput, ye lee dovoljno topao?",
+      "category": "Shopping",
+      "generated_at": "2026-08-22T17:23:48.476158"
+    },
+    {
+      "english": "I need a new, pair of socks.",
+      "bosnian": "Trebaju mi nove, čarape.",
+      "transliteration": "Trebaju mee nove, charape.",
+      "category": "Shopping",
+      "generated_at": "2026-08-22T17:23:48.476165"
+    },
+    {
+      "english": "Do they have, this colour available?",
+      "bosnian": "Imaju li, ovu boju?",
+      "transliteration": "Imaju lee, ovu boju?",
+      "category": "Shopping",
+      "generated_at": "2026-08-22T17:23:48.476166"
+    },
+    {
+      "english": "Where can I find, cooking utensils?",
+      "bosnian": "Gdje su, kuhinjski pribor?",
+      "transliteration": "Gdyeh soo, kuhinjski pribor?",
+      "category": "Shopping",
+      "generated_at": "2026-08-22T17:23:48.476167"
+    },
+    {
+      "english": "This book looks, very interesting.",
+      "bosnian": "Ova knjiga izgleda, zanimljivo.",
+      "transliteration": "Ova knjiga izgleda, zanimljivo.",
+      "category": "Shopping",
+      "generated_at": "2026-08-22T17:23:48.476167"
     }
   ],
-  "last_updated": "2026-08-22T14:14:06.452580"
+  "last_updated": "2026-08-22T17:23:48.476169"
 }
