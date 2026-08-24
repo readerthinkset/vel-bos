@@ -10779,7 +10779,42 @@
       "transliteration": "Ne forsiraj, pusti da teče.",
       "category": "Patience",
       "generated_at": "2026-08-24T17:33:31.658524"
+    },
+    {
+      "english": "The bear hibernates, all winter long.",
+      "bosnian": "Medvjed zimuje, cijelu zimu.",
+      "transliteration": "Med-vyed zee-moo-yeh, tsee-yeh-loo zee-moo.",
+      "category": "Animals",
+      "generated_at": "2026-08-24T20:35:50.407115"
+    },
+    {
+      "english": "A rabbit hops, through the meadow.",
+      "bosnian": "Zeko skače, kroz livadu.",
+      "transliteration": "Zeh-koh skah-cheh, kroz lee-vah-doo.",
+      "category": "Animals",
+      "generated_at": "2026-08-24T20:35:50.407125"
+    },
+    {
+      "english": "The whale breaches, a magnificent sight.",
+      "bosnian": "Kit izranja, divan prizor.",
+      "transliteration": "Kit eez-ran-yah, dee-vahn pree-zor.",
+      "category": "Animals",
+      "generated_at": "2026-08-24T20:35:50.407127"
+    },
+    {
+      "english": "A frog croaks, by the pond.",
+      "bosnian": "Žaba krekeće, pored bare.",
+      "transliteration": "Zhah-bah kreh-keh-cheh, poh-red bah-reh.",
+      "category": "Animals",
+      "generated_at": "2026-08-24T20:35:50.407129"
+    },
+    {
+      "english": "The mouse squeaks, for a little cheese.",
+      "bosnian": "Miš zacvili, za malo sira.",
+      "transliteration": "Meesh zah-vlee-lee, zah mah-loh see-rah.",
+      "category": "Animals",
+      "generated_at": "2026-08-24T20:35:50.407130"
     }
   ],
-  "last_updated": "2026-08-24T17:33:31.658526"
+  "last_updated": "2026-08-24T20:35:50.407132"
 }
