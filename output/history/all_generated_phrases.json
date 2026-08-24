@@ -10674,7 +10674,42 @@
       "transliteration": "Gradite mostove, razumijevanjem.",
       "category": "Purpose",
       "generated_at": "2026-08-24T01:43:07.489000"
+    },
+    {
+      "english": "This dish, it's quite hearty.",
+      "bosnian": "Ovo jelo, baš je zasitno.",
+      "transliteration": "Ovo yelo, bash ye zasitno.",
+      "category": "Restaurant",
+      "generated_at": "2026-08-24T12:40:42.643329"
+    },
+    {
+      "english": "A quiet corner, if possible?",
+      "bosnian": "Mirni kutak, ako je moguće?",
+      "transliteration": "Mirni kutak, ako ye moguchye?",
+      "category": "Restaurant",
+      "generated_at": "2026-08-24T12:40:42.643341"
+    },
+    {
+      "english": "We're celebrating, tonight.",
+      "bosnian": "Večeras, slavimo nešto.",
+      "transliteration": "Vechieras, slavimo neshto.",
+      "category": "Restaurant",
+      "generated_at": "2026-08-24T12:40:42.643343"
+    },
+    {
+      "english": "Is this, a local specialty?",
+      "bosnian": "Je li ovo, lokalni specijalitet?",
+      "transliteration": "Ye li ovo, lokalni spetsiyalitet?",
+      "category": "Restaurant",
+      "generated_at": "2026-08-24T12:40:42.643344"
+    },
+    {
+      "english": "Could I get, some more bread?",
+      "bosnian": "Mogu li dobiti, još hljeba?",
+      "transliteration": "Mogu li dobiti, yosh hlyeba?",
+      "category": "Restaurant",
+      "generated_at": "2026-08-24T12:40:42.643346"
     }
   ],
-  "last_updated": "2026-08-24T01:43:07.489001"
+  "last_updated": "2026-08-24T12:40:42.643348"
 }
