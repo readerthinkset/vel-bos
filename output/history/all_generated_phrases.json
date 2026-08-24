@@ -10709,7 +10709,42 @@
       "transliteration": "Mogu li dobiti, yosh hlyeba?",
       "category": "Restaurant",
       "generated_at": "2026-08-24T12:40:42.643346"
+    },
+    {
+      "english": "A quiet whisper, just one.",
+      "bosnian": "Tihi šapat, samo jedan.",
+      "transliteration": "Tihi shapat, samo jedan.",
+      "category": "Numbers",
+      "generated_at": "2026-08-24T14:34:25.848960"
+    },
+    {
+      "english": "Two boats, on the water.",
+      "bosnian": "Dva čamca, na vodi.",
+      "transliteration": "Dva chamtsa, na vodi.",
+      "category": "Numbers",
+      "generated_at": "2026-08-24T14:34:25.848969"
+    },
+    {
+      "english": "Three wishes, for tonight.",
+      "bosnian": "Tri želje, za večeras.",
+      "transliteration": "Tri zhelje, za vecheras.",
+      "category": "Numbers",
+      "generated_at": "2026-08-24T14:34:25.848970"
+    },
+    {
+      "english": "Four leaves, clover luck.",
+      "bosnian": "Četiri lista, srećni djetelina.",
+      "transliteration": "Chetir list, srechni djetelina.",
+      "category": "Numbers",
+      "generated_at": "2026-08-24T14:34:25.848972"
+    },
+    {
+      "english": "Five senses, at play.",
+      "bosnian": "Pet čula, u igri.",
+      "transliteration": "Pet chula, u igri.",
+      "category": "Numbers",
+      "generated_at": "2026-08-24T14:34:25.848973"
     }
   ],
-  "last_updated": "2026-08-24T12:40:42.643348"
+  "last_updated": "2026-08-24T14:34:25.848975"
 }
