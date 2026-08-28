@@ -11409,7 +11409,42 @@
       "transliteration": "Sunce ye topao pokrivach, danas.",
       "category": "Weather",
       "generated_at": "2026-08-28T21:42:21.250398"
+    },
+    {
+      "english": "Lift your eyebrow, slightly.",
+      "bosnian": "Podigni obrvu, malo.",
+      "transliteration": "Podigni obrvu, malo.",
+      "category": "Body Parts",
+      "generated_at": "2026-08-28T23:20:51.793412"
+    },
+    {
+      "english": "Brush your teeth, before bed.",
+      "bosnian": "Operi zube, prije spavanja.",
+      "transliteration": "Operi zube, prije spavanja.",
+      "category": "Body Parts",
+      "generated_at": "2026-08-28T23:20:51.793421"
+    },
+    {
+      "english": "Scratch your back, where it itches.",
+      "bosnian": "Počeši leđa, gdje svrbi.",
+      "transliteration": "Počeši leđa, gdje svrbi.",
+      "category": "Body Parts",
+      "generated_at": "2026-08-28T23:20:51.793423"
+    },
+    {
+      "english": "Point with your toe, gently.",
+      "bosnian": "Pokazuj prstom noge, nježno.",
+      "transliteration": "Pokazuj prstom noge, nježno.",
+      "category": "Body Parts",
+      "generated_at": "2026-08-28T23:20:51.793425"
+    },
+    {
+      "english": "Cup your ear, listen closely.",
+      "bosnian": "Stavi šaku na uho, slušaj pažljivo.",
+      "transliteration": "Stavi šaku na uho, slušaj pažljivo.",
+      "category": "Body Parts",
+      "generated_at": "2026-08-28T23:20:51.793426"
     }
   ],
-  "last_updated": "2026-08-28T21:42:21.250400"
+  "last_updated": "2026-08-28T23:20:51.793428"
 }
