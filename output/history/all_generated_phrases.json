@@ -11374,7 +11374,42 @@
       "transliteration": "Mees-lee nah bo-san-skom, po-la-ko.",
       "category": "Growth",
       "generated_at": "2026-08-28T10:51:17.982909"
+    },
+    {
+      "english": "A gentle shower, is falling now.",
+      "bosnian": "Lagana kiša, pada sada.",
+      "transliteration": "Lagana kisha, pada sada.",
+      "category": "Weather",
+      "generated_at": "2026-08-28T21:42:21.250383"
+    },
+    {
+      "english": "The air, it shimmers, with heat.",
+      "bosnian": "Zrak, on titra, od vrućine.",
+      "transliteration": "Zrak, on titra, od vruchine.",
+      "category": "Weather",
+      "generated_at": "2026-08-28T21:42:21.250395"
+    },
+    {
+      "english": "A cool wind, whispers secrets.",
+      "bosnian": "Hladan vjetar, šapuće tajne.",
+      "transliteration": "Hladan vjetar, shapuche tayne.",
+      "category": "Weather",
+      "generated_at": "2026-08-28T21:42:21.250396"
+    },
+    {
+      "english": "Grey skies, promise more rain.",
+      "bosnian": "Siva nebesa, obećavaju kišu.",
+      "transliteration": "Siva nebesa, obechavaju kishu.",
+      "category": "Weather",
+      "generated_at": "2026-08-28T21:42:21.250397"
+    },
+    {
+      "english": "Sun's a warm blanket, today.",
+      "bosnian": "Sunce je topao pokrivač, danas.",
+      "transliteration": "Sunce ye topao pokrivach, danas.",
+      "category": "Weather",
+      "generated_at": "2026-08-28T21:42:21.250398"
     }
   ],
-  "last_updated": "2026-08-28T10:51:17.982911"
+  "last_updated": "2026-08-28T21:42:21.250400"
 }
