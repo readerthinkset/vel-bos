@@ -11759,7 +11759,42 @@
       "transliteration": "Zvi-jez-de se po-jav-lju-ju, sti-dljivo prvo.",
       "category": "Nature",
       "generated_at": "2026-08-30T17:52:07.109343"
+    },
+    {
+      "english": "You're my favorite person, truly.",
+      "bosnian": "Ti si moja najdraža osoba, iskreno.",
+      "transliteration": "Ti si moja najdraža osoba, iskreno.",
+      "category": "Relationships",
+      "generated_at": "2026-08-30T19:40:54.299126"
+    },
+    {
+      "english": "We understand, without words.",
+      "bosnian": "Razumijemo se, bez riječi.",
+      "transliteration": "Razumijemo se, bez riječi.",
+      "category": "Relationships",
+      "generated_at": "2026-08-30T19:40:54.299140"
+    },
+    {
+      "english": "Life's better, with you here.",
+      "bosnian": "Život je bolji, kad si ti tu.",
+      "transliteration": "Život je bolji, kad si ti tu.",
+      "category": "Relationships",
+      "generated_at": "2026-08-30T19:40:54.299142"
+    },
+    {
+      "english": "My chosen family, always.",
+      "bosnian": "Moja izabrana porodica, uvijek.",
+      "transliteration": "Moja izabrana porodica, uvijek.",
+      "category": "Relationships",
+      "generated_at": "2026-08-30T19:40:54.299143"
+    },
+    {
+      "english": "You make the ordinary, special.",
+      "bosnian": "Ti činiš obično, posebnim.",
+      "transliteration": "Ti činiš obično, posebnim.",
+      "category": "Relationships",
+      "generated_at": "2026-08-30T19:40:54.299144"
     }
   ],
-  "last_updated": "2026-08-30T17:52:07.109345"
+  "last_updated": "2026-08-30T19:40:54.299146"
 }
