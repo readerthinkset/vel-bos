@@ -11794,7 +11794,42 @@
       "transliteration": "Ti činiš obično, posebnim.",
       "category": "Relationships",
       "generated_at": "2026-08-30T19:40:54.299144"
+    },
+    {
+      "english": "This lamb, is incredibly tender.",
+      "bosnian": "Ovo janje, je nevjerovatno meko.",
+      "transliteration": "Ovo yanye, ye neverovatno meko.",
+      "category": "Restaurant",
+      "generated_at": "2026-08-30T22:34:03.844278"
+    },
+    {
+      "english": "May I try, a bit of that?",
+      "bosnian": "Mogu li probati, malo od toga?",
+      "transliteration": "Mogu li probati, malo od toga?",
+      "category": "Restaurant",
+      "generated_at": "2026-08-30T22:34:03.844286"
+    },
+    {
+      "english": "Our waiter, was very attentive.",
+      "bosnian": "Naš konobar, je bio jako pažljiv.",
+      "transliteration": "Nash konobar, ye bio yako pazhljiv.",
+      "category": "Restaurant",
+      "generated_at": "2026-08-30T22:34:03.844288"
+    },
+    {
+      "english": "Could we order, some olives?",
+      "bosnian": "Možemo li naručiti, malo maslina?",
+      "transliteration": "Mozhemo li naruchiti, malo maslina?",
+      "category": "Restaurant",
+      "generated_at": "2026-08-30T22:34:03.844289"
+    },
+    {
+      "english": "This fish, is so fresh today.",
+      "bosnian": "Ova riba, je danas tako svježa.",
+      "transliteration": "Ova riba, ye danas tako svezha.",
+      "category": "Restaurant",
+      "generated_at": "2026-08-30T22:34:03.844291"
     }
   ],
-  "last_updated": "2026-08-30T19:40:54.299146"
+  "last_updated": "2026-08-30T22:34:03.844292"
 }
