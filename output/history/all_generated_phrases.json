@@ -11724,7 +11724,42 @@
       "transliteration": "Koliko je, sati sada?",
       "category": "Basic Phrases",
       "generated_at": "2026-08-30T15:58:10.116192"
+    },
+    {
+      "english": "Forest floor, soft with moss.",
+      "bosnian": "Šumsko tlo, meko od mahovine.",
+      "transliteration": "Shum-sko tlo, me-ko od ma-ho-vi-ne.",
+      "category": "Nature",
+      "generated_at": "2026-08-30T17:52:07.109325"
+    },
+    {
+      "english": "River sings, a quiet song.",
+      "bosnian": "Rijeka pjeva, tihu pjesmu.",
+      "transliteration": "Ri-je-ka pje-va, ti-hu pjes-mu.",
+      "category": "Nature",
+      "generated_at": "2026-08-30T17:52:07.109338"
+    },
+    {
+      "english": "Peaks touch, the endless blue.",
+      "bosnian": "Vrhovi dodiruju, beskrajno plavetnilo.",
+      "transliteration": "Vrh-o-vi do-di-ru-ju, be-skraj-no pla-vet-ni-lo.",
+      "category": "Nature",
+      "generated_at": "2026-08-30T17:52:07.109340"
+    },
+    {
+      "english": "Wind sighs, through the reeds.",
+      "bosnian": "Vjetar uzdiše, kroz trsku.",
+      "transliteration": "Vje-tar uz-di-še, kroz trs-ku.",
+      "category": "Nature",
+      "generated_at": "2026-08-30T17:52:07.109342"
+    },
+    {
+      "english": "Stars emerge, shyly at first.",
+      "bosnian": "Zvijezde se pojavljuju, stidljivo prvo.",
+      "transliteration": "Zvi-jez-de se po-jav-lju-ju, sti-dljivo prvo.",
+      "category": "Nature",
+      "generated_at": "2026-08-30T17:52:07.109343"
     }
   ],
-  "last_updated": "2026-08-30T15:58:10.116194"
+  "last_updated": "2026-08-30T17:52:07.109345"
 }
