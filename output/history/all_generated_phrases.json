@@ -11829,7 +11829,42 @@
       "transliteration": "Ova riba, ye danas tako svezha.",
       "category": "Restaurant",
       "generated_at": "2026-08-30T22:34:03.844291"
+    },
+    {
+      "english": "This very minute, is precious.",
+      "bosnian": "Ova tačan minut, je dragocjen.",
+      "transliteration": "Ova tačan minut, je dragocjen.",
+      "category": "Time",
+      "generated_at": "2026-08-31T04:54:42.511506"
+    },
+    {
+      "english": "Give it some time, to grow.",
+      "bosnian": "Daj mu vremena, da raste.",
+      "transliteration": "Daj mu vremena, da raste.",
+      "category": "Time",
+      "generated_at": "2026-08-31T04:54:42.511517"
+    },
+    {
+      "english": "The moment passes, quickly.",
+      "bosnian": "Trenutak prođe, brzo.",
+      "transliteration": "Trenutak prođe, brzo.",
+      "category": "Time",
+      "generated_at": "2026-08-31T04:54:42.511519"
+    },
+    {
+      "english": "We have forever, it seems.",
+      "bosnian": "Imamo vječnost, čini se.",
+      "transliteration": "Imamo vječnost, čini se.",
+      "category": "Time",
+      "generated_at": "2026-08-31T04:54:42.511521"
+    },
+    {
+      "english": "Each passing hour, brings change.",
+      "bosnian": "Svaki sat koji prođe, donosi promjene.",
+      "transliteration": "Svaki sat koji prođe, donosi promjene.",
+      "category": "Time",
+      "generated_at": "2026-08-31T04:54:42.511522"
     }
   ],
-  "last_updated": "2026-08-30T22:34:03.844292"
+  "last_updated": "2026-08-31T04:54:42.511524"
 }
