@@ -12039,7 +12039,42 @@
       "transliteration": "Pronađi užitak, u suncu.",
       "category": "Happiness",
       "generated_at": "2026-09-01T04:33:49.453402"
+    },
+    {
+      "english": "Fire, quickly! Get out!",
+      "bosnian": "Vatra, brzo! Bježite!",
+      "transliteration": "Vah-trah, brez-oh! Byeh-zhee-teh!",
+      "category": "Emergency",
+      "generated_at": "2026-09-01T16:00:16.900059"
+    },
+    {
+      "english": "Help me, please, I'm lost.",
+      "bosnian": "Pomozite mi, molim, izgubljen sam.",
+      "transliteration": "Poh-moh-zee-teh mee, moh-leem, eg-zbooh-lyen sahm.",
+      "category": "Emergency",
+      "generated_at": "2026-09-01T16:00:16.900071"
+    },
+    {
+      "english": "Need emergency services, now.",
+      "bosnian": "Hitno treba pomoć.",
+      "transliteration": "Hee-tno treh-bah poh-moch.",
+      "category": "Emergency",
+      "generated_at": "2026-09-01T16:00:16.900073"
+    },
+    {
+      "english": "Is someone there? Shout!",
+      "bosnian": "Ima li koga? Vičite!",
+      "transliteration": "Ee-mah lee koh-gah? Vee-chee-teh!",
+      "category": "Emergency",
+      "generated_at": "2026-09-01T16:00:16.900074"
+    },
+    {
+      "english": "My breathing is difficult.",
+      "bosnian": "Teško dišem, jako.",
+      "transliteration": "Tehsh-koh dee-shehm, yah-koh.",
+      "category": "Emergency",
+      "generated_at": "2026-09-01T16:00:16.900076"
     }
   ],
-  "last_updated": "2026-09-01T04:33:49.453404"
+  "last_updated": "2026-09-01T16:00:16.900077"
 }
