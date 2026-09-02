@@ -12249,7 +12249,42 @@
       "transliteration": "Is-kra, in-spi-ra-ci-je.",
       "category": "Feelings",
       "generated_at": "2026-09-02T16:08:57.975671"
+    },
+    {
+      "english": "Invest wisely, for tomorrow.",
+      "bosnian": "Ulažite pametno, za sutra.",
+      "transliteration": "Ulagayte pametno, za sutra.",
+      "category": "Finance",
+      "generated_at": "2026-09-02T17:33:09.814109"
+    },
+    {
+      "english": "Budgeting, builds stability.",
+      "bosnian": "Budžetiranje, gradi stabilnost.",
+      "transliteration": "Budzhetiranye, gradi stabilnost.",
+      "category": "Finance",
+      "generated_at": "2026-09-02T17:33:09.814121"
+    },
+    {
+      "english": "Save diligently, live comfortably.",
+      "bosnian": "Štedite marljivo, živite udobno.",
+      "transliteration": "Shteditye marljivo, zhivite udobno.",
+      "category": "Finance",
+      "generated_at": "2026-09-02T17:33:09.814122"
+    },
+    {
+      "english": "Understand your spending habits.",
+      "bosnian": "Shvatite navike trošenja.",
+      "transliteration": "Shvatite navike troshyenya.",
+      "category": "Finance",
+      "generated_at": "2026-09-02T17:33:09.814123"
+    },
+    {
+      "english": "Track every transaction, carefully.",
+      "bosnian": "Pratite svaku transakciju, pažljivo.",
+      "transliteration": "Pratite svaku transaktsiyu, pazhljivo.",
+      "category": "Finance",
+      "generated_at": "2026-09-02T17:33:09.814124"
     }
   ],
-  "last_updated": "2026-09-02T16:08:57.975673"
+  "last_updated": "2026-09-02T17:33:09.814126"
 }
