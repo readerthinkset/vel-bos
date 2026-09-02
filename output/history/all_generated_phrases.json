@@ -12179,7 +12179,42 @@
       "transliteration": "Ova slatkoća, je taman.",
       "category": "Food",
       "generated_at": "2026-09-01T22:30:18.065725"
+    },
+    {
+      "english": "Do you have, anything lighter?",
+      "bosnian": "Imate li, nešto lakše?",
+      "transliteration": "Imate li, nesto lakse?",
+      "category": "Shopping",
+      "generated_at": "2026-09-02T03:56:39.875863"
+    },
+    {
+      "english": "This color, is lovely.",
+      "bosnian": "Ova boja, je divna.",
+      "transliteration": "Ova boja, je divna.",
+      "category": "Shopping",
+      "generated_at": "2026-09-02T03:56:39.875874"
+    },
+    {
+      "english": "I need, a small bag.",
+      "bosnian": "Treba mi, mala torba.",
+      "transliteration": "Treba mi, mala torba.",
+      "category": "Shopping",
+      "generated_at": "2026-09-02T03:56:39.875876"
+    },
+    {
+      "english": "Where are, the teacups?",
+      "bosnian": "Gdje su, šolje za čaj?",
+      "transliteration": "Gdje su, sholje za caj?",
+      "category": "Shopping",
+      "generated_at": "2026-09-02T03:56:39.875877"
+    },
+    {
+      "english": "Is this, the latest style?",
+      "bosnian": "Je li ovo, najnoviji model?",
+      "transliteration": "Je li ovo, najnoviji model?",
+      "category": "Shopping",
+      "generated_at": "2026-09-02T03:56:39.875878"
     }
   ],
-  "last_updated": "2026-09-01T22:30:18.065727"
+  "last_updated": "2026-09-02T03:56:39.875880"
 }
