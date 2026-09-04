@@ -12564,7 +12564,42 @@
       "transliteration": "Cijenim, ovo duboko.",
       "category": "Gratitude",
       "generated_at": "2026-09-04T17:18:45.420601"
+    },
+    {
+      "english": "Only one, ticket left.",
+      "bosnian": "Samo jedna, karta ostala.",
+      "transliteration": "Samo jedna, karta ostala.",
+      "category": "Numbers",
+      "generated_at": "2026-09-04T19:20:57.596389"
+    },
+    {
+      "english": "We need, two, more chairs.",
+      "bosnian": "Trebaju nam, dvije, stolice.",
+      "transliteration": "Trebaju nam, dvije, stolice.",
+      "category": "Numbers",
+      "generated_at": "2026-09-04T19:20:57.596398"
+    },
+    {
+      "english": "He bought, three, new books.",
+      "bosnian": "Kupio je, tri, nove knjige.",
+      "transliteration": "Kupio je, tri, nove knjige.",
+      "category": "Numbers",
+      "generated_at": "2026-09-04T19:20:57.596400"
+    },
+    {
+      "english": "Look, there are, four, pigeons.",
+      "bosnian": "Gledaj, ima, četiri, goluba.",
+      "transliteration": "Gledaj, ima, četiri, goluba.",
+      "category": "Numbers",
+      "generated_at": "2026-09-04T19:20:57.596401"
+    },
+    {
+      "english": "This costs, five, dollars.",
+      "bosnian": "Ovo košta, pet, dolara.",
+      "transliteration": "Ovo košta, pet, dolara.",
+      "category": "Numbers",
+      "generated_at": "2026-09-04T19:20:57.596403"
     }
   ],
-  "last_updated": "2026-09-04T17:18:45.420603"
+  "last_updated": "2026-09-04T19:20:57.596405"
 }
