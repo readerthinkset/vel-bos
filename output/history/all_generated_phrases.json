@@ -12599,7 +12599,42 @@
       "transliteration": "Ovo košta, pet, dolara.",
       "category": "Numbers",
       "generated_at": "2026-09-04T19:20:57.596403"
+    },
+    {
+      "english": "Hear the whisper, catch the sound.",
+      "bosnian": "Čuj šapat, uhvati zvuk.",
+      "transliteration": "Chuy shah-pat, oo-hvah-tee zvook.",
+      "category": "Directions",
+      "generated_at": "2026-09-04T22:15:39.927493"
+    },
+    {
+      "english": "Point to the object, show me.",
+      "bosnian": "Pokazuj na predmet, reci mi.",
+      "transliteration": "Po-kah-zoy nah pred-met, reh-tsee mee.",
+      "category": "Directions",
+      "generated_at": "2026-09-04T22:15:39.927503"
+    },
+    {
+      "english": "Feel the texture, soft or rough?",
+      "bosnian": "Osjeti teksturu, meko ili grubo?",
+      "transliteration": "Oh-seh-tee tek-stoo-roo, meh-ko ee-lee groo-bo?",
+      "category": "Directions",
+      "generated_at": "2026-09-04T22:15:39.927505"
+    },
+    {
+      "english": "Trace the shape, with your finger.",
+      "bosnian": "Prati oblik, prstom svojim.",
+      "transliteration": "Prah-tee ob-leek, prstom svoy-eem.",
+      "category": "Directions",
+      "generated_at": "2026-09-04T22:15:39.927506"
+    },
+    {
+      "english": "Imagine a color, bright and bold.",
+      "bosnian": "Zamislite boju, sjajnu i smjelu.",
+      "transliteration": "Zah-mees-lee-teh bo-yoo, sjahy-noo ee smyeh-loo.",
+      "category": "Directions",
+      "generated_at": "2026-09-04T22:15:39.927507"
     }
   ],
-  "last_updated": "2026-09-04T19:20:57.596405"
+  "last_updated": "2026-09-04T22:15:39.927509"
 }
