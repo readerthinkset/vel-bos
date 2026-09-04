@@ -12529,7 +12529,42 @@
       "transliteration": "Moja vjenčanica, je u ormaru.",
       "category": "Clothes",
       "generated_at": "2026-09-04T03:57:18.009908"
+    },
+    {
+      "english": "This is, so good.",
+      "bosnian": "Ovo je, tako dobro.",
+      "transliteration": "Ovo ye, tako dobro.",
+      "category": "Gratitude",
+      "generated_at": "2026-09-04T17:18:45.420586"
+    },
+    {
+      "english": "You are, a star.",
+      "bosnian": "Ti si, zvijezda.",
+      "transliteration": "Ti si, zvijezda.",
+      "category": "Gratitude",
+      "generated_at": "2026-09-04T17:18:45.420597"
+    },
+    {
+      "english": "My heart, is full.",
+      "bosnian": "Srce moje, je puno.",
+      "transliteration": "Srce moye, ye puno.",
+      "category": "Gratitude",
+      "generated_at": "2026-09-04T17:18:45.420599"
+    },
+    {
+      "english": "What a gift, this is.",
+      "bosnian": "Kakav dar, ovo je.",
+      "transliteration": "Kakav dar, ovo ye.",
+      "category": "Gratitude",
+      "generated_at": "2026-09-04T17:18:45.420600"
+    },
+    {
+      "english": "I appreciate, this deeply.",
+      "bosnian": "Cijenim, ovo duboko.",
+      "transliteration": "Cijenim, ovo duboko.",
+      "category": "Gratitude",
+      "generated_at": "2026-09-04T17:18:45.420601"
     }
   ],
-  "last_updated": "2026-09-04T03:57:18.009910"
+  "last_updated": "2026-09-04T17:18:45.420603"
 }
