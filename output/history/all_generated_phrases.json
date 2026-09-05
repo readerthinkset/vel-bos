@@ -12704,7 +12704,42 @@
       "transliteration": "Miris ajvara, pravi užitak.",
       "category": "Culture",
       "generated_at": "2026-09-05T14:30:15.424475"
+    },
+    {
+      "english": "Touch your nose, lightly.",
+      "bosnian": "Dodirni nos, lagano.",
+      "transliteration": "Dodirni nos, lagano.",
+      "category": "Body Parts",
+      "generated_at": "2026-09-05T16:26:34.064217"
+    },
+    {
+      "english": "Move your head, side to side.",
+      "bosnian": "Pomakni glavu, lijevo desno.",
+      "transliteration": "Pomakni glavu, lijevo desno.",
+      "category": "Body Parts",
+      "generated_at": "2026-09-05T16:26:34.064226"
+    },
+    {
+      "english": "Your lips, form a small 'O'.",
+      "bosnian": "Usne, formiraj malo 'O'.",
+      "transliteration": "Usne, formiraj malo 'O'.",
+      "category": "Body Parts",
+      "generated_at": "2026-09-05T16:26:34.064227"
+    },
+    {
+      "english": "Feel your heartbeat, in your chest.",
+      "bosnian": "Osjeti otkucaje srca, u grudima.",
+      "transliteration": "Osjeti otkucaje srca, u grudima.",
+      "category": "Body Parts",
+      "generated_at": "2026-09-05T16:26:34.064228"
+    },
+    {
+      "english": "Press your palms, together gently.",
+      "bosnian": "Spoji dlanove, blago.",
+      "transliteration": "Spoji dlanove, blago.",
+      "category": "Body Parts",
+      "generated_at": "2026-09-05T16:26:34.064229"
     }
   ],
-  "last_updated": "2026-09-05T14:30:15.424476"
+  "last_updated": "2026-09-05T16:26:34.064230"
 }
