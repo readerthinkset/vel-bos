@@ -12739,7 +12739,42 @@
       "transliteration": "Spoji dlanove, blago.",
       "category": "Body Parts",
       "generated_at": "2026-09-05T16:26:34.064229"
+    },
+    {
+      "english": "This coffee, is very strong.",
+      "bosnian": "Ova kafa, je baš jaka.",
+      "transliteration": "Ova kafa, ye bash yaka.",
+      "category": "Restaurant",
+      "generated_at": "2026-09-05T18:52:43.023150"
+    },
+    {
+      "english": "Could I have, some ice, please?",
+      "bosnian": "Mogu li dobiti, malo leda, molim?",
+      "transliteration": "Mogu li dobiti, malo leda, molim?",
+      "category": "Restaurant",
+      "generated_at": "2026-09-05T18:52:43.023158"
+    },
+    {
+      "english": "The music, is quite lively.",
+      "bosnian": "Muzika, je prilično živahna.",
+      "transliteration": "Muzika, ye prillichno zhivahna.",
+      "category": "Restaurant",
+      "generated_at": "2026-09-05T18:52:43.023160"
+    },
+    {
+      "english": "Are there, any gluten-free options?",
+      "bosnian": "Ima li, nekih opcija, bez glutena?",
+      "transliteration": "Ima li, nekih optsija, bez glutena?",
+      "category": "Restaurant",
+      "generated_at": "2026-09-05T18:52:43.023161"
+    },
+    {
+      "english": "This pastry, is wonderfully flaky.",
+      "bosnian": "Ovo pecivo, je divno lisnato.",
+      "transliteration": "Ovo pettzivo, ye divno lisnato.",
+      "category": "Restaurant",
+      "generated_at": "2026-09-05T18:52:43.023162"
     }
   ],
-  "last_updated": "2026-09-05T16:26:34.064230"
+  "last_updated": "2026-09-05T18:52:43.023164"
 }
