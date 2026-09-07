@@ -13089,7 +13089,42 @@
       "transliteration": "Put ispred, tvoj je da ga osvojiš.",
       "category": "Courage",
       "generated_at": "2026-09-07T20:24:00.807398"
+    },
+    {
+      "english": "Well met, soul seeker.",
+      "bosnian": "Dobrodošao, tražioče duše.",
+      "transliteration": "Dobrodošao, tražioče duše.",
+      "category": "Greetings",
+      "generated_at": "2026-09-07T22:40:37.868191"
+    },
+    {
+      "english": "A quick hello, traveler.",
+      "bosnian": "Brzi pozdrav, putniče.",
+      "transliteration": "Brzi pozdrav, putniče.",
+      "category": "Greetings",
+      "generated_at": "2026-09-07T22:40:37.868202"
+    },
+    {
+      "english": "Good day, bright spirit.",
+      "bosnian": "Dobar dan, svijetli duhu.",
+      "transliteration": "Dobar dan, svijetli duhu.",
+      "category": "Greetings",
+      "generated_at": "2026-09-07T22:40:37.868204"
+    },
+    {
+      "english": "Hey there, fellow wanderer.",
+      "bosnian": "Zdravo, druže lutalice.",
+      "transliteration": "Zdravo, druže lutalice.",
+      "category": "Greetings",
+      "generated_at": "2026-09-07T22:40:37.868206"
+    },
+    {
+      "english": "A moment of greeting, friend.",
+      "bosnian": "Trenutak pozdrava, prijatelju.",
+      "transliteration": "Trenutak pozdrava, prijatelju.",
+      "category": "Greetings",
+      "generated_at": "2026-09-07T22:40:37.868207"
     }
   ],
-  "last_updated": "2026-09-07T20:24:00.807400"
+  "last_updated": "2026-09-07T22:40:37.868209"
 }
