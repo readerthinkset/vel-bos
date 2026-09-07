@@ -13019,7 +13019,42 @@
       "transliteration": "Mir uma, nalazi jasnoću.",
       "category": "Health",
       "generated_at": "2026-09-07T17:09:19.849992"
+    },
+    {
+      "english": "The shy hedgehog, curls into a ball.",
+      "bosnian": "Plašljivi jež, sklupča se u loptu.",
+      "transliteration": "Plash-lee-vee yezh, skloop-cha seh oo lop-too.",
+      "category": "Animals",
+      "generated_at": "2026-09-07T18:31:43.753495"
+    },
+    {
+      "english": "A curious cat, peers from the window.",
+      "bosnian": "Znatiželjna mačka, viri kroz prozor.",
+      "transliteration": "Znah-tee-zhel-nah mach-kah, vee-ree kroz proz-or.",
+      "category": "Animals",
+      "generated_at": "2026-09-07T18:31:43.753504"
+    },
+    {
+      "english": "The playful puppy, chases its own tail.",
+      "bosnian": "Razigrani psić, ganja vlastiti rep.",
+      "transliteration": "Raz-ee-grah-nee psich, gahn-yah vlahs-tee-tee rep.",
+      "category": "Animals",
+      "generated_at": "2026-09-07T18:31:43.753505"
+    },
+    {
+      "english": "A majestic horse, gallops across the field.",
+      "bosnian": "Veličanstveni konj, galopira poljem.",
+      "transliteration": "Veh-lee-chahnst-veh-nee konj, gah-loh-pee-rah poh-lyem.",
+      "category": "Animals",
+      "generated_at": "2026-09-07T18:31:43.753506"
+    },
+    {
+      "english": "The sleepy sloth, hangs from a branch.",
+      "bosnian": "Sanjivi ljenivac, visi na grani.",
+      "transliteration": "Sahn-yee-vee lye-nee-vatz, vee-see nah grah-nee.",
+      "category": "Animals",
+      "generated_at": "2026-09-07T18:31:43.753507"
     }
   ],
-  "last_updated": "2026-09-07T17:09:19.849994"
+  "last_updated": "2026-09-07T18:31:43.753509"
 }
