@@ -13194,7 +13194,42 @@
       "transliteration": "Ne-bo yeh ved-ro, sav-r-she-no plavo.",
       "category": "Weather",
       "generated_at": "2026-09-08T17:44:31.364026"
+    },
+    {
+      "english": "This breeze, feels like home.",
+      "bosnian": "Ovaj povjetarac, kao da je kod kuće.",
+      "transliteration": "Ovaj povjetarac, kao da je kod kuce.",
+      "category": "Travel",
+      "generated_at": "2026-09-08T19:46:48.863949"
+    },
+    {
+      "english": "Let's explore, beyond the map.",
+      "bosnian": "Istražimo, izvan mape.",
+      "transliteration": "Istražimo, izvan mape.",
+      "category": "Travel",
+      "generated_at": "2026-09-08T19:46:48.863962"
+    },
+    {
+      "english": "The market buzzes, with life.",
+      "bosnian": "Pijaca bruji, od života.",
+      "transliteration": "Pijaca bruji, od života.",
+      "category": "Travel",
+      "generated_at": "2026-09-08T19:46:48.863964"
+    },
+    {
+      "english": "Can I get, a coffee, please?",
+      "bosnian": "Mogu li dobiti, kafu, molim?",
+      "transliteration": "Mogu li dobiti, kafu, molim?",
+      "category": "Travel",
+      "generated_at": "2026-09-08T19:46:48.863966"
+    },
+    {
+      "english": "This view, takes my breath.",
+      "bosnian": "Ovaj pogled, oduzima dah.",
+      "transliteration": "Ovaj pogled, oduzima dah.",
+      "category": "Travel",
+      "generated_at": "2026-09-08T19:46:48.863967"
     }
   ],
-  "last_updated": "2026-09-08T17:44:31.364027"
+  "last_updated": "2026-09-08T19:46:48.863969"
 }
