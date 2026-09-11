@@ -13614,7 +13614,42 @@
       "transliteration": "Spoji se sa zemljom, pa lebdi.",
       "category": "Balance",
       "generated_at": "2026-09-10T22:22:56.584653"
+    },
+    {
+      "english": "This ajvar, is a real treat.",
+      "bosnian": "Ovaj ajvar, baš je poslastica.",
+      "transliteration": "Ovaj ajvar, bash je poslastica.",
+      "category": "Food",
+      "generated_at": "2026-09-11T04:03:46.288895"
+    },
+    {
+      "english": "A spoonful, of sunshine.",
+      "bosnian": "Jedna kašika, sunca.",
+      "transliteration": "Jedna kashika, sunca.",
+      "category": "Food",
+      "generated_at": "2026-09-11T04:03:46.288906"
+    },
+    {
+      "english": "These ćevapi, are perfection.",
+      "bosnian": "Ovi ćevapi, su savršeni.",
+      "transliteration": "Ovi cevapi, su savrsheni.",
+      "category": "Food",
+      "generated_at": "2026-09-11T04:03:46.288908"
+    },
+    {
+      "english": "Such a deep, savory taste.",
+      "bosnian": "Tako dubok, slan ukus.",
+      "transliteration": "Tako dubok, slan ukus.",
+      "category": "Food",
+      "generated_at": "2026-09-11T04:03:46.288908"
+    },
+    {
+      "english": "This pita, is heavenly.",
+      "bosnian": "Ova pita, je nebeska.",
+      "transliteration": "Ova pita, je nebeska.",
+      "category": "Food",
+      "generated_at": "2026-09-11T04:03:46.288909"
     }
   ],
-  "last_updated": "2026-09-10T22:22:56.584655"
+  "last_updated": "2026-09-11T04:03:46.288911"
 }
