@@ -13789,7 +13789,42 @@
       "transliteration": "Si-j sjeme, po-zi-tiv-no-sti.",
       "category": "Positive Life",
       "generated_at": "2026-09-11T22:22:34.177790"
+    },
+    {
+      "english": "Right now, let's begin.",
+      "bosnian": "Sada, započnimo.",
+      "transliteration": "Sada, zapochin'mo.",
+      "category": "Time",
+      "generated_at": "2026-09-12T04:04:33.645731"
+    },
+    {
+      "english": "That was then, this is now.",
+      "bosnian": "Tada je bilo, sada je ovo.",
+      "transliteration": "Tada ye bilo, sada ye ovo.",
+      "category": "Time",
+      "generated_at": "2026-09-12T04:04:33.645741"
+    },
+    {
+      "english": "Very soon, we will see.",
+      "bosnian": "Vrlo uskoro, vidjet ćemo.",
+      "transliteration": "Vrlo usko-ro, vid'yet che'mo.",
+      "category": "Time",
+      "generated_at": "2026-09-12T04:04:33.645742"
+    },
+    {
+      "english": "Just a moment, then we leave.",
+      "bosnian": "Samo trenutak, pa idemo.",
+      "transliteration": "Samo tre-nu-tak, pa i-de-mo.",
+      "category": "Time",
+      "generated_at": "2026-09-12T04:04:33.645755"
+    },
+    {
+      "english": "When the time is right, we'll know.",
+      "bosnian": "Kad vrijeme bude, znat ćemo.",
+      "transliteration": "Kad vri-ye-me bu-de, znat' che'mo.",
+      "category": "Time",
+      "generated_at": "2026-09-12T04:04:33.645756"
     }
   ],
-  "last_updated": "2026-09-11T22:22:34.177792"
+  "last_updated": "2026-09-12T04:04:33.645758"
 }
