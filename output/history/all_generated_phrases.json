@@ -14174,7 +14174,42 @@
       "transliteration": "Blagi shapat, onoga shto dolazi.",
       "category": "Hope",
       "generated_at": "2026-09-14T18:58:47.672744"
+    },
+    {
+      "english": "Hello, good soul, step in.",
+      "bosnian": "Zdravo, dobra dušo, uđi.",
+      "transliteration": "Zdrah-vo, doh-brah doo-shoh, oo-djee.",
+      "category": "Greetings",
+      "generated_at": "2026-09-14T20:46:49.924093"
+    },
+    {
+      "english": "A bright spirit, welcome here.",
+      "bosnian": "Svijetli duh, dobrodošao ovdje.",
+      "transliteration": "Svee-yet-lee dooh, doh-broh-doh-shao ov-dyeh.",
+      "category": "Greetings",
+      "generated_at": "2026-09-14T20:46:49.924104"
+    },
+    {
+      "english": "Well met, seeker of stories.",
+      "bosnian": "Dobrodošli, tražitelju priča.",
+      "transliteration": "Doh-broh-doh-shlee, trah-zhee-tel-yoo pree-cha.",
+      "category": "Greetings",
+      "generated_at": "2026-09-14T20:46:49.924105"
+    },
+    {
+      "english": "Greetings, kind heart, come closer.",
+      "bosnian": "Pozdrav, dobro srce, priđi bliže.",
+      "transliteration": "Poh-drahv, doh-broh ser-tseh, pree-djee blih-zheh.",
+      "category": "Greetings",
+      "generated_at": "2026-09-14T20:46:49.924107"
+    },
+    {
+      "english": "May your path be lit.",
+      "bosnian": "Neka ti put bude osvijetljen.",
+      "transliteration": "Neh-ka tee poot boo-deh oh-svee-yet-lyen.",
+      "category": "Greetings",
+      "generated_at": "2026-09-14T20:46:49.924108"
     }
   ],
-  "last_updated": "2026-09-14T18:58:47.672745"
+  "last_updated": "2026-09-14T20:46:49.924110"
 }
