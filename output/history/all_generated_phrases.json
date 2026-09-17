@@ -14699,7 +14699,42 @@
       "transliteration": "Smeđa zemlja bogata, korijenje duboko.",
       "category": "Colors",
       "generated_at": "2026-09-17T17:52:55.773985"
+    },
+    {
+      "english": "How many, days, until Friday?",
+      "bosnian": "Koliko, dana, do petka?",
+      "transliteration": "Koliko, dana, do petka?",
+      "category": "Numbers",
+      "generated_at": "2026-09-17T20:04:48.034842"
+    },
+    {
+      "english": "We'll be, back, in ten.",
+      "bosnian": "Vraćamo se, za deset.",
+      "transliteration": "Vracamo se, za deset.",
+      "category": "Numbers",
+      "generated_at": "2026-09-17T20:04:48.034853"
+    },
+    {
+      "english": "Just, one, more try.",
+      "bosnian": "Samo, još jedan, pokušaj.",
+      "transliteration": "Samo, jos jedan, pokusaj.",
+      "category": "Numbers",
+      "generated_at": "2026-09-17T20:04:48.034855"
+    },
+    {
+      "english": "It took, seven, hours.",
+      "bosnian": "Trebalo je, sedam, sati.",
+      "transliteration": "Trebale je, sedam, sati.",
+      "category": "Numbers",
+      "generated_at": "2026-09-17T20:04:48.034857"
+    },
+    {
+      "english": "Could you, add, twelve?",
+      "bosnian": "Možeš li, dodati, dvanaest?",
+      "transliteration": "Možeš li, dodati, dvanaest?",
+      "category": "Numbers",
+      "generated_at": "2026-09-17T20:04:48.034858"
     }
   ],
-  "last_updated": "2026-09-17T17:52:55.774000"
+  "last_updated": "2026-09-17T20:04:48.034860"
 }
