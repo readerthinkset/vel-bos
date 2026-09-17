@@ -14734,7 +14734,42 @@
       "transliteration": "Možeš li, dodati, dvanaest?",
       "category": "Numbers",
       "generated_at": "2026-09-17T20:04:48.034858"
+    },
+    {
+      "english": "Help, I'm choking, can you hear?",
+      "bosnian": "Pomoć, gušim se, čujete li?",
+      "transliteration": "Pomoch, gushim se, chuyete li?",
+      "category": "Emergency",
+      "generated_at": "2026-09-17T22:46:07.713300"
+    },
+    {
+      "english": "Sudden chest pain, very sharp.",
+      "bosnian": "Nagla bol u grudima, jako oštra.",
+      "transliteration": "Nagla bol u grudima, yako oštra.",
+      "category": "Emergency",
+      "generated_at": "2026-09-17T22:46:07.713308"
+    },
+    {
+      "english": "I think I'm having a stroke.",
+      "bosnian": "Mislim da imam moždani udar.",
+      "transliteration": "Mislim da imam moždani udar.",
+      "category": "Emergency",
+      "generated_at": "2026-09-17T22:46:07.713310"
+    },
+    {
+      "english": "My vision is blurring badly.",
+      "bosnian": "Vid mi jako zamagljuje.",
+      "transliteration": "Vid mi yako zamagljuje.",
+      "category": "Emergency",
+      "generated_at": "2026-09-17T22:46:07.713311"
+    },
+    {
+      "english": "I feel faint, need support.",
+      "bosnian": "Osjećam se slabo, treba mi oslonac.",
+      "transliteration": "Osecham se slabo, treba mi oslonac.",
+      "category": "Emergency",
+      "generated_at": "2026-09-17T22:46:07.713312"
     }
   ],
-  "last_updated": "2026-09-17T20:04:48.034860"
+  "last_updated": "2026-09-17T22:46:07.713313"
 }
