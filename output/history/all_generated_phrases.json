@@ -14769,7 +14769,42 @@
       "transliteration": "Osecham se slabo, treba mi oslonac.",
       "category": "Emergency",
       "generated_at": "2026-09-17T22:46:07.713312"
+    },
+    {
+      "english": "May I try, this on, please?",
+      "bosnian": "Mogu li, probati, ovo?",
+      "transliteration": "Mogu lee, probati, ovo?",
+      "category": "Shopping",
+      "generated_at": "2026-09-18T04:08:35.563206"
+    },
+    {
+      "english": "Do you have, this, in blue?",
+      "bosnian": "Imate li, ovo, u plavoj boji?",
+      "transliteration": "Imate lee, ovo, oo plavoy bo-yi?",
+      "category": "Shopping",
+      "generated_at": "2026-09-18T04:08:35.563215"
+    },
+    {
+      "english": "What is, the price, for this?",
+      "bosnian": "Koliko košta, ovo?",
+      "transliteration": "Koliko koshta, ovo?",
+      "category": "Shopping",
+      "generated_at": "2026-09-18T04:08:35.563217"
+    },
+    {
+      "english": "I’m looking, for a souvenir.",
+      "bosnian": "Tražim, suvenir.",
+      "transliteration": "Trazheem, suvenir.",
+      "category": "Shopping",
+      "generated_at": "2026-09-18T04:08:35.563218"
+    },
+    {
+      "english": "Could you wrap, this for me?",
+      "bosnian": "Možete li, ovo upakovati, za mene?",
+      "transliteration": "Mozhete lee, ovo upakovati, za mene?",
+      "category": "Shopping",
+      "generated_at": "2026-09-18T04:08:35.563219"
     }
   ],
-  "last_updated": "2026-09-17T22:46:07.713313"
+  "last_updated": "2026-09-18T04:08:35.563221"
 }
