@@ -15084,7 +15084,42 @@
       "transliteration": "Nova zora, čeka te.",
       "category": "Courage",
       "generated_at": "2026-09-19T19:14:32.499731"
+    },
+    {
+      "english": "Sun's warmth, lingers still.",
+      "bosnian": "Sunčeva toplina, još traje.",
+      "transliteration": "Sunch-eva top-leena, yosh trah-yeh.",
+      "category": "Time",
+      "generated_at": "2026-09-19T22:15:56.057006"
+    },
+    {
+      "english": "Shadows lengthen, gently.",
+      "bosnian": "Sjene se izdužuju, polako.",
+      "transliteration": "Shyeh-neh seh eez-doo-joo-yoo, poh-lah-koh.",
+      "category": "Time",
+      "generated_at": "2026-09-19T22:15:56.057018"
+    },
+    {
+      "english": "Daylight fades, softly.",
+      "bosnian": "Dnevno svjetlo blijedi, tiho.",
+      "transliteration": "Dnev-noh shvyet-loh bleh-dee, tee-hoh.",
+      "category": "Time",
+      "generated_at": "2026-09-19T22:15:56.057020"
+    },
+    {
+      "english": "Future whispers, possibilities.",
+      "bosnian": "Budućnost šapuće, mogućnosti.",
+      "transliteration": "Boo-dooch-nost shhah-pooch-eh, moh-gooch-nost-ee.",
+      "category": "Time",
+      "generated_at": "2026-09-19T22:15:56.057022"
+    },
+    {
+      "english": "Past echoes, softly.",
+      "bosnian": "Prošlost odzvanja, tiho.",
+      "transliteration": "Prosh-lost odz-vahn-yah, tee-hoh.",
+      "category": "Time",
+      "generated_at": "2026-09-19T22:15:56.057023"
     }
   ],
-  "last_updated": "2026-09-19T19:14:32.499733"
+  "last_updated": "2026-09-19T22:15:56.057025"
 }
