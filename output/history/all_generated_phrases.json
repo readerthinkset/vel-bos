@@ -15504,7 +15504,42 @@
       "transliteration": "Nađi mir, u pokretu.",
       "category": "Balance",
       "generated_at": "2026-09-22T16:11:10.650138"
+    },
+    {
+      "english": "Stars twinkle, night's silent song.",
+      "bosnian": "Zvijezde trepere, noćna tišina pjeva.",
+      "transliteration": "Zvijez-deh tre-peh-reh, noć-nah ti-shi-nah pjeh-vah.",
+      "category": "Common Expressions",
+      "generated_at": "2026-09-22T17:51:51.642615"
+    },
+    {
+      "english": "Morning dew, earth's soft tears.",
+      "bosnian": "Jutarnja rosa, zemljine suze nježne.",
+      "transliteration": "Jut-arn-yah ro-sah, zem-lee-ne zoo-zeh njeh-zhneh.",
+      "category": "Common Expressions",
+      "generated_at": "2026-09-22T17:51:51.642624"
+    },
+    {
+      "english": "Quiet river, flowing on.",
+      "bosnian": "Mirna rijeka, teče polako.",
+      "transliteration": "Meer-nah ree-yeh-kah, teh-cheh poh-lah-koh.",
+      "category": "Common Expressions",
+      "generated_at": "2026-09-22T17:51:51.642626"
+    },
+    {
+      "english": "Warm bread, shared with friends.",
+      "bosnian": "Topao hljeb, dijeli se s rajom.",
+      "transliteration": "Toh-pah-oh hlyeb, dee-yeh-lee seh s rah-yom.",
+      "category": "Common Expressions",
+      "generated_at": "2026-09-22T17:51:51.642627"
+    },
+    {
+      "english": "Old tree, stories it holds.",
+      "bosnian": "Stari hrast, priče čuva svoje.",
+      "transliteration": "Stah-ree hrahst, pree-cheh choo-vah svoh-yeh.",
+      "category": "Common Expressions",
+      "generated_at": "2026-09-22T17:51:51.642629"
     }
   ],
-  "last_updated": "2026-09-22T16:11:10.650139"
+  "last_updated": "2026-09-22T17:51:51.642630"
 }
