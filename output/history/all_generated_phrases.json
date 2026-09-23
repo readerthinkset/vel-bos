@@ -15644,7 +15644,42 @@
       "transliteration": "Pet minuta, pauze sad.",
       "category": "Numbers",
       "generated_at": "2026-09-23T04:15:40.118462"
+    },
+    {
+      "english": "Listen to the birds, how they sing.",
+      "bosnian": "Slušaj ptice, kako pjevaju.",
+      "transliteration": "Slu-shai pti-tse, ka-ko pye-va-yu.",
+      "category": "Directions",
+      "generated_at": "2026-09-23T16:01:05.020728"
+    },
+    {
+      "english": "See the river, flowing free.",
+      "bosnian": "Gledaj rijeku, kako teče.",
+      "transliteration": "Gle-dai rye-ku, ka-ko te-che.",
+      "category": "Directions",
+      "generated_at": "2026-09-23T16:01:05.020739"
+    },
+    {
+      "english": "Taste the apple, sweet and crisp.",
+      "bosnian": "Probaj jabuku, slatku i hrskavu.",
+      "transliteration": "Pro-bai ja-bu-ku, slat-ku i hr-ska-vu.",
+      "category": "Directions",
+      "generated_at": "2026-09-23T16:01:05.020740"
+    },
+    {
+      "english": "Feel the wind, on your face.",
+      "bosnian": "Osjeti vjetar, na svom licu.",
+      "transliteration": "O-se-ti vye-tar, na svom li-tsu.",
+      "category": "Directions",
+      "generated_at": "2026-09-23T16:01:05.020741"
+    },
+    {
+      "english": "Smell the flowers, after rain.",
+      "bosnian": "Omiriši cvijeće, poslije kiše.",
+      "transliteration": "O-mi-ri-shi tsvi-ye-che, pos-lije ki-she.",
+      "category": "Directions",
+      "generated_at": "2026-09-23T16:01:05.020742"
     }
   ],
-  "last_updated": "2026-09-23T04:15:40.118464"
+  "last_updated": "2026-09-23T16:01:05.020744"
 }
