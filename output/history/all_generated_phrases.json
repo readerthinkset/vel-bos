@@ -16029,7 +16029,42 @@
       "transliteration": "Digitalni alati, novi horizonti.",
       "category": "Technology",
       "generated_at": "2026-09-25T16:25:06.098973"
+    },
+    {
+      "english": "The ground, it's shaking.",
+      "bosnian": "Tlo, trese se.",
+      "transliteration": "Tlo, trehse seh.",
+      "category": "Emergency",
+      "generated_at": "2026-09-25T18:10:04.166732"
+    },
+    {
+      "english": "Something's wrong, hear me?",
+      "bosnian": "Nešto nije u redu, čujete li?",
+      "transliteration": "Nehshto nye-eh u reh-doo, chuh-yeh-teh lee?",
+      "category": "Emergency",
+      "generated_at": "2026-09-25T18:10:04.166746"
+    },
+    {
+      "english": "Need to get away, fast.",
+      "bosnian": "Moram se udaljiti, brzo.",
+      "transliteration": "Moh-rahm seh oo-dah-lye-tee, brzhoh.",
+      "category": "Emergency",
+      "generated_at": "2026-09-25T18:10:04.166748"
+    },
+    {
+      "english": "My hearing, it's gone.",
+      "bosnian": "Moj sluh, nestao je.",
+      "transliteration": "Moy slooh, nehs-tah-oh yeh.",
+      "category": "Emergency",
+      "generated_at": "2026-09-25T18:10:04.166749"
+    },
+    {
+      "english": "There's a loud noise, what is?",
+      "bosnian": "Čuje se jaka buka, što je?",
+      "transliteration": "Chuh-yeh seh yah-kah boo-kah, shtoh yeh?",
+      "category": "Emergency",
+      "generated_at": "2026-09-25T18:10:04.166751"
     }
   ],
-  "last_updated": "2026-09-25T16:25:06.098974"
+  "last_updated": "2026-09-25T18:10:04.166753"
 }
