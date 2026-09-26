@@ -16169,7 +16169,42 @@
       "transliteration": "Ostar vjetar, shiba uglove.",
       "category": "Weather",
       "generated_at": "2026-09-26T04:28:50.983602"
+    },
+    {
+      "english": "Sunlight, through the leaves.",
+      "bosnian": "Sunčeva svjetlost, kroz lišće.",
+      "transliteration": "Suncheva svetlost, kroz lishche.",
+      "category": "Nature",
+      "generated_at": "2026-09-26T15:40:19.041975"
+    },
+    {
+      "english": "A small bird, sings sweetly.",
+      "bosnian": "Mala ptica, pjeva slatko.",
+      "transliteration": "Mala ptitsa, peva slatko.",
+      "category": "Nature",
+      "generated_at": "2026-09-26T15:40:19.041985"
+    },
+    {
+      "english": "Raindrops, on the window.",
+      "bosnian": "Kapljice kiše, na prozoru.",
+      "transliteration": "Kapljitse kishi, na prozoru.",
+      "category": "Nature",
+      "generated_at": "2026-09-26T15:40:19.041988"
+    },
+    {
+      "english": "The mountain, stands tall.",
+      "bosnian": "Planina, stoji visoko.",
+      "transliteration": "Planina, stoji visoko.",
+      "category": "Nature",
+      "generated_at": "2026-09-26T15:40:19.041989"
+    },
+    {
+      "english": "Morning dew, on the grass.",
+      "bosnian": "Jutarnja rosa, na travi.",
+      "transliteration": "Jutarnja rosa, na travi.",
+      "category": "Nature",
+      "generated_at": "2026-09-26T15:40:19.041990"
     }
   ],
-  "last_updated": "2026-09-26T04:28:50.983604"
+  "last_updated": "2026-09-26T15:40:19.041992"
 }
