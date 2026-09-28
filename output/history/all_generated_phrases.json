@@ -16554,7 +16554,42 @@
       "transliteration": "Dijelimo, ritam jedinstven.",
       "category": "Relationships",
       "generated_at": "2026-09-28T20:20:38.417098"
+    },
+    {
+      "english": "Picture this moment, what's happening?",
+      "bosnian": "Zamislite ovaj trenutak, šta se dešava?",
+      "transliteration": "Zamislite ovaj trenutak, šta se dešava?",
+      "category": "Directions",
+      "generated_at": "2026-09-28T22:27:33.396624"
+    },
+    {
+      "english": "Consider this word, its meaning?",
+      "bosnian": "Razmotrite ovu riječ, njeno značenje?",
+      "transliteration": "Razmotrite ovu riječ, njeno značenje?",
+      "category": "Directions",
+      "generated_at": "2026-09-28T22:27:33.396637"
+    },
+    {
+      "english": "Listen closely now, to the sound.",
+      "bosnian": "Slušajte pažljivo sada, zvuku.",
+      "transliteration": "Slušajte pažljivo sada, zvuku.",
+      "category": "Directions",
+      "generated_at": "2026-09-28T22:27:33.396639"
+    },
+    {
+      "english": "Think about this, then speak.",
+      "bosnian": "Razmislite o ovome, onda pričajte.",
+      "transliteration": "Razmislite o ovome, onda pričajte.",
+      "category": "Directions",
+      "generated_at": "2026-09-28T22:27:33.396640"
+    },
+    {
+      "english": "What comes to mind, with this?",
+      "bosnian": "Šta vam pada na pamet, s ovim?",
+      "transliteration": "Šta vam pada na pamet, s ovim?",
+      "category": "Directions",
+      "generated_at": "2026-09-28T22:27:33.396641"
     }
   ],
-  "last_updated": "2026-09-28T20:20:38.417100"
+  "last_updated": "2026-09-28T22:27:33.396643"
 }
