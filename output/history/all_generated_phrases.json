@@ -16764,7 +16764,42 @@
       "transliteration": "Ove cipele, su iznenadjujuce lagane.",
       "category": "Clothes",
       "generated_at": "2026-09-29T21:18:42.319911"
+    },
+    {
+      "english": "Soon, the morning light.",
+      "bosnian": "Uskoro, jutarnja svjetlost.",
+      "transliteration": "Uskoro, jutarnja svjetlost.",
+      "category": "Time",
+      "generated_at": "2026-09-29T23:34:17.733096"
+    },
+    {
+      "english": "Late night, quiet thoughts.",
+      "bosnian": "Kasna noć, tihe misli.",
+      "transliteration": "Kasna noć, tihe misli.",
+      "category": "Time",
+      "generated_at": "2026-09-29T23:34:17.733109"
+    },
+    {
+      "english": "Minutes fly, like birds.",
+      "bosnian": "Minuti lete, kao ptice.",
+      "transliteration": "Minuti lete, kao ptice.",
+      "category": "Time",
+      "generated_at": "2026-09-29T23:34:17.733111"
+    },
+    {
+      "english": "Long ago, a memory.",
+      "bosnian": "Davno, jedna uspomene.",
+      "transliteration": "Davno, jedna uspomene.",
+      "category": "Time",
+      "generated_at": "2026-09-29T23:34:17.733112"
+    },
+    {
+      "english": "Just a breath, then gone.",
+      "bosnian": "Samo dah, pa nestalo.",
+      "transliteration": "Samo dah, pa nestalo.",
+      "category": "Time",
+      "generated_at": "2026-09-29T23:34:17.733114"
     }
   ],
-  "last_updated": "2026-09-29T21:18:42.319913"
+  "last_updated": "2026-09-29T23:34:17.733116"
 }
