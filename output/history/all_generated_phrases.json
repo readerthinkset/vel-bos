@@ -16659,7 +16659,42 @@
       "transliteration": "Podijeli svoju jedinstvenu, unutarnju melodiju.",
       "category": "Positive Life",
       "generated_at": "2026-09-29T05:14:18.769172"
+    },
+    {
+      "english": "This meal, is a true delight.",
+      "bosnian": "Ovo jelo, pravo je zadovoljstvo.",
+      "transliteration": "Ovo yelo, pravo ye zadovoljstvo.",
+      "category": "Restaurant",
+      "generated_at": "2026-09-29T17:32:36.750411"
+    },
+    {
+      "english": "Could I have, the recipe, please?",
+      "bosnian": "Mogu li dobiti, recept, molim?",
+      "transliteration": "Mogu li dobiti, recept, molim?",
+      "category": "Restaurant",
+      "generated_at": "2026-09-29T17:32:36.750419"
+    },
+    {
+      "english": "What's, this, spicy kick?",
+      "bosnian": "Kakav je, ovaj, ljuti dodatak?",
+      "transliteration": "Kakav ye, ovaj, lyuti dodatak?",
+      "category": "Restaurant",
+      "generated_at": "2026-09-29T17:32:36.750421"
+    },
+    {
+      "english": "This atmosphere, is so relaxing.",
+      "bosnian": "Ova atmosfera, tako je opuštajuća.",
+      "transliteration": "Ova atmosfera, tako ye opuštajuća.",
+      "category": "Restaurant",
+      "generated_at": "2026-09-29T17:32:36.750422"
+    },
+    {
+      "english": "Do you recommend, this dish?",
+      "bosnian": "Preporučujete li, ovo jelo?",
+      "transliteration": "Preporučujete li, ovo yelo?",
+      "category": "Restaurant",
+      "generated_at": "2026-09-29T17:32:36.750422"
     }
   ],
-  "last_updated": "2026-09-29T05:14:18.769174"
+  "last_updated": "2026-09-29T17:32:36.750424"
 }
