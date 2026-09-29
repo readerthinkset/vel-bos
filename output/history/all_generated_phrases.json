@@ -16694,7 +16694,42 @@
       "transliteration": "Preporučujete li, ovo yelo?",
       "category": "Restaurant",
       "generated_at": "2026-09-29T17:32:36.750422"
+    },
+    {
+      "english": "A smile for you, friend.",
+      "bosnian": "Osmijeh za tebe, prijatelju.",
+      "transliteration": "Osmijeh za tebe, prijatelju.",
+      "category": "Greetings",
+      "generated_at": "2026-09-29T19:02:20.834503"
+    },
+    {
+      "english": "Glad to see your face.",
+      "bosnian": "Drago mi vidjeti tvoje lice.",
+      "transliteration": "Drago mi vidjeti tvoje lice.",
+      "category": "Greetings",
+      "generated_at": "2026-09-29T19:02:20.834513"
+    },
+    {
+      "english": "Come in, take a seat.",
+      "bosnian": "Uđite, izvolite sjesti.",
+      "transliteration": "Uđite, izvolite sjesti.",
+      "category": "Greetings",
+      "generated_at": "2026-09-29T19:02:20.834514"
+    },
+    {
+      "english": "A friendly nod, hello.",
+      "bosnian": "Prijateljski kim, zdravo.",
+      "transliteration": "Prijateljski kim, zdravo.",
+      "category": "Greetings",
+      "generated_at": "2026-09-29T19:02:20.834516"
+    },
+    {
+      "english": "Your presence is welcome.",
+      "bosnian": "Vaše prisustvo je dobrodošlo.",
+      "transliteration": "Vaše prisustvo je dobrodošlo.",
+      "category": "Greetings",
+      "generated_at": "2026-09-29T19:02:20.834517"
     }
   ],
-  "last_updated": "2026-09-29T17:32:36.750424"
+  "last_updated": "2026-09-29T19:02:20.834519"
 }
