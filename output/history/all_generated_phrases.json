@@ -16729,7 +16729,42 @@
       "transliteration": "Vaše prisustvo je dobrodošlo.",
       "category": "Greetings",
       "generated_at": "2026-09-29T19:02:20.834517"
+    },
+    {
+      "english": "This sweater, has a cozy feel.",
+      "bosnian": "Ovaj džemper, djeluje udobno.",
+      "transliteration": "Ovaj dzemper, djeluje udobno.",
+      "category": "Clothes",
+      "generated_at": "2026-09-29T21:18:42.319895"
+    },
+    {
+      "english": "My new jeans, are quite stylish.",
+      "bosnian": "Moje nove farmerke, su baš moderne.",
+      "transliteration": "Moje nove farmerke, su bas moderne.",
+      "category": "Clothes",
+      "generated_at": "2026-09-29T21:18:42.319906"
+    },
+    {
+      "english": "That dress, flows beautifully.",
+      "bosnian": "Ta haljina, lijepo pada.",
+      "transliteration": "Ta haljina, lijepo pada.",
+      "category": "Clothes",
+      "generated_at": "2026-09-29T21:18:42.319908"
+    },
+    {
+      "english": "I need a sturdy coat, for the rain.",
+      "bosnian": "Treba mi čvrst kaput, za kišu.",
+      "transliteration": "Treba mi cvrst kaput, za kisu.",
+      "category": "Clothes",
+      "generated_at": "2026-09-29T21:18:42.319910"
+    },
+    {
+      "english": "These shoes, are surprisingly light.",
+      "bosnian": "Ove cipele, su iznenađujuće lagane.",
+      "transliteration": "Ove cipele, su iznenadjujuce lagane.",
+      "category": "Clothes",
+      "generated_at": "2026-09-29T21:18:42.319911"
     }
   ],
-  "last_updated": "2026-09-29T19:02:20.834519"
+  "last_updated": "2026-09-29T21:18:42.319913"
 }
