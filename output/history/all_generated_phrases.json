@@ -17114,7 +17114,42 @@
       "transliteration": "Bosansko putovanje, počinje sada.",
       "category": "Growth",
       "generated_at": "2026-10-01T21:39:16.879244"
+    },
+    {
+      "english": "Morning mist, hangs low, and silent.",
+      "bosnian": "Jutarnja magla, stoji tiho, i tiho.",
+      "transliteration": "YOO-tarn-ya MAHG-lah, STOH-ee TEE-ho, ee TEE-ho.",
+      "category": "Weather",
+      "generated_at": "2026-10-01T23:48:42.861399"
+    },
+    {
+      "english": "The air, it bites, with winter's chill.",
+      "bosnian": "Zrak, on grize, sa zimskim ledom.",
+      "transliteration": "ZRAHK, on GREE-zeh, sah ZEEM-skim LEH-dom.",
+      "category": "Weather",
+      "generated_at": "2026-10-01T23:48:42.861410"
+    },
+    {
+      "english": "Sunlight, through the leaves, a dappled pattern.",
+      "bosnian": "Sunčeva svjetlost, kroz lišće, šarani uzorak.",
+      "transliteration": "SOON-cheh-vah SVYET-lost, krohz LEESH-cheh, SHAH-rah-nee OO-zo-rahk.",
+      "category": "Weather",
+      "generated_at": "2026-10-01T23:48:42.861413"
+    },
+    {
+      "english": "Thunder rumbles, far off, a deep sound.",
+      "bosnian": "Grmljavina tutnji, u daljini, dubok zvuk.",
+      "transliteration": "GRM-lyah-vee-nah TOOT-nyee, oo DAH-lee-nyee, DOO-bok ZVOOK.",
+      "category": "Weather",
+      "generated_at": "2026-10-01T23:48:42.861414"
+    },
+    {
+      "english": "A sudden squall, comes and goes.",
+      "bosnian": "Iznenadna bura, dođe, i prođe.",
+      "transliteration": "EEZ-neh-nahd-nah BOO-rah, DOH-yeh, ee PROH-yeh.",
+      "category": "Weather",
+      "generated_at": "2026-10-01T23:48:42.861415"
     }
   ],
-  "last_updated": "2026-10-01T21:39:16.879246"
+  "last_updated": "2026-10-01T23:48:42.861417"
 }
