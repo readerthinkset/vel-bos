@@ -17009,7 +17009,42 @@
       "transliteration": "Stisni pesnicu, jako.",
       "category": "Body Parts",
       "generated_at": "2026-10-01T05:15:23.835230"
+    },
+    {
+      "english": "The bus arrives, at eight.",
+      "bosnian": "Autobus stiže, u osam.",
+      "transliteration": "Autobus stizhe, u osam.",
+      "category": "Numbers",
+      "generated_at": "2026-10-01T19:09:13.271350"
+    },
+    {
+      "english": "We met, on day nine.",
+      "bosnian": "Sreli smo se, devetog dana.",
+      "transliteration": "Sreli smo se, devetog dana.",
+      "category": "Numbers",
+      "generated_at": "2026-10-01T19:09:13.271362"
+    },
+    {
+      "english": "This recipe, uses eleven.",
+      "bosnian": "Ovaj recept, koristi jedanaest.",
+      "transliteration": "Ovaj recept, koristi jedanaest.",
+      "category": "Numbers",
+      "generated_at": "2026-10-01T19:09:13.271364"
+    },
+    {
+      "english": "The journey, took thirteen.",
+      "bosnian": "Putovanje, trajalo je trinaest.",
+      "transliteration": "Putovanje, trajalo je trinaest.",
+      "category": "Numbers",
+      "generated_at": "2026-10-01T19:09:13.271365"
+    },
+    {
+      "english": "She is, number fourteen.",
+      "bosnian": "Ona je, broj četrnaest.",
+      "transliteration": "Ona je, broj chetrnaest.",
+      "category": "Numbers",
+      "generated_at": "2026-10-01T19:09:13.271366"
     }
   ],
-  "last_updated": "2026-10-01T05:15:23.835231"
+  "last_updated": "2026-10-01T19:09:13.271368"
 }
