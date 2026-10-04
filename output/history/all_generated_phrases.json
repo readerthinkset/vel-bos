@@ -17499,7 +17499,42 @@
       "transliteration": "Moj oslonac, uvijek.",
       "category": "Relationships",
       "generated_at": "2026-10-03T22:47:22.130865"
+    },
+    {
+      "english": "This shade, suits me well.",
+      "bosnian": "Ova nijansa, mi dobro stoji.",
+      "transliteration": "Ova nijansa, mi dobro stoji.",
+      "category": "Shopping",
+      "generated_at": "2026-10-04T05:19:53.660874"
+    },
+    {
+      "english": "Is this, locally sourced?",
+      "bosnian": "Je li ovo, domaće?",
+      "transliteration": "Je li ovo, domaće?",
+      "category": "Shopping",
+      "generated_at": "2026-10-04T05:19:53.660882"
+    },
+    {
+      "english": "I’m looking, for a unique trinket.",
+      "bosnian": "Tražim, neobičnu sitnicu.",
+      "transliteration": "Tražim, neobičnu sitnicu.",
+      "category": "Shopping",
+      "generated_at": "2026-10-04T05:19:53.660884"
+    },
+    {
+      "english": "Could you show me, that woven basket?",
+      "bosnian": "Možete li mi pokazati, onu tkanu korpu?",
+      "transliteration": "Možete li mi pokazati, onu tkanu korpu?",
+      "category": "Shopping",
+      "generated_at": "2026-10-04T05:19:53.660885"
+    },
+    {
+      "english": "This fabric, feels very soft.",
+      "bosnian": "Ovaj materijal, djeluje vrlo mekano.",
+      "transliteration": "Ovaj materijal, djeluje vrlo mekano.",
+      "category": "Shopping",
+      "generated_at": "2026-10-04T05:19:53.660886"
     }
   ],
-  "last_updated": "2026-10-03T22:47:22.130867"
+  "last_updated": "2026-10-04T05:19:53.660888"
 }
