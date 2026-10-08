@@ -18269,7 +18269,42 @@
       "transliteration": "Svah-kee zvook, mah-lah, syai-nah ees-krah.",
       "category": "Growth",
       "generated_at": "2026-10-08T19:36:04.553938"
+    },
+    {
+      "english": "This ancient wall, whispers secrets.",
+      "bosnian": "Ovaj stari zid, šapuće tajne.",
+      "transliteration": "Ovaj stari zid, sapuche tajne.",
+      "category": "Travel",
+      "generated_at": "2026-10-08T21:52:26.706448"
+    },
+    {
+      "english": "Let's taste, the local honey.",
+      "bosnian": "Hajde da probamo, domaći med.",
+      "transliteration": "Hajde da probamo, domachi med.",
+      "category": "Travel",
+      "generated_at": "2026-10-08T21:52:26.706459"
+    },
+    {
+      "english": "The minaret, pierces the sky.",
+      "bosnian": "Minaret, probija nebo.",
+      "transliteration": "Minaret, probija nebo.",
+      "category": "Travel",
+      "generated_at": "2026-10-08T21:52:26.706461"
+    },
+    {
+      "english": "A strong coffee, to start the day.",
+      "bosnian": "Jaka kafa, za početak dana.",
+      "transliteration": "Jaka kafa, za pochatak dana.",
+      "category": "Travel",
+      "generated_at": "2026-10-08T21:52:26.706463"
+    },
+    {
+      "english": "The river sparkles, in the sun.",
+      "bosnian": "Rijeka blista, na suncu.",
+      "transliteration": "Rijeka blista, na suncu.",
+      "category": "Travel",
+      "generated_at": "2026-10-08T21:52:26.706464"
     }
   ],
-  "last_updated": "2026-10-08T19:36:04.553940"
+  "last_updated": "2026-10-08T21:52:26.706466"
 }
