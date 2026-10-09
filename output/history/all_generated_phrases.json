@@ -18339,7 +18339,42 @@
       "transliteration": "Proslavite ovo, posebno vrijeme.",
       "category": "Holidays",
       "generated_at": "2026-10-09T00:13:53.930140"
+    },
+    {
+      "english": "Sky weeps, soft tears.",
+      "bosnian": "Nebo plače, sitne suze.",
+      "transliteration": "Nebo plache, sitne suze.",
+      "category": "Weather",
+      "generated_at": "2026-10-09T05:35:17.978710"
+    },
+    {
+      "english": "Wind whispers, tales untold.",
+      "bosnian": "Vjetar šapće, priče neispričane.",
+      "transliteration": "Vjetar shapche, price neispriochane.",
+      "category": "Weather",
+      "generated_at": "2026-10-09T05:35:17.978720"
+    },
+    {
+      "english": "Sun paints, the horizon gold.",
+      "bosnian": "Sunce slika, horizont zlatom.",
+      "transliteration": "Sunce slika, horizont zlatom.",
+      "category": "Weather",
+      "generated_at": "2026-10-09T05:35:17.978721"
+    },
+    {
+      "english": "Air trembles, with heat's dance.",
+      "bosnian": "Zrak drhti, u plesu vrućine.",
+      "transliteration": "Zrak drhti, u plesu vruchine.",
+      "category": "Weather",
+      "generated_at": "2026-10-09T05:35:17.978723"
+    },
+    {
+      "english": "Clouds race, like hurried thoughts.",
+      "bosnian": "Oblaci žure, ko brze misli.",
+      "transliteration": "Oblaci zhure, ko brze misli.",
+      "category": "Weather",
+      "generated_at": "2026-10-09T05:35:17.978724"
     }
   ],
-  "last_updated": "2026-10-09T00:13:53.930141"
+  "last_updated": "2026-10-09T05:35:17.978726"
 }
