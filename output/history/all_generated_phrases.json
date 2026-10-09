@@ -18479,7 +18479,42 @@
       "transliteration": "Tiha radost, nastanjuje se.",
       "category": "Joy",
       "generated_at": "2026-10-09T21:31:17.969589"
+    },
+    {
+      "english": "Deep forest, ancient trees.",
+      "bosnian": "Duboka šuma, staro drveće.",
+      "transliteration": "Duboka šuma, staro drveće.",
+      "category": "Nature",
+      "generated_at": "2026-10-09T23:54:24.690232"
+    },
+    {
+      "english": "Crystal river, runs clear.",
+      "bosnian": "Kristalna rijeka, teče bistra.",
+      "transliteration": "Kristalna rijeka, teče bistra.",
+      "category": "Nature",
+      "generated_at": "2026-10-09T23:54:24.690242"
+    },
+    {
+      "english": "Gentle breeze, rustles leaves.",
+      "bosnian": "Blagi povjetarac, njiše lišće.",
+      "transliteration": "Blagi povjetarac, njiše lišće.",
+      "category": "Nature",
+      "generated_at": "2026-10-09T23:54:24.690244"
+    },
+    {
+      "english": "Misty mountains, veiled peaks.",
+      "bosnian": "Magloviti planine, zastrte vrhove.",
+      "transliteration": "Magloviti planine, zastrte vrhove.",
+      "category": "Nature",
+      "generated_at": "2026-10-09T23:54:24.690245"
+    },
+    {
+      "english": "Wildflowers bloom, vibrant colors.",
+      "bosnian": "Poljsko cvijeće cvjeta, žarke boje.",
+      "transliteration": "Poljsko cvijeće cvjeta, žarke boje.",
+      "category": "Nature",
+      "generated_at": "2026-10-09T23:54:24.690247"
     }
   ],
-  "last_updated": "2026-10-09T21:31:17.969590"
+  "last_updated": "2026-10-09T23:54:24.690249"
 }
