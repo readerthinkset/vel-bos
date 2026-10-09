@@ -18409,7 +18409,42 @@
       "transliteration": "Predvidi potez, budi spreman.",
       "category": "Sports",
       "generated_at": "2026-10-09T17:55:11.820977"
+    },
+    {
+      "english": "This shawl, is it pure wool?",
+      "bosnian": "Ovaj šal, je li čista vuna?",
+      "transliteration": "Ovaj shal, ye li chista vuna?",
+      "category": "Shopping",
+      "generated_at": "2026-10-09T19:10:52.678406"
+    },
+    {
+      "english": "I need, a sturdy suitcase.",
+      "bosnian": "Treba mi, čvrst kofer.",
+      "transliteration": "Treba mi, chvrst kofer.",
+      "category": "Shopping",
+      "generated_at": "2026-10-09T19:10:52.678414"
+    },
+    {
+      "english": "Show me, the handmade ceramics.",
+      "bosnian": "Pokažite mi, ručnu keramiku.",
+      "transliteration": "Pokazhite mi, ruchnu keramiku.",
+      "category": "Shopping",
+      "generated_at": "2026-10-09T19:10:52.678416"
+    },
+    {
+      "english": "I'm searching, for wooden toys.",
+      "bosnian": "Tražim, drvene igračke.",
+      "transliteration": "Trazhim, drvene igrachke.",
+      "category": "Shopping",
+      "generated_at": "2026-10-09T19:10:52.678417"
+    },
+    {
+      "english": "Could I exchange, this later?",
+      "bosnian": "Mogu li zamijeniti, ovo kasnije?",
+      "transliteration": "Mogu li zamijeniti, ovo kasnie?",
+      "category": "Shopping",
+      "generated_at": "2026-10-09T19:10:52.678418"
     }
   ],
-  "last_updated": "2026-10-09T17:55:11.820979"
+  "last_updated": "2026-10-09T19:10:52.678420"
 }
