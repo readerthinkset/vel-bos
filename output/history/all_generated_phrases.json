@@ -18899,7 +18899,42 @@
       "transliteration": "Tr-caj, u nje-go-vom kap-ku.",
       "category": "Body Parts",
       "generated_at": "2026-10-12T05:24:06.952044"
+    },
+    {
+      "english": "This, plate, is, artful.",
+      "bosnian": "Ovo, jelo, je, umjetničko.",
+      "transliteration": "Ovo, yelo, ye, umetnichko.",
+      "category": "Restaurant",
+      "generated_at": "2026-10-12T20:51:03.066197"
+    },
+    {
+      "english": "A, very, pleasant, evening.",
+      "bosnian": "Veoma, prijatno, veče.",
+      "transliteration": "Veoma, priyatno, veche.",
+      "category": "Restaurant",
+      "generated_at": "2026-10-12T20:51:03.066210"
+    },
+    {
+      "english": "May, I, see, the, menu?",
+      "bosnian": "Mogu, li, vidjeti, meni?",
+      "transliteration": "Mogu, li, vidyeti, meni?",
+      "category": "Restaurant",
+      "generated_at": "2026-10-12T20:51:03.066212"
+    },
+    {
+      "english": "The, service, is, swift.",
+      "bosnian": "Usluga, je, brza.",
+      "transliteration": "Usluga, ye, brza.",
+      "category": "Restaurant",
+      "generated_at": "2026-10-12T20:51:03.066212"
+    },
+    {
+      "english": "What, is, that, delightful, smell?",
+      "bosnian": "Šta, je, taj, divni, miris?",
+      "transliteration": "Shta, ye, tay, divni, miris?",
+      "category": "Restaurant",
+      "generated_at": "2026-10-12T20:51:03.066213"
     }
   ],
-  "last_updated": "2026-10-12T05:24:06.952046"
+  "last_updated": "2026-10-12T20:51:03.066215"
 }
