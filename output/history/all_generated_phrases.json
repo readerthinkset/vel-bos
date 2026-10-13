@@ -19179,7 +19179,42 @@
       "transliteration": "Bosna diše, mir.",
       "category": "Culture",
       "generated_at": "2026-10-13T21:46:27.044487"
+    },
+    {
+      "english": "Sunrise paints, the eastern sky.",
+      "bosnian": "Zora slika, istočno nebo.",
+      "transliteration": "Zora slika, istochno nebo.",
+      "category": "Time",
+      "generated_at": "2026-10-13T23:41:05.100901"
+    },
+    {
+      "english": "Midday sun, shines so warm.",
+      "bosnian": "Podnevno sunce, grije tako jako.",
+      "transliteration": "Podnevno sunce, grije tako yako.",
+      "category": "Time",
+      "generated_at": "2026-10-13T23:41:05.100913"
+    },
+    {
+      "english": "Twilight whispers, secrets low.",
+      "bosnian": "Suton šapće, tajne tiho.",
+      "transliteration": "Suton shapche, tayne tiho.",
+      "category": "Time",
+      "generated_at": "2026-10-13T23:41:05.100916"
+    },
+    {
+      "english": "Moonbeams dance, on quiet water.",
+      "bosnian": "Mjesečina pleše, na mirnoj vodi.",
+      "transliteration": "Mjesecina pleche, na mirnoy vodi.",
+      "category": "Time",
+      "generated_at": "2026-10-13T23:41:05.100917"
+    },
+    {
+      "english": "Stars ignite, the dark canvas.",
+      "bosnian": "Zvijezde pale, tamno platno.",
+      "transliteration": "Zvijezde pale, tamno platno.",
+      "category": "Time",
+      "generated_at": "2026-10-13T23:41:05.100918"
     }
   ],
-  "last_updated": "2026-10-13T21:46:27.044489"
+  "last_updated": "2026-10-13T23:41:05.100920"
 }
