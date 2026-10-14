@@ -19214,7 +19214,42 @@
       "transliteration": "Zvijezde pale, tamno platno.",
       "category": "Time",
       "generated_at": "2026-10-13T23:41:05.100918"
+    },
+    {
+      "english": "Just, six, more minutes.",
+      "bosnian": "Samo, još šest, minuta.",
+      "transliteration": "Samo, yosh shest, minuta.",
+      "category": "Numbers",
+      "generated_at": "2026-10-14T04:23:18.679357"
+    },
+    {
+      "english": "A group, of ten, arrived.",
+      "bosnian": "Grupa, od deset, stigla je.",
+      "transliteration": "Grupa, od deset, stigla ye.",
+      "category": "Numbers",
+      "generated_at": "2026-10-14T04:23:18.679365"
+    },
+    {
+      "english": "She's, twenty, years old.",
+      "bosnian": "Ona ima, dvadeset, godina.",
+      "transliteration": "Ona ima, dvadeset, godina.",
+      "category": "Numbers",
+      "generated_at": "2026-10-14T04:23:18.679367"
+    },
+    {
+      "english": "He sent, fifty, emails.",
+      "bosnian": "Poslao je, pedeset, mejlova.",
+      "transliteration": "Poslao ye, pedeset, mejlova.",
+      "category": "Numbers",
+      "generated_at": "2026-10-14T04:23:18.679369"
+    },
+    {
+      "english": "We saw, thirty, birds.",
+      "bosnian": "Vidjeli smo, trideset, ptica.",
+      "transliteration": "Vidyeli smo, trideset, ptica.",
+      "category": "Numbers",
+      "generated_at": "2026-10-14T04:23:18.679370"
     }
   ],
-  "last_updated": "2026-10-13T23:41:05.100920"
+  "last_updated": "2026-10-14T04:23:18.679372"
 }
