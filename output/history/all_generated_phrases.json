@@ -19284,7 +19284,42 @@
       "transliteration": "Neka bosanski tech'e, blago.",
       "category": "Confidence",
       "generated_at": "2026-10-14T16:25:32.527926"
+    },
+    {
+      "english": "Paint a scene, with words.",
+      "bosnian": "Naslikaj prizor, riječima.",
+      "transliteration": "Naslikaj prizor, rijecima.",
+      "category": "Directions",
+      "generated_at": "2026-10-14T18:15:05.590183"
+    },
+    {
+      "english": "What's the mood, capture it.",
+      "bosnian": "Kakav je ugođaj, uhvati ga.",
+      "transliteration": "Kakav je ugodjaj, uhvati ga.",
+      "category": "Directions",
+      "generated_at": "2026-10-14T18:15:05.590194"
+    },
+    {
+      "english": "Describe a journey, in steps.",
+      "bosnian": "Opši putovanje, korak po korak.",
+      "transliteration": "Opiši putovanje, korak po korak.",
+      "category": "Directions",
+      "generated_at": "2026-10-14T18:15:05.590196"
+    },
+    {
+      "english": "Invent a sound, make it heard.",
+      "bosnian": "Izmisli zvuk, nek se čuje.",
+      "transliteration": "Izmisli zvuk, nek se cuje.",
+      "category": "Directions",
+      "generated_at": "2026-10-14T18:15:05.590197"
+    },
+    {
+      "english": "What's absent, note it down.",
+      "bosnian": "Šta nedostaje, zabilježi.",
+      "transliteration": "Sta nedostaje, zabiljezi.",
+      "category": "Directions",
+      "generated_at": "2026-10-14T18:15:05.590198"
     }
   ],
-  "last_updated": "2026-10-14T16:25:32.527928"
+  "last_updated": "2026-10-14T18:15:05.590199"
 }
