@@ -19249,7 +19249,42 @@
       "transliteration": "Vidyeli smo, trideset, ptica.",
       "category": "Numbers",
       "generated_at": "2026-10-14T04:23:18.679370"
+    },
+    {
+      "english": "Brave words, taking flight.",
+      "bosnian": "Smijele riječi, polijeću.",
+      "transliteration": "Smijele r'j'echi, pol'yechu.",
+      "category": "Confidence",
+      "generated_at": "2026-10-14T16:25:32.527910"
+    },
+    {
+      "english": "Listen, then speak, with ease.",
+      "bosnian": "Slušaj, pa pričaj, lako.",
+      "transliteration": "Slushay, pa prichay, lako.",
+      "category": "Confidence",
+      "generated_at": "2026-10-14T16:25:32.527923"
+    },
+    {
+      "english": "New sounds, settling in.",
+      "bosnian": "Novi zvuci, smještaju se.",
+      "transliteration": "Novi zvuki, smeshtayoo se.",
+      "category": "Confidence",
+      "generated_at": "2026-10-14T16:25:32.527924"
+    },
+    {
+      "english": "Every sentence, a little victory.",
+      "bosnian": "Svaka rečenica, mala pobjeda.",
+      "transliteration": "Svaka rechehnitsa, mala p'yebda.",
+      "category": "Confidence",
+      "generated_at": "2026-10-14T16:25:32.527925"
+    },
+    {
+      "english": "Let the Bosnian flow, gently.",
+      "bosnian": "Neka bosanski teče, blago.",
+      "transliteration": "Neka bosanski tech'e, blago.",
+      "category": "Confidence",
+      "generated_at": "2026-10-14T16:25:32.527926"
     }
   ],
-  "last_updated": "2026-10-14T04:23:18.679372"
+  "last_updated": "2026-10-14T16:25:32.527928"
 }
