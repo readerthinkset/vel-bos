@@ -19319,7 +19319,42 @@
       "transliteration": "Sta nedostaje, zabiljezi.",
       "category": "Directions",
       "generated_at": "2026-10-14T18:15:05.590198"
+    },
+    {
+      "english": "This archway, leads somewhere magical.",
+      "bosnian": "Ovaj luk, vodi negdje čarobno.",
+      "transliteration": "O-y luk, vo-di neg-de cha-rob-no.",
+      "category": "Travel",
+      "generated_at": "2026-10-14T20:30:26.249515"
+    },
+    {
+      "english": "The cobblestones, whisper old stories.",
+      "bosnian": "Kaldrma, šapuće stare priče.",
+      "transliteration": "Kal-dr-ma, sha-pu-che sta-re pri-che.",
+      "category": "Travel",
+      "generated_at": "2026-10-14T20:30:26.249526"
+    },
+    {
+      "english": "Let's find, that hidden cafe.",
+      "bosnian": "Nađimo, onaj skriveni kafić.",
+      "transliteration": "Na-đi-mo, o-nay skri-ve-ni ka-fić.",
+      "category": "Travel",
+      "generated_at": "2026-10-14T20:30:26.249527"
+    },
+    {
+      "english": "The scent of jasmine, fills the air.",
+      "bosnian": "Miris jasmina, ispunjava zrak.",
+      "transliteration": "Mi-ris ja-smi-na, is-pu-nja-va zrak.",
+      "category": "Travel",
+      "generated_at": "2026-10-14T20:30:26.249528"
+    },
+    {
+      "english": "This fountain, sings a gentle song.",
+      "bosnian": "Ova česma, pjeva nježnu pjesmu.",
+      "transliteration": "O-va ches-ma, pje-va njez-nu pjes-mu.",
+      "category": "Travel",
+      "generated_at": "2026-10-14T20:30:26.249529"
     }
   ],
-  "last_updated": "2026-10-14T18:15:05.590199"
+  "last_updated": "2026-10-14T20:30:26.249530"
 }
