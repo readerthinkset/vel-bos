@@ -19459,7 +19459,42 @@
       "transliteration": "Mudrost vodi, vaše finansije.",
       "category": "Finance",
       "generated_at": "2026-10-15T16:13:36.640447"
+    },
+    {
+      "english": "I like this design, very much.",
+      "bosnian": "Sviđa mi se, ovaj dizajn.",
+      "transliteration": "Svee-dja mee seh, ovai deez-ine.",
+      "category": "Shopping",
+      "generated_at": "2026-10-15T17:57:40.603695"
+    },
+    {
+      "english": "Is this, a special offer?",
+      "bosnian": "Je li ovo, akcija?",
+      "transliteration": "Yeh lee oh-vo, ak-tsi-ya?",
+      "category": "Shopping",
+      "generated_at": "2026-10-15T17:57:40.603707"
+    },
+    {
+      "english": "I need something, for a gift.",
+      "bosnian": "Treba mi poklon, nešto.",
+      "transliteration": "Trey-ba mee po-klon, ne-sh-to.",
+      "category": "Shopping",
+      "generated_at": "2026-10-15T17:57:40.603709"
+    },
+    {
+      "english": "Can I see, more options?",
+      "bosnian": "Mogu li vidjeti, još?",
+      "transliteration": "Mo-goo lee vee-dyeh-tee, yosh?",
+      "category": "Shopping",
+      "generated_at": "2026-10-15T17:57:40.603710"
+    },
+    {
+      "english": "This is, exactly what I wanted.",
+      "bosnian": "Ovo je, tačno to.",
+      "transliteration": "Oh-vo yeh, tach-no toh.",
+      "category": "Shopping",
+      "generated_at": "2026-10-15T17:57:40.603712"
     }
   ],
-  "last_updated": "2026-10-15T16:13:36.640449"
+  "last_updated": "2026-10-15T17:57:40.603714"
 }
