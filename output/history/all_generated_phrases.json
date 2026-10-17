@@ -19704,7 +19704,42 @@
       "transliteration": "Hrskava kora, mekana unutra.",
       "category": "Food",
       "generated_at": "2026-10-16T22:42:09.655483"
+    },
+    {
+      "english": "Hear the city, in Bosnian.",
+      "bosnian": "Čuj grad, na bosanskom.",
+      "transliteration": "Chooy grad, na bosanskom.",
+      "category": "Purpose",
+      "generated_at": "2026-10-17T03:52:49.755383"
+    },
+    {
+      "english": "Understand songs, deeply.",
+      "bosnian": "Razumijete pjesme, duboko.",
+      "transliteration": "Razumiyete pjesme, duboko.",
+      "category": "Purpose",
+      "generated_at": "2026-10-17T03:52:49.755397"
+    },
+    {
+      "english": "Share a meal, with locals.",
+      "bosnian": "Podijeli obrok, sa mještanima.",
+      "transliteration": "Podiyeli obrok, sa mještanima.",
+      "category": "Purpose",
+      "generated_at": "2026-10-17T03:52:49.755399"
+    },
+    {
+      "english": "Ask for directions, clearly.",
+      "bosnian": "Pitajte za pravac, jasno.",
+      "transliteration": "Pitajte za pravac, jasno.",
+      "category": "Purpose",
+      "generated_at": "2026-10-17T03:52:49.755401"
+    },
+    {
+      "english": "Taste the rakija, respectfully.",
+      "bosnian": "Probajte rakiju, s poštovanjem.",
+      "transliteration": "Probajte rakiju, s poštovanjem.",
+      "category": "Purpose",
+      "generated_at": "2026-10-17T03:52:49.755402"
     }
   ],
-  "last_updated": "2026-10-16T22:42:09.655485"
+  "last_updated": "2026-10-17T03:52:49.755404"
 }
