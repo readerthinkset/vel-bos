@@ -20334,7 +20334,42 @@
       "transliteration": "Neka bosanske riječi, samo teku.",
       "category": "Confidence",
       "generated_at": "2026-10-20T20:32:11.507665"
+    },
+    {
+      "english": "This atmosphere, it’s so vibrant.",
+      "bosnian": "Ova atmosfera, tako je živa.",
+      "transliteration": "Ova atmosfera, tako je živa.",
+      "category": "Travel",
+      "generated_at": "2026-10-20T23:09:37.639750"
+    },
+    {
+      "english": "Let's get lost, in these alleys.",
+      "bosnian": "Hajdemo se izgubiti, u ovim ulicama.",
+      "transliteration": "Hajdemo se izgubiti, u ovim ulicama.",
+      "category": "Travel",
+      "generated_at": "2026-10-20T23:09:37.639759"
+    },
+    {
+      "english": "That melody, is captivating.",
+      "bosnian": "Ta melodija, je očaravajuća.",
+      "transliteration": "Ta melodija, je očaravajuća.",
+      "category": "Travel",
+      "generated_at": "2026-10-20T23:09:37.639761"
+    },
+    {
+      "english": "What a lively, town square!",
+      "bosnian": "Kakav živahan, gradski trg!",
+      "transliteration": "Kakav živahan, gradski trg!",
+      "category": "Travel",
+      "generated_at": "2026-10-20T23:09:37.639763"
+    },
+    {
+      "english": "This hidden gem, is perfect.",
+      "bosnian": "Ovo skriveno blago, je savršeno.",
+      "transliteration": "Ovo skriveno blago, je savršeno.",
+      "category": "Travel",
+      "generated_at": "2026-10-20T23:09:37.639764"
     }
   ],
-  "last_updated": "2026-10-20T20:32:11.507667"
+  "last_updated": "2026-10-20T23:09:37.639765"
 }
