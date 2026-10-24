@@ -20929,7 +20929,42 @@
       "transliteration": "O-va ko-šul-ja, i-ma li je u pla-voj?",
       "category": "Clothes",
       "generated_at": "2026-10-24T04:28:07.153140"
+    },
+    {
+      "english": "This, appetizer, is, delightful.",
+      "bosnian": "Ovo, predjelo, je, divno.",
+      "transliteration": "Ovo, predjelo, ye, divno.",
+      "category": "Restaurant",
+      "generated_at": "2026-10-24T15:51:08.845553"
+    },
+    {
+      "english": "Could, I, get, water, please?",
+      "bosnian": "Može, li, malo, vode?",
+      "transliteration": "Mozhe, li, malo, vode?",
+      "category": "Restaurant",
+      "generated_at": "2026-10-24T15:51:08.845562"
+    },
+    {
+      "english": "That, dish, smells, amazing.",
+      "bosnian": "To, jelo, miriše, sjajno.",
+      "transliteration": "To, yelo, mirishe, sjajno.",
+      "category": "Restaurant",
+      "generated_at": "2026-10-24T15:51:08.845563"
+    },
+    {
+      "english": "Is, this, spicy, at, all?",
+      "bosnian": "Je, li, ovo, ljuto?",
+      "transliteration": "Ye, li, ovo, lyuto?",
+      "category": "Restaurant",
+      "generated_at": "2026-10-24T15:51:08.845564"
+    },
+    {
+      "english": "We, need, another, fork.",
+      "bosnian": "Treba, nam, još, viljuška.",
+      "transliteration": "Treba, nam, yosh, vilyushka.",
+      "category": "Restaurant",
+      "generated_at": "2026-10-24T15:51:08.845564"
     }
   ],
-  "last_updated": "2026-10-24T04:28:07.153142"
+  "last_updated": "2026-10-24T15:51:08.845566"
 }
