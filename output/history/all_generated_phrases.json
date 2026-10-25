@@ -21139,7 +21139,42 @@
       "transliteration": "Uci bosanski, osjeti zivot.",
       "category": "Purpose",
       "generated_at": "2026-10-25T16:03:15.075498"
+    },
+    {
+      "english": "Danger nearby, move back.",
+      "bosnian": "Opasnost blizu, povuci se.",
+      "transliteration": "Opasnost blizu, povuci se.",
+      "category": "Emergency",
+      "generated_at": "2026-10-25T17:31:24.126886"
+    },
+    {
+      "english": "Something's burning, smell it?",
+      "bosnian": "Nešto gori, osjetiš?",
+      "transliteration": "Nešto gori, osjetiš?",
+      "category": "Emergency",
+      "generated_at": "2026-10-25T17:31:24.126897"
+    },
+    {
+      "english": "I can't breathe, really.",
+      "bosnian": "Ne mogu disati, zaista.",
+      "transliteration": "Ne mogu disati, zaista.",
+      "category": "Emergency",
+      "generated_at": "2026-10-25T17:31:24.126899"
+    },
+    {
+      "english": "This is an emergency, please.",
+      "bosnian": "Ovo je hitno, molim.",
+      "transliteration": "Ovo je hitno, molim.",
+      "category": "Emergency",
+      "generated_at": "2026-10-25T17:31:24.126900"
+    },
+    {
+      "english": "My leg is trapped, help!",
+      "bosnian": "Noga mi je zarobljena, pomoć!",
+      "transliteration": "Noga mi je zarobljena, pomoć!",
+      "category": "Emergency",
+      "generated_at": "2026-10-25T17:31:24.126902"
     }
   ],
-  "last_updated": "2026-10-25T16:03:15.075500"
+  "last_updated": "2026-10-25T17:31:24.126904"
 }
