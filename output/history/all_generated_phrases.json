@@ -21104,7 +21104,42 @@
       "transliteration": "Topla misao, za tebe.",
       "category": "Greetings",
       "generated_at": "2026-10-25T04:32:21.834311"
+    },
+    {
+      "english": "Connect deeply, speak Bosnian.",
+      "bosnian": "Poveži se duboko, govori bosanski.",
+      "transliteration": "Povezhi se duboko, govori bosanski.",
+      "category": "Purpose",
+      "generated_at": "2026-10-25T16:03:15.075481"
+    },
+    {
+      "english": "Understand stories, in Bosnian.",
+      "bosnian": "Razumij. nove priče, na bosanskom.",
+      "transliteration": "Razumiy nove price, na bosanskom.",
+      "category": "Purpose",
+      "generated_at": "2026-10-25T16:03:15.075494"
+    },
+    {
+      "english": "Share a smile, with words.",
+      "bosnian": "Podijeli osmijeh, riječima.",
+      "transliteration": "Podijeli osmijeh, rijecima.",
+      "category": "Purpose",
+      "generated_at": "2026-10-25T16:03:15.075496"
+    },
+    {
+      "english": "Explore culture, speak Bosnian.",
+      "bosnian": "Istraži kulturu, reci bosanski.",
+      "transliteration": "Istrazi kulturu, reci bosanski.",
+      "category": "Purpose",
+      "generated_at": "2026-10-25T16:03:15.075497"
+    },
+    {
+      "english": "Learn Bosnian, feel alive.",
+      "bosnian": "Uči bosanski, osjeti život.",
+      "transliteration": "Uci bosanski, osjeti zivot.",
+      "category": "Purpose",
+      "generated_at": "2026-10-25T16:03:15.075498"
     }
   ],
-  "last_updated": "2026-10-25T04:32:21.834313"
+  "last_updated": "2026-10-25T16:03:15.075500"
 }
