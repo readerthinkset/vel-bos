@@ -21174,7 +21174,42 @@
       "transliteration": "Noga mi je zarobljena, pomoć!",
       "category": "Emergency",
       "generated_at": "2026-10-25T17:31:24.126902"
+    },
+    {
+      "english": "Sunlight, on ancient stones.",
+      "bosnian": "Sunce, na starom kamenju.",
+      "transliteration": "Sunce, na starom kamenju.",
+      "category": "Nature",
+      "generated_at": "2026-10-25T20:44:35.848662"
+    },
+    {
+      "english": "Cool water, over pebbles.",
+      "bosnian": "Hladna voda, preko šljunka.",
+      "transliteration": "Hladna voda, preko šljunka.",
+      "category": "Nature",
+      "generated_at": "2026-10-25T20:44:35.848675"
+    },
+    {
+      "english": "Tall grass, sways gently.",
+      "bosnian": "Visoka trava, njiše se blago.",
+      "transliteration": "Visoka trava, njiše se blago.",
+      "category": "Nature",
+      "generated_at": "2026-10-25T20:44:35.848677"
+    },
+    {
+      "english": "Night falls, a silent blanket.",
+      "bosnian": "Noć pada, tihi pokrivač.",
+      "transliteration": "Noć pada, tihi pokrivač.",
+      "category": "Nature",
+      "generated_at": "2026-10-25T20:44:35.848678"
+    },
+    {
+      "english": "Distant peaks, touch the clouds.",
+      "bosnian": "Daleki vrhovi, dodiruju oblake.",
+      "transliteration": "Daleki vrhovi, dodiruju oblake.",
+      "category": "Nature",
+      "generated_at": "2026-10-25T20:44:35.848679"
     }
   ],
-  "last_updated": "2026-10-25T17:31:24.126904"
+  "last_updated": "2026-10-25T20:44:35.848681"
 }
