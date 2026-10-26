@@ -21279,7 +21279,42 @@
       "transliteration": "Pro-chee-tai o-voo reh-cheh-nee-tsoo, pazh-lee-vo.",
       "category": "Directions",
       "generated_at": "2026-10-26T04:37:14.617182"
+    },
+    {
+      "english": "Your kindness, it blooms.",
+      "bosnian": "Tvoja dobrota, ona cvjeta.",
+      "transliteration": "Tvoja dobrota, ona cvjeta.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-26T19:48:50.328811"
+    },
+    {
+      "english": "This... warms my soul.",
+      "bosnian": "Ovo... grije moju dušu.",
+      "transliteration": "Ovo... grije moju dušu.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-26T19:48:50.328825"
+    },
+    {
+      "english": "Such a bright spot, thank you.",
+      "bosnian": "Tako svijetli trenutak, hvala.",
+      "transliteration": "Tako svijetli trenutak, hvala.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-26T19:48:50.328826"
+    },
+    {
+      "english": "I’m touched, by this.",
+      "bosnian": "Dirnut sam, ovim.",
+      "transliteration": "Dirnut sam, ovim.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-26T19:48:50.328827"
+    },
+    {
+      "english": "You made things, easier.",
+      "bosnian": "Učinio si stvari, lakšim.",
+      "transliteration": "Učinio si stvari, lakšim.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-26T19:48:50.328828"
     }
   ],
-  "last_updated": "2026-10-26T04:37:14.617185"
+  "last_updated": "2026-10-26T19:48:50.328830"
 }
