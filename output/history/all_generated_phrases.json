@@ -21594,7 +21594,42 @@
       "transliteration": "Pet koraka, naprijed, idi.",
       "category": "Numbers",
       "generated_at": "2026-10-28T18:22:22.029811"
+    },
+    {
+      "english": "Warm ochre, desert sand.",
+      "bosnian": "Topli oker, pustinjski pijesak.",
+      "transliteration": "Top-lee oh-ker, poos-teen-skee pee-eh-sak.",
+      "category": "Colors",
+      "generated_at": "2026-10-28T19:24:57.100796"
+    },
+    {
+      "english": "Cool teal, hidden lagoon.",
+      "bosnian": "Hladni tirkizni, skrivena laguna.",
+      "transliteration": "Hlad-nee teer-keez-nee, skree-veh-na la-goo-na.",
+      "category": "Colors",
+      "generated_at": "2026-10-28T19:24:57.100808"
+    },
+    {
+      "english": "Rich burgundy, aged wine.",
+      "bosnian": "Bogat burgundac, staro vino.",
+      "transliteration": "Bo-gat boor-goon-dats, star-oh vee-no.",
+      "category": "Colors",
+      "generated_at": "2026-10-28T19:24:57.100810"
+    },
+    {
+      "english": "Bright fuchsia, bold statement.",
+      "bosnian": "Svijetla fuksija, hrabra izjava.",
+      "transliteration": "Svee-yet-la fook-see-ya, hrah-bra eez-ya-va.",
+      "category": "Colors",
+      "generated_at": "2026-10-28T19:24:57.100811"
+    },
+    {
+      "english": "Muted olive, quiet strength.",
+      "bosnian": "Prigušena maslina, tiha snaga.",
+      "transliteration": "Pree-goo-sheh-na mas-lee-na, tee-ha snah-ga.",
+      "category": "Colors",
+      "generated_at": "2026-10-28T19:24:57.100813"
     }
   ],
-  "last_updated": "2026-10-28T18:22:22.029813"
+  "last_updated": "2026-10-28T19:24:57.100815"
 }
