@@ -21734,7 +21734,42 @@
       "transliteration": "Govori' s duhom, pronađi svoj ritam.",
       "category": "Confidence",
       "generated_at": "2026-10-29T05:38:18.454948"
+    },
+    {
+      "english": "Sun peeks, over the hills.",
+      "bosnian": "Sunce proviruje, preko brda.",
+      "transliteration": "Sunce proviruje, preko brda.",
+      "category": "Daily Routine",
+      "generated_at": "2026-10-29T18:25:05.647622"
+    },
+    {
+      "english": "Eyes flutter, open now.",
+      "bosnian": "Oči trepću, otvaraju se.",
+      "transliteration": "Oči trepću, otvaraju se.",
+      "category": "Daily Routine",
+      "generated_at": "2026-10-29T18:25:05.647632"
+    },
+    {
+      "english": "A deep breath, of the morning.",
+      "bosnian": "Dubok udah, jutarnjeg zraka.",
+      "transliteration": "Dubok udah, jutarnjeg zraka.",
+      "category": "Daily Routine",
+      "generated_at": "2026-10-29T18:25:05.647633"
+    },
+    {
+      "english": "My feet touch, the cool floor.",
+      "bosnian": "Stopala dodiruju, hladan pod.",
+      "transliteration": "Stopala dodiruju, hladan pod.",
+      "category": "Daily Routine",
+      "generated_at": "2026-10-29T18:25:05.647634"
+    },
+    {
+      "english": "Water splashes, on my face.",
+      "bosnian": "Voda zapljuskuje, lice moje.",
+      "transliteration": "Voda zapljuskuje, lice moje.",
+      "category": "Daily Routine",
+      "generated_at": "2026-10-29T18:25:05.647634"
     }
   ],
-  "last_updated": "2026-10-29T05:38:18.454949"
+  "last_updated": "2026-10-29T18:25:05.647636"
 }
