@@ -21874,7 +21874,42 @@
       "transliteration": "Svaka riječ, iskra.",
       "category": "Success",
       "generated_at": "2026-10-29T23:55:02.186827"
+    },
+    {
+      "english": "This, sweater, is so cozy.",
+      "bosnian": "Ovaj, džemper, je tako udoban.",
+      "transliteration": "Ovaj, djemper, je tako udoban.",
+      "category": "Shopping",
+      "generated_at": "2026-10-30T05:38:09.719350"
+    },
+    {
+      "english": "I like, this pattern, very much.",
+      "bosnian": "Sviđa mi se, ovaj uzorak, mnogo.",
+      "transliteration": "Svidja mi se, ovaj uzorak, mnogo.",
+      "category": "Shopping",
+      "generated_at": "2026-10-30T05:38:09.719362"
+    },
+    {
+      "english": "Do you have, this, in larger?",
+      "bosnian": "Imate li, ovo, veće?",
+      "transliteration": "Imate li, ovo, veće?",
+      "category": "Shopping",
+      "generated_at": "2026-10-30T05:38:09.719364"
+    },
+    {
+      "english": "This, is a beautiful, scarf.",
+      "bosnian": "Ovo je, predivan, šal.",
+      "transliteration": "Ovo je, predivan, šal.",
+      "category": "Shopping",
+      "generated_at": "2026-10-30T05:38:09.719366"
+    },
+    {
+      "english": "Could I see, other, options?",
+      "bosnian": "Mogu li vidjeti, druge, opcije?",
+      "transliteration": "Mogu li vidjeti, druge, opcije?",
+      "category": "Shopping",
+      "generated_at": "2026-10-30T05:38:09.719367"
     }
   ],
-  "last_updated": "2026-10-29T23:55:02.186828"
+  "last_updated": "2026-10-30T05:38:09.719369"
 }
