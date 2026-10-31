@@ -22154,7 +22154,42 @@
       "transliteration": "Prugasta zebra, pase na suntsu.",
       "category": "Animals",
       "generated_at": "2026-10-31T18:23:49.244440"
+    },
+    {
+      "english": "My arm, it's broken. Badly.",
+      "bosnian": "Ruka mi, pukla je. Jako.",
+      "transliteration": "Roo-kah mee, poo-klah yeh. Yah-koh.",
+      "category": "Emergency",
+      "generated_at": "2026-10-31T20:27:33.365883"
+    },
+    {
+      "english": "Sudden weakness, I can't stand.",
+      "bosnian": "Nagla slabost, ne mogu stajati.",
+      "transliteration": "Nah-glah slah-bost, neh moh-goo stah-yah-tee.",
+      "category": "Emergency",
+      "generated_at": "2026-10-31T20:27:33.365892"
+    },
+    {
+      "english": "I've fallen, need to get up.",
+      "bosnian": "Pao/Pala sam, trebam ustati.",
+      "transliteration": "Pah-oh/Pah-lah sahm, treh-bahm oos-tah-tee.",
+      "category": "Emergency",
+      "generated_at": "2026-10-31T20:27:33.365894"
+    },
+    {
+      "english": "Something's in my eye. It hurts.",
+      "bosnian": "Nešto mi je u oku. Boli.",
+      "transliteration": "Neh-sh-toh mee yeh oo oh-koo. Boh-lee.",
+      "category": "Emergency",
+      "generated_at": "2026-10-31T20:27:33.365896"
+    },
+    {
+      "english": "This food is bad. I'm sick.",
+      "bosnian": "Ova hrana je loša. Bolesno sam.",
+      "transliteration": "Oh-vah hrah-nah yeh loh-sh-ah. Boh-les-noh sahm.",
+      "category": "Emergency",
+      "generated_at": "2026-10-31T20:27:33.365898"
     }
   ],
-  "last_updated": "2026-10-31T18:23:49.244442"
+  "last_updated": "2026-10-31T20:27:33.365900"
 }
