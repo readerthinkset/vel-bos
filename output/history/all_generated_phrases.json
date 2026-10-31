@@ -22084,7 +22084,42 @@
       "transliteration": "Generacije gradile, ove jake zidove.",
       "category": "Culture",
       "generated_at": "2026-10-31T05:27:44.909335"
+    },
+    {
+      "english": "This soup, is quite hearty.",
+      "bosnian": "Ova supa, je prilično zasitna.",
+      "transliteration": "Ova supa, ye prilično zasitna.",
+      "category": "Restaurant",
+      "generated_at": "2026-10-31T17:14:04.294789"
+    },
+    {
+      "english": "Could, I, try, a little, bite?",
+      "bosnian": "Mogu li, probati, mali zalogaj?",
+      "transliteration": "Mogu li, probati, mali zalogaj?",
+      "category": "Restaurant",
+      "generated_at": "2026-10-31T17:14:04.294800"
+    },
+    {
+      "english": "The, dessert, looks, fantastic.",
+      "bosnian": "Desert, izgleda, fantastično.",
+      "transliteration": "Desert, izgleda, fantastično.",
+      "category": "Restaurant",
+      "generated_at": "2026-10-31T17:14:04.294802"
+    },
+    {
+      "english": "Is, this, a local, specialty?",
+      "bosnian": "Je li, ovo, lokalni, specijalitet?",
+      "transliteration": "Ye li, ovo, lokalni, specijalitet?",
+      "category": "Restaurant",
+      "generated_at": "2026-10-31T17:14:04.294804"
+    },
+    {
+      "english": "I, love, the, ambient, lighting.",
+      "bosnian": "Volim, ambijentalno, osvjetljenje.",
+      "transliteration": "Volim, ambijentalno, osvjetljenje.",
+      "category": "Restaurant",
+      "generated_at": "2026-10-31T17:14:04.294805"
     }
   ],
-  "last_updated": "2026-10-31T05:27:44.909337"
+  "last_updated": "2026-10-31T17:14:04.294807"
 }
