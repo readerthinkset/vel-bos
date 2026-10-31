@@ -22119,7 +22119,42 @@
       "transliteration": "Volim, ambijentalno, osvjetljenje.",
       "category": "Restaurant",
       "generated_at": "2026-10-31T17:14:04.294805"
+    },
+    {
+      "english": "The sly fox, watches the hen.",
+      "bosnian": "Lukavi lisac, promatra kokoš.",
+      "transliteration": "Lukavi lisac, promatra kokosh.",
+      "category": "Animals",
+      "generated_at": "2026-10-31T18:23:49.244428"
+    },
+    {
+      "english": "A tiny sparrow, chirps from the roof.",
+      "bosnian": "Mala vrapčica, cvrkuće s krova.",
+      "transliteration": "Mala vrapchitza, cvrkuche s krova.",
+      "category": "Animals",
+      "generated_at": "2026-10-31T18:23:49.244436"
+    },
+    {
+      "english": "The old owl, hoots in the dark.",
+      "bosnian": "Stara sova, huče u mraku.",
+      "transliteration": "Stara sova, huchi u mraku.",
+      "category": "Animals",
+      "generated_at": "2026-10-31T18:23:49.244438"
+    },
+    {
+      "english": "A slow snail, leaves a silver trail.",
+      "bosnian": "Spori puž, ostavlja srebrni trag.",
+      "transliteration": "Spori pozh, ostavlja srebrni trag.",
+      "category": "Animals",
+      "generated_at": "2026-10-31T18:23:49.244439"
+    },
+    {
+      "english": "The striped zebra, grazes in the sun.",
+      "bosnian": "Prugasta zebra, pase na suncu.",
+      "transliteration": "Prugasta zebra, pase na suntsu.",
+      "category": "Animals",
+      "generated_at": "2026-10-31T18:23:49.244440"
     }
   ],
-  "last_updated": "2026-10-31T17:14:04.294807"
+  "last_updated": "2026-10-31T18:23:49.244442"
 }
