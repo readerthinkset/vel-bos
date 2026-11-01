@@ -22329,7 +22329,42 @@
       "transliteration": "Srknite slatki čaj, budite zadovoljni.",
       "category": "Happiness",
       "generated_at": "2026-11-01T18:48:23.448024"
+    },
+    {
+      "english": "This old bridge, spans history.",
+      "bosnian": "Ovaj stari most, premošćuje historiju.",
+      "transliteration": "Ovaj stari most, premošćuje historiju.",
+      "category": "Travel",
+      "generated_at": "2026-11-01T21:08:47.177083"
+    },
+    {
+      "english": "The air here, smells like adventure.",
+      "bosnian": "Zrak ovdje, miriše na avanturu.",
+      "transliteration": "Zrak ovdje, miriše na avanturu.",
+      "category": "Travel",
+      "generated_at": "2026-11-01T21:08:47.177098"
+    },
+    {
+      "english": "This artisan, crafts beauty.",
+      "bosnian": "Ovaj zanatlija, stvara ljepotu.",
+      "transliteration": "Ovaj zanatlija, stvara ljepotu.",
+      "category": "Travel",
+      "generated_at": "2026-11-01T21:08:47.177100"
+    },
+    {
+      "english": "Such colorful, textiles here.",
+      "bosnian": "Tako šareni, tekstil ovdje.",
+      "transliteration": "Tako šareni, tekstil ovdje.",
+      "category": "Travel",
+      "generated_at": "2026-11-01T21:08:47.177101"
+    },
+    {
+      "english": "Let's listen, to the city sounds.",
+      "bosnian": "Poslušajmo, gradske zvuke.",
+      "transliteration": "Poslušajmo, gradske zvuke.",
+      "category": "Travel",
+      "generated_at": "2026-11-01T21:08:47.177102"
     }
   ],
-  "last_updated": "2026-11-01T18:48:23.448026"
+  "last_updated": "2026-11-01T21:08:47.177104"
 }
