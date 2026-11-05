@@ -22889,7 +22889,42 @@
       "transliteration": "Počešljam kosu, uredno i spremno",
       "category": "Daily Routine",
       "generated_at": "2026-11-04T22:34:56.429995"
+    },
+    {
+      "english": "Can I check the sizes, please",
+      "bosnian": "Mogu li provjeriti veličine, molim",
+      "transliteration": "Mogu li provjeriti velicine, molim",
+      "category": "Shopping",
+      "generated_at": "2026-11-05T00:52:42.345191"
+    },
+    {
+      "english": "How much is it, right now",
+      "bosnian": "Koliko košta, odmah sada",
+      "transliteration": "Koliko kosta, odmah sada",
+      "category": "Shopping",
+      "generated_at": "2026-11-05T00:52:42.345203"
+    },
+    {
+      "english": "Do you have it in my size",
+      "bosnian": "Imate li to u mojoj veličini",
+      "transliteration": "Imate li to u mojoj velicini",
+      "category": "Shopping",
+      "generated_at": "2026-11-05T00:52:42.345204"
+    },
+    {
+      "english": "Is there a cheaper option, maybe",
+      "bosnian": "Ima li jeftiniju opciju, možda",
+      "transliteration": "Ima li jeftiniju opciju, mozda",
+      "category": "Shopping",
+      "generated_at": "2026-11-05T00:52:42.345206"
+    },
+    {
+      "english": "May I see the inside label, please",
+      "bosnian": "Mogu li vidjeti unutrašnju etiketu, molim",
+      "transliteration": "Mogu li vidjeti unutrasnju etiketu, molim",
+      "category": "Shopping",
+      "generated_at": "2026-11-05T00:52:42.345207"
     }
   ],
-  "last_updated": "2026-11-04T22:34:56.429997"
+  "last_updated": "2026-11-05T00:52:42.345209"
 }
