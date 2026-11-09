@@ -23694,7 +23694,42 @@
       "transliteration": "Stani, udahni, pa reci sljedecu rijec.",
       "category": "Motivation",
       "generated_at": "2026-11-09T22:15:49.497404"
+    },
+    {
+      "english": "Wait, count, the coins, please.",
+      "bosnian": "Sačekaj, prebroj, novčiće, molim.",
+      "transliteration": "Sačekaj, prebroj, novčiće, molim.",
+      "category": "Numbers",
+      "generated_at": "2026-11-09T23:20:27.595744"
+    },
+    {
+      "english": "Say, number, six, clearly now.",
+      "bosnian": "Reci, broj, šest, jasno sada.",
+      "transliteration": "Reci, broj, šest, jasno sada.",
+      "category": "Numbers",
+      "generated_at": "2026-11-09T23:20:27.595757"
+    },
+    {
+      "english": "I have, seven, apples for you.",
+      "bosnian": "Imam, sedam, jabuka za tebe.",
+      "transliteration": "Imam, sedam, jabuka za tebe.",
+      "category": "Numbers",
+      "generated_at": "2026-11-09T23:20:27.595758"
+    },
+    {
+      "english": "From today, start at eight.",
+      "bosnian": "Od danas, kreni od osam.",
+      "transliteration": "Od danas, kreni od osam.",
+      "category": "Numbers",
+      "generated_at": "2026-11-09T23:20:27.595759"
+    },
+    {
+      "english": "Take, nine, steps, then stop.",
+      "bosnian": "Uzmi, devet, koraka, pa stani.",
+      "transliteration": "Uzmi, devet, koraka, pa stani.",
+      "category": "Numbers",
+      "generated_at": "2026-11-09T23:20:27.595760"
     }
   ],
-  "last_updated": "2026-11-09T22:15:49.497405"
+  "last_updated": "2026-11-09T23:20:27.595762"
 }
