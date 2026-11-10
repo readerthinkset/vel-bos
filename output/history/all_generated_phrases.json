@@ -23764,7 +23764,42 @@
       "transliteration": "Pritisni obraze, osjeti kako se podižu.",
       "category": "Body Parts",
       "generated_at": "2026-11-10T00:40:50.224559"
+    },
+    {
+      "english": "Hello, welcome in, sit comfortably, please.",
+      "bosnian": "Zdravo, dobrodošli, sjednite udobno, molim.",
+      "transliteration": "Zdravo, dobrodošli, sjednite udobno, molim.",
+      "category": "Greetings",
+      "generated_at": "2026-11-10T02:40:56.211113"
+    },
+    {
+      "english": "Hi, I’m glad you stopped by, just now.",
+      "bosnian": "Zdravo, drago mi je što ste svratili, baš sada.",
+      "transliteration": "Zdravo, drago mi je što ste svratili, baš sada.",
+      "category": "Greetings",
+      "generated_at": "2026-11-10T02:40:56.211124"
+    },
+    {
+      "english": "Good morning, come closer, we’ll talk briefly.",
+      "bosnian": "Dobro jutro, dođite bliže, razgovarat ćemo kratko.",
+      "transliteration": "Dobro jutro, dođite bliže, razgovarat ćemo kratko.",
+      "category": "Greetings",
+      "generated_at": "2026-11-10T02:40:56.211125"
+    },
+    {
+      "english": "Hello, hope your day is calm, so far.",
+      "bosnian": "Zdravo, nadam se da vam je dan miran, zasad.",
+      "transliteration": "Zdravo, nadam se da vam je dan miran, zasad.",
+      "category": "Greetings",
+      "generated_at": "2026-11-10T02:40:56.211126"
+    },
+    {
+      "english": "Hey, glad to meet you, let’s begin.",
+      "bosnian": "Hej, drago mi je što vas upoznajem, krećemo.",
+      "transliteration": "Hej, drago mi je što vas upoznajem, krećemo.",
+      "category": "Greetings",
+      "generated_at": "2026-11-10T02:40:56.211126"
     }
   ],
-  "last_updated": "2026-11-10T00:40:50.224562"
+  "last_updated": "2026-11-10T02:40:56.211128"
 }
