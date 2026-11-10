@@ -23869,7 +23869,42 @@
       "transliteration": "pokušat ću razumjeti, umjesto osuđivanja",
       "category": "Forgiveness",
       "generated_at": "2026-11-10T08:21:58.292521"
+    },
+    {
+      "english": "Call an ambulance, please, now.",
+      "bosnian": "Pozovite hitnu pomoć, molim vas, odmah.",
+      "transliteration": "Pozovite hitnu pomoch, molim vas, odmah.",
+      "category": "Emergency",
+      "generated_at": "2026-11-10T19:20:48.246084"
+    },
+    {
+      "english": "Help! I’m bleeding heavily.",
+      "bosnian": "Upomoć! Krvarim jako.",
+      "transliteration": "Upomoć! Krvarim jako.",
+      "category": "Emergency",
+      "generated_at": "2026-11-10T19:20:48.246095"
+    },
+    {
+      "english": "Stay with me, please.",
+      "bosnian": "Ostanite sa mnom, molim vas.",
+      "transliteration": "Ostanite sa mnom, molim vas.",
+      "category": "Emergency",
+      "generated_at": "2026-11-10T19:20:48.246097"
+    },
+    {
+      "english": "Please call 112 for me.",
+      "bosnian": "Molim vas, nazovite 112 umjesto mene.",
+      "transliteration": "Molim vas, nazovite 112 umjesto mene.",
+      "category": "Emergency",
+      "generated_at": "2026-11-10T19:20:48.246098"
+    },
+    {
+      "english": "I was poisoned, I need help.",
+      "bosnian": "Otrovan sam, trebam pomoć.",
+      "transliteration": "Otrovan sam, trebam pomoć.",
+      "category": "Emergency",
+      "generated_at": "2026-11-10T19:20:48.246100"
     }
   ],
-  "last_updated": "2026-11-10T08:21:58.292523"
+  "last_updated": "2026-11-10T19:20:48.246102"
 }
