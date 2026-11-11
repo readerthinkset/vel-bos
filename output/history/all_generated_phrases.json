@@ -24044,7 +24044,42 @@
       "transliteration": "Sviđa mi se tvoja jakna, baš je lijepa.",
       "category": "Basic Phrases",
       "generated_at": "2026-11-11T04:25:29.690366"
+    },
+    {
+      "english": "You can do this, one word.",
+      "bosnian": "Možeš ovo, samo jedna riječ.",
+      "transliteration": "Mozesh ovo, samo jedna rijec.",
+      "category": "Confidence",
+      "generated_at": "2026-11-11T19:16:41.223412"
+    },
+    {
+      "english": "Trust your ear, and try again.",
+      "bosnian": "Vjeruj svom uhu, pa pokušaj opet.",
+      "transliteration": "Vjeruj svom uhu, pa pokusaj opet.",
+      "category": "Confidence",
+      "generated_at": "2026-11-11T19:16:41.223429"
+    },
+    {
+      "english": "Say it slowly, then speed up.",
+      "bosnian": "Reci polako, pa onda malo brže.",
+      "transliteration": "Reci polako, pa onda malo brze.",
+      "category": "Confidence",
+      "generated_at": "2026-11-11T19:16:41.223432"
+    },
+    {
+      "english": "I believe in you, really.",
+      "bosnian": "Stvarno vjerujem u tebe.",
+      "transliteration": "Stvarno vjerujem u tebe.",
+      "category": "Confidence",
+      "generated_at": "2026-11-11T19:16:41.223434"
+    },
+    {
+      "english": "Your effort shows, keep going.",
+      "bosnian": "Tvoj trud se vidi, nastavi.",
+      "transliteration": "Tvoj trud se vidi, nastavi.",
+      "category": "Confidence",
+      "generated_at": "2026-11-11T19:16:41.223435"
     }
   ],
-  "last_updated": "2026-11-11T04:25:29.690368"
+  "last_updated": "2026-11-11T19:16:41.223438"
 }
