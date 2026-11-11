@@ -24079,7 +24079,42 @@
       "transliteration": "Tvoj trud se vidi, nastavi.",
       "category": "Confidence",
       "generated_at": "2026-11-11T19:16:41.223435"
+    },
+    {
+      "english": "Breathe in, then go forward.",
+      "bosnian": "Udahni, pa kreni naprijed.",
+      "transliteration": "Udahni, pa kreni naprijed.",
+      "category": "Courage",
+      "generated_at": "2026-11-11T21:02:17.631924"
+    },
+    {
+      "english": "Say it, even if it shakes.",
+      "bosnian": "Reci to, iako drhti glas.",
+      "transliteration": "Reci to, iako drhti glas.",
+      "category": "Courage",
+      "generated_at": "2026-11-11T21:02:17.631940"
+    },
+    {
+      "english": "Stay calm, handle it step by step.",
+      "bosnian": "Ostani miran, riješi to korak po korak.",
+      "transliteration": "Ostani miran, riješi to korak po korak.",
+      "category": "Courage",
+      "generated_at": "2026-11-11T21:02:17.631942"
+    },
+    {
+      "english": "You can do this, start now.",
+      "bosnian": "Možeš to, kreni sad.",
+      "transliteration": "Možeš to, kreni sad.",
+      "category": "Courage",
+      "generated_at": "2026-11-11T21:02:17.631944"
+    },
+    {
+      "english": "Turn fear into focus, quietly.",
+      "bosnian": "Pretvori strah u fokus, tiho.",
+      "transliteration": "Pretvori strah u fokus, tiho.",
+      "category": "Courage",
+      "generated_at": "2026-11-11T21:02:17.631945"
     }
   ],
-  "last_updated": "2026-11-11T19:16:41.223438"
+  "last_updated": "2026-11-11T21:02:17.631948"
 }
