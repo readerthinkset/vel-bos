@@ -24429,7 +24429,42 @@
       "transliteration": "Svaki dan s tobom mi je pravi.",
       "category": "Love",
       "generated_at": "2026-11-13T19:14:28.114770"
+    },
+    {
+      "english": "Can I get the bill, please?",
+      "bosnian": "Možete li mi donijeti račun, molim vas?",
+      "transliteration": "Mojžete li mi donijeti raun, molim vas?",
+      "category": "Restaurant",
+      "generated_at": "2026-11-13T20:44:59.064028"
+    },
+    {
+      "english": "Do you have gluten-free options tonight?",
+      "bosnian": "Imate li večeras opcije bez glutena?",
+      "transliteration": "Imate li večeras opcije bez glutena?",
+      "category": "Restaurant",
+      "generated_at": "2026-11-13T20:44:59.064046"
+    },
+    {
+      "english": "I’m allergic to nuts, please be careful.",
+      "bosnian": "Alergičan sam na orašaste plodove, molim vas oprez.",
+      "transliteration": "Alergičan sam na orašaste plodove, molim vas oprez.",
+      "category": "Restaurant",
+      "generated_at": "2026-11-13T20:44:59.064048"
+    },
+    {
+      "english": "We’d like two waters, no ice.",
+      "bosnian": "Želimo dvije vode, bez leda.",
+      "transliteration": "Želimo dvije vode, bez leda.",
+      "category": "Restaurant",
+      "generated_at": "2026-11-13T20:44:59.064049"
+    },
+    {
+      "english": "Could I have a menu, please?",
+      "bosnian": "Mogu li dobiti meni, molim vas?",
+      "transliteration": "Mogu li dobiti meni, molim vas?",
+      "category": "Restaurant",
+      "generated_at": "2026-11-13T20:44:59.064050"
     }
   ],
-  "last_updated": "2026-11-13T19:14:28.114772"
+  "last_updated": "2026-11-13T20:44:59.064052"
 }
