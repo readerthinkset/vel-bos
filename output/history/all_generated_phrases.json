@@ -24569,7 +24569,42 @@
       "transliteration": "topli osjećaji dođu, kad dijelim",
       "category": "Happiness",
       "generated_at": "2026-11-14T04:42:23.313886"
+    },
+    {
+      "english": "The dog wags its tail happily.",
+      "bosnian": "Pas maše repom, sretno.",
+      "transliteration": "Pas maše repom, sretno.",
+      "category": "Animals",
+      "generated_at": "2026-11-14T17:41:07.654272"
+    },
+    {
+      "english": "A cat purrs when it feels safe.",
+      "bosnian": "Mačka prede kad se osjeća sigurno.",
+      "transliteration": "Mačka prede kad se osjeća sigurno.",
+      "category": "Animals",
+      "generated_at": "2026-11-14T17:41:07.654291"
+    },
+    {
+      "english": "The cow chews slowly, chewing and thinking.",
+      "bosnian": "Krava polako žvače, žvače i razmišlja.",
+      "transliteration": "Krava polako žvače, žvače i razmišlja.",
+      "category": "Animals",
+      "generated_at": "2026-11-14T17:41:07.654293"
+    },
+    {
+      "english": "The pig splashes in the muddy water.",
+      "bosnian": "Svinja se prska po blatu, u vodi.",
+      "transliteration": "Svinja se prska po blatu, u vodi.",
+      "category": "Animals",
+      "generated_at": "2026-11-14T17:41:07.654295"
+    },
+    {
+      "english": "The rooster crows, early in the morning.",
+      "bosnian": "Kokot kukuriče, rano ujutro.",
+      "transliteration": "Kokot kukuriče, rano ujutro.",
+      "category": "Animals",
+      "generated_at": "2026-11-14T17:41:07.654296"
     }
   ],
-  "last_updated": "2026-11-14T04:42:23.313888"
+  "last_updated": "2026-11-14T17:41:07.654298"
 }
