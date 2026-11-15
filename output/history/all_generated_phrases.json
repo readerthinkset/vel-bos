@@ -24709,7 +24709,42 @@
       "transliteration": "O-sje-ćam se hra-bro, i-a-ko ni-sam si-gu-ran.",
       "category": "Feelings",
       "generated_at": "2026-11-14T23:45:02.271212"
+    },
+    {
+      "english": "Play that song again, please.",
+      "bosnian": "Pusti tu pjesmu opet, molim te.",
+      "transliteration": "Pusti tu pjesmu opet, molim te.",
+      "category": "Music",
+      "generated_at": "2026-11-15T04:32:47.004157"
+    },
+    {
+      "english": "Turn it up a little more.",
+      "bosnian": "Pojačaj malo, još malo.",
+      "transliteration": "Pojacaj malo, jos malo.",
+      "category": "Music",
+      "generated_at": "2026-11-15T04:32:47.004168"
+    },
+    {
+      "english": "Turn it down, it’s too loud.",
+      "bosnian": "Smanji, preglasno je.",
+      "transliteration": "Smanji, preglasno je.",
+      "category": "Music",
+      "generated_at": "2026-11-15T04:32:47.004170"
+    },
+    {
+      "english": "Clap softly with the beat.",
+      "bosnian": "Pljesni tiho u ritmu.",
+      "transliteration": "Pljesni tiho u ritmu.",
+      "category": "Music",
+      "generated_at": "2026-11-15T04:32:47.004172"
+    },
+    {
+      "english": "What’s the name of this song?",
+      "bosnian": "Kako se zove ova pjesma?",
+      "transliteration": "Kako se zove ova pjesma?",
+      "category": "Music",
+      "generated_at": "2026-11-15T04:32:47.004173"
     }
   ],
-  "last_updated": "2026-11-14T23:45:02.271214"
+  "last_updated": "2026-11-15T04:32:47.004175"
 }
