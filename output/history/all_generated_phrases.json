@@ -24744,7 +24744,42 @@
       "transliteration": "Kako se zove ova pjesma?",
       "category": "Music",
       "generated_at": "2026-11-15T04:32:47.004173"
+    },
+    {
+      "english": "Where is the nearest bus stop?",
+      "bosnian": "Gdje je najbliža autobuska stanica?",
+      "transliteration": "Gdje je najbliza autobuska stanica?",
+      "category": "Travel",
+      "generated_at": "2026-11-15T18:30:08.436656"
+    },
+    {
+      "english": "How much is a one-way ticket?",
+      "bosnian": "Koliko košta karta u jednom smjeru?",
+      "transliteration": "Koliko kosta karta u jednom smjeru?",
+      "category": "Travel",
+      "generated_at": "2026-11-15T18:30:08.436671"
+    },
+    {
+      "english": "Does this bus go to the center?",
+      "bosnian": "Ide li ovaj autobus do centra?",
+      "transliteration": "Ide li ovaj autobus do centra?",
+      "category": "Travel",
+      "generated_at": "2026-11-15T18:30:08.436672"
+    },
+    {
+      "english": "Please show me on the map.",
+      "bosnian": "Molim vas, pokažite mi na mapi.",
+      "transliteration": "Molim vas, pokazite mi na mapi.",
+      "category": "Travel",
+      "generated_at": "2026-11-15T18:30:08.436673"
+    },
+    {
+      "english": "What time does the museum open?",
+      "bosnian": "U koliko sati muzej otvara vrata?",
+      "transliteration": "U koliko sati muzej otvara vrata?",
+      "category": "Travel",
+      "generated_at": "2026-11-15T18:30:08.436674"
     }
   ],
-  "last_updated": "2026-11-15T04:32:47.004175"
+  "last_updated": "2026-11-15T18:30:08.436676"
 }
