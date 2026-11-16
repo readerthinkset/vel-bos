@@ -24884,7 +24884,42 @@
       "transliteration": "Hvala ti što slušaš, i kad je teško.",
       "category": "Relationships",
       "generated_at": "2026-11-15T23:51:32.321748"
+    },
+    {
+      "english": "Where can I pay for this?",
+      "bosnian": "Gdje mogu platiti ovo?",
+      "transliteration": "Gdje mogu platiti ovo?",
+      "category": "Shopping",
+      "generated_at": "2026-11-16T04:29:18.241782"
+    },
+    {
+      "english": "Do you accept card or cash?",
+      "bosnian": "Primate li karticu ili gotovinu?",
+      "transliteration": "Primate li karticu ili gotovinu?",
+      "category": "Shopping",
+      "generated_at": "2026-11-16T04:29:18.241793"
+    },
+    {
+      "english": "I would like to try it on.",
+      "bosnian": "Želio bih isprobati to.",
+      "transliteration": "Želio bih isprobati to.",
+      "category": "Shopping",
+      "generated_at": "2026-11-16T04:29:18.241795"
+    },
+    {
+      "english": "Is there a discount today?",
+      "bosnian": "Je li danas popust?",
+      "transliteration": "Je li danas popust?",
+      "category": "Shopping",
+      "generated_at": "2026-11-16T04:29:18.241797"
+    },
+    {
+      "english": "Can I pay in euro here?",
+      "bosnian": "Mogu li platiti u eurima ovdje?",
+      "transliteration": "Mogu li platiti u eurima ovdje?",
+      "category": "Shopping",
+      "generated_at": "2026-11-16T04:29:18.241798"
     }
   ],
-  "last_updated": "2026-11-15T23:51:32.321750"
+  "last_updated": "2026-11-16T04:29:18.241800"
 }
