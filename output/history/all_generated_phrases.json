@@ -25129,7 +25129,42 @@
       "transliteration": "Ispruži se, u maloj mjeri.",
       "category": "Creativity",
       "generated_at": "2026-11-17T20:29:33.554304"
+    },
+    {
+      "english": "Let’s handle this task today, please.",
+      "bosnian": "Hajde da to danas uradimo, molim.",
+      "transliteration": "hajde da to danas uradimo, molim",
+      "category": "Work",
+      "generated_at": "2026-11-17T22:00:23.424019"
+    },
+    {
+      "english": "Can you send me the file, now?",
+      "bosnian": "Možeš li mi poslati fajl sad?",
+      "transliteration": "možeš li mi poslati fajl sad",
+      "category": "Work",
+      "generated_at": "2026-11-17T22:00:23.424039"
+    },
+    {
+      "english": "I’ll review it, then I’ll comment.",
+      "bosnian": "Pregledat ću, pa ću dati komentar.",
+      "transliteration": "pregledat ću, pa ću dati komentar",
+      "category": "Work",
+      "generated_at": "2026-11-17T22:00:23.424041"
+    },
+    {
+      "english": "Please confirm the meeting time for me.",
+      "bosnian": "Molim te, potvrdi mi vrijeme sastanka.",
+      "transliteration": "molim te, potvrdi mi vrijeme sastanka",
+      "category": "Work",
+      "generated_at": "2026-11-17T22:00:23.424042"
+    },
+    {
+      "english": "We’re running late, we should hurry.",
+      "bosnian": "Kasnimo, trebamo požuriti.",
+      "transliteration": "kasnimo, trebamo požuriti",
+      "category": "Work",
+      "generated_at": "2026-11-17T22:00:23.424044"
     }
   ],
-  "last_updated": "2026-11-17T20:29:33.554307"
+  "last_updated": "2026-11-17T22:00:23.424046"
 }
