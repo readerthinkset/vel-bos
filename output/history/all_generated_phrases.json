@@ -25059,7 +25059,42 @@
       "transliteration": "vjezbaj tiho, uši se priviknu",
       "category": "Confidence",
       "generated_at": "2026-11-17T02:50:53.809532"
+    },
+    {
+      "english": "It’s raining lightly, right now.",
+      "bosnian": "Lagana kiša pada, upravo sada.",
+      "transliteration": "Lagāna kiša pada, upravo sada.",
+      "category": "Weather",
+      "generated_at": "2026-11-17T06:15:39.621477"
+    },
+    {
+      "english": "The rain stops, then starts again.",
+      "bosnian": "Kiša prestane, pa opet krene.",
+      "transliteration": "Kiša prestane, pa opet krene.",
+      "category": "Weather",
+      "generated_at": "2026-11-17T06:15:39.621494"
+    },
+    {
+      "english": "A thick fog rolls in this morning.",
+      "bosnian": "Gusta magla se navlači jutros.",
+      "transliteration": "Gusta magla se navlači jutros.",
+      "category": "Weather",
+      "generated_at": "2026-11-17T06:15:39.621496"
+    },
+    {
+      "english": "There’s drizzle on the sidewalks.",
+      "bosnian": "Ima rominjanja po pločnicima.",
+      "transliteration": "Ima rominjanja po pločnicima.",
+      "category": "Weather",
+      "generated_at": "2026-11-17T06:15:39.621497"
+    },
+    {
+      "english": "The sky turns gray, bit by bit.",
+      "bosnian": "Nebо postaje sivо, malo po malo.",
+      "transliteration": "Nebо postaje sivо, malo po malo.",
+      "category": "Weather",
+      "generated_at": "2026-11-17T06:15:39.621498"
     }
   ],
-  "last_updated": "2026-11-17T02:50:53.809534"
+  "last_updated": "2026-11-17T06:15:39.621500"
 }
