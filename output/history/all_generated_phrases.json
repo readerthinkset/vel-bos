@@ -25024,7 +25024,42 @@
       "transliteration": "TRLjaj sljepooCHNIce, ublaži NApeTost.",
       "category": "Body Parts",
       "generated_at": "2026-11-17T00:41:27.935317"
+    },
+    {
+      "english": "Breathe, then say it again.",
+      "bosnian": "Udahni, pa reci opet.",
+      "transliteration": "udahni, pa reci opet",
+      "category": "Confidence",
+      "generated_at": "2026-11-17T02:50:53.809512"
+    },
+    {
+      "english": "You’re getting closer, keep going.",
+      "bosnian": "Bliže si, nastavi dalje.",
+      "transliteration": "blize si, nastavi dalje",
+      "category": "Confidence",
+      "generated_at": "2026-11-17T02:50:53.809528"
+    },
+    {
+      "english": "No rush, just speak naturally.",
+      "bosnian": "Bez žurbe, samo prirodno govori.",
+      "transliteration": "bez zurbe, samo prirodno govori",
+      "category": "Confidence",
+      "generated_at": "2026-11-17T02:50:53.809529"
+    },
+    {
+      "english": "Try one phrase, then smile.",
+      "bosnian": "Probaj jednu rečenicu, pa se nasmij.",
+      "transliteration": "probaj jednu recenicu, pa se nasmij",
+      "category": "Confidence",
+      "generated_at": "2026-11-17T02:50:53.809530"
+    },
+    {
+      "english": "Practice quietly, your ears adapt.",
+      "bosnian": "Vježbaj tiho, uši se priviknu.",
+      "transliteration": "vjezbaj tiho, uši se priviknu",
+      "category": "Confidence",
+      "generated_at": "2026-11-17T02:50:53.809532"
     }
   ],
-  "last_updated": "2026-11-17T00:41:27.935319"
+  "last_updated": "2026-11-17T02:50:53.809534"
 }
