@@ -25164,7 +25164,42 @@
       "transliteration": "kasnimo, trebamo požuriti",
       "category": "Work",
       "generated_at": "2026-11-17T22:00:23.424044"
+    },
+    {
+      "english": "I like this T-shirt’s fit.",
+      "bosnian": "Sviđa mi se kroj ove majice.",
+      "transliteration": "Svidja mi se kroj ove majice.",
+      "category": "Clothes",
+      "generated_at": "2026-11-18T00:03:21.750140"
+    },
+    {
+      "english": "Where are your socks, exactly?",
+      "bosnian": "Gde su tvoje čarape, tačno?",
+      "transliteration": "Gde su tvoje carape, tacno?",
+      "category": "Clothes",
+      "generated_at": "2026-11-18T00:03:21.750155"
+    },
+    {
+      "english": "This hoodie is super soft.",
+      "bosnian": "Ovaj dukser je baš mekan.",
+      "transliteration": "Ovaj dukser je baš mekan.",
+      "category": "Clothes",
+      "generated_at": "2026-11-18T00:03:21.750157"
+    },
+    {
+      "english": "Do you have this in small?",
+      "bosnian": "Imaš li ovo u maloj veličini?",
+      "transliteration": "Imaš li ovo u maloj velicini?",
+      "category": "Clothes",
+      "generated_at": "2026-11-18T00:03:21.750158"
+    },
+    {
+      "english": "These jeans feel a bit tight.",
+      "bosnian": "Ove farmerke mi malo stežu.",
+      "transliteration": "Ove farmerke mi malo stežu.",
+      "category": "Clothes",
+      "generated_at": "2026-11-18T00:03:21.750159"
     }
   ],
-  "last_updated": "2026-11-17T22:00:23.424046"
+  "last_updated": "2026-11-18T00:03:21.750161"
 }
