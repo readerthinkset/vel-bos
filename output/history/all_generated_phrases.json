@@ -25199,7 +25199,42 @@
       "transliteration": "Ove farmerke mi malo stežu.",
       "category": "Clothes",
       "generated_at": "2026-11-18T00:03:21.750159"
+    },
+    {
+      "english": "Thank you, I appreciate your help.",
+      "bosnian": "Hvala ti, cijenim tvoju pomoć.",
+      "transliteration": "Hvala ti, cijenim tvoju pomoć.",
+      "category": "Kindness",
+      "generated_at": "2026-11-18T02:13:30.639159"
+    },
+    {
+      "english": "Here, let me carry that.",
+      "bosnian": "Evo, mogu li ponijeti to?",
+      "transliteration": "Evo, mogu li ponijeti to?",
+      "category": "Kindness",
+      "generated_at": "2026-11-18T02:13:30.639172"
+    },
+    {
+      "english": "Take your time, no rush today.",
+      "bosnian": "Uzmi vremena, nema žurbe danas.",
+      "transliteration": "Uzmi vremena, nema žurbe danas.",
+      "category": "Kindness",
+      "generated_at": "2026-11-18T02:13:30.639174"
+    },
+    {
+      "english": "Do you need help with that?",
+      "bosnian": "Treba li ti pomoć oko toga?",
+      "transliteration": "Treba li ti pomoć oko toga?",
+      "category": "Kindness",
+      "generated_at": "2026-11-18T02:13:30.639175"
+    },
+    {
+      "english": "I’m here, if you want to talk.",
+      "bosnian": "Tu sam, ako želiš razgovarati.",
+      "transliteration": "Tu sam, ako želiš razgovarati.",
+      "category": "Kindness",
+      "generated_at": "2026-11-18T02:13:30.639176"
     }
   ],
-  "last_updated": "2026-11-18T00:03:21.750161"
+  "last_updated": "2026-11-18T02:13:30.639178"
 }
