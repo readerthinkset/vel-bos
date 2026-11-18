@@ -25234,7 +25234,42 @@
       "transliteration": "Tu sam, ako želiš razgovarati.",
       "category": "Kindness",
       "generated_at": "2026-11-18T02:13:30.639176"
+    },
+    {
+      "english": "My brother, come here, please.",
+      "bosnian": "Moj brate, dođi ovamo, molim te.",
+      "transliteration": "moj brate, dodi ovamo, molim te",
+      "category": "Family Terms",
+      "generated_at": "2026-11-18T05:43:08.228418"
+    },
+    {
+      "english": "My sister, tell me what happened.",
+      "bosnian": "Moja sestra, reci mi šta se dogodilo.",
+      "transliteration": "moja sestra, reci mi sta se dogodilo",
+      "category": "Family Terms",
+      "generated_at": "2026-11-18T05:43:08.228435"
+    },
+    {
+      "english": "My dad, I need your help.",
+      "bosnian": "Tata, treba mi tvoja pomoć.",
+      "transliteration": "tata, treba mi tvoja pomoch",
+      "category": "Family Terms",
+      "generated_at": "2026-11-18T05:43:08.228437"
+    },
+    {
+      "english": "My mom, are we going now?",
+      "bosnian": "Mama, idemo li sad?",
+      "transliteration": "mama, idemo li sad",
+      "category": "Family Terms",
+      "generated_at": "2026-11-18T05:43:08.228439"
+    },
+    {
+      "english": "Grandpa, your stories make me smile.",
+      "bosnian": "Deda, tvoje priče me nasmiju.",
+      "transliteration": "deda, tvoje price me nasmiju",
+      "category": "Family Terms",
+      "generated_at": "2026-11-18T05:43:08.228441"
     }
   ],
-  "last_updated": "2026-11-18T02:13:30.639178"
+  "last_updated": "2026-11-18T05:43:08.228443"
 }
