@@ -25479,7 +25479,42 @@
       "transliteration": "Cijenim te, više nego što znaš.",
       "category": "Gratitude",
       "generated_at": "2026-11-19T19:59:01.965658"
+    },
+    {
+      "english": "Hi! How are you doing today?",
+      "bosnian": "Bok! Kako si danas?",
+      "transliteration": "Bok! Kako si danas?",
+      "category": "Greetings",
+      "generated_at": "2026-11-19T22:11:13.182442"
+    },
+    {
+      "english": "Hello there, nice to meet you!",
+      "bosnian": "Zdravo, drago mi je da te vidim!",
+      "transliteration": "Zdravo, drago mi je da te vidim!",
+      "category": "Greetings",
+      "generated_at": "2026-11-19T22:11:13.182458"
+    },
+    {
+      "english": "Hey, what’s up? Long time no see.",
+      "bosnian": "E, šta ima? Nismo se vidjeli dugo.",
+      "transliteration": "E, šta ima? Nismo se vidjeli dugo.",
+      "category": "Greetings",
+      "generated_at": "2026-11-19T22:11:13.182460"
+    },
+    {
+      "english": "Good evening! Hope your day went well.",
+      "bosnian": "Dobro veče! Nadam se da ti je dan prošao dobro.",
+      "transliteration": "Dobro veče! Nadam se da ti je dan prošao dobro.",
+      "category": "Greetings",
+      "generated_at": "2026-11-19T22:11:13.182461"
+    },
+    {
+      "english": "Welcome! Come in, it’s all good.",
+      "bosnian": "Dobro došao! Uđi, sve je u redu.",
+      "transliteration": "Dobro došao! Uđi, sve je u redu.",
+      "category": "Greetings",
+      "generated_at": "2026-11-19T22:11:13.182462"
     }
   ],
-  "last_updated": "2026-11-19T19:59:01.965660"
+  "last_updated": "2026-11-19T22:11:13.182464"
 }
