@@ -25724,7 +25724,42 @@
       "transliteration": "Pomjeri ramena, oslobodi napetost.",
       "category": "Health",
       "generated_at": "2026-11-20T22:59:03.683067"
+    },
+    {
+      "english": "Stay steady, even when it’s hard.",
+      "bosnian": "Budi postojan, čak i kad je teško.",
+      "transliteration": "Budi postojan, čak i kad je teško.",
+      "category": "Strength",
+      "generated_at": "2026-11-21T01:11:52.859520"
+    },
+    {
+      "english": "Move forward, step by steady step.",
+      "bosnian": "Idi naprijed, korak po korak.",
+      "transliteration": "Idi naprijed, korak po korak.",
+      "category": "Strength",
+      "generated_at": "2026-11-21T01:11:52.859533"
+    },
+    {
+      "english": "Take a breath, then choose courage.",
+      "bosnian": "Udahni, pa izaberi hrabrost.",
+      "transliteration": "Udahni, pa izaberi hrabrost.",
+      "category": "Strength",
+      "generated_at": "2026-11-21T01:11:52.859534"
+    },
+    {
+      "english": "You can handle today’s load.",
+      "bosnian": "Možeš nositi današnji teret.",
+      "transliteration": "Možeš nositi današnji teret.",
+      "category": "Strength",
+      "generated_at": "2026-11-21T01:11:52.859536"
+    },
+    {
+      "english": "Let small wins lift you up.",
+      "bosnian": "Neka te male pobjede podignu.",
+      "transliteration": "Neka te male pobjede podignu.",
+      "category": "Strength",
+      "generated_at": "2026-11-21T01:11:52.859537"
     }
   ],
-  "last_updated": "2026-11-20T22:59:03.683069"
+  "last_updated": "2026-11-21T01:11:52.859538"
 }
