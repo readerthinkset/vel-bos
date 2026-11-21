@@ -25864,7 +25864,42 @@
       "transliteration": "Na-pra-vio sam sigur-nos-nu ko-pi-ju, za sva-ki slu-čaj.",
       "category": "Technology",
       "generated_at": "2026-11-21T20:21:34.304939"
+    },
+    {
+      "english": "Hello, what’s your name?",
+      "bosnian": "Zdravo, kako se zoveš?",
+      "transliteration": "Zdravo, kako se zoveš?",
+      "category": "Basic Phrases",
+      "generated_at": "2026-11-21T22:04:15.831836"
+    },
+    {
+      "english": "Nice to meet you, today.",
+      "bosnian": "Drago mi je da te upoznam.",
+      "transliteration": "Drago mi je da te upoznam.",
+      "category": "Basic Phrases",
+      "generated_at": "2026-11-21T22:04:15.831850"
+    },
+    {
+      "english": "How much does this cost?",
+      "bosnian": "Koliko košta ovo?",
+      "transliteration": "Koliko košta ovo?",
+      "category": "Basic Phrases",
+      "generated_at": "2026-11-21T22:04:15.831852"
+    },
+    {
+      "english": "I don’t understand, sorry.",
+      "bosnian": "Ne razumijem, oprosti.",
+      "transliteration": "Ne razumijem, oprosti.",
+      "category": "Basic Phrases",
+      "generated_at": "2026-11-21T22:04:15.831854"
+    },
+    {
+      "english": "Can you speak more slowly?",
+      "bosnian": "Možeš li govoriti sporije?",
+      "transliteration": "Možeš li govoriti sporije?",
+      "category": "Basic Phrases",
+      "generated_at": "2026-11-21T22:04:15.831855"
     }
   ],
-  "last_updated": "2026-11-21T20:21:34.304941"
+  "last_updated": "2026-11-21T22:04:15.831857"
 }
