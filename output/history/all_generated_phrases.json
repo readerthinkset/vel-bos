@@ -25829,7 +25829,42 @@
       "transliteration": "Ne morash biti savrshen.",
       "category": "Courage",
       "generated_at": "2026-11-21T18:43:38.974760"
+    },
+    {
+      "english": "I installed the update, everything feels faster.",
+      "bosnian": "Instalirao sam ažuriranje, sve je brže.",
+      "transliteration": "Instalirao sam a-žuri-ran-je, sve je brže.",
+      "category": "Technology",
+      "generated_at": "2026-11-21T20:21:34.304917"
+    },
+    {
+      "english": "My laptop overheated, so I paused work.",
+      "bosnian": "Moj laptop se pregrijao, pa sam stao.",
+      "transliteration": "Moj laptòp se pre-gri-jao, pa sam stao.",
+      "category": "Technology",
+      "generated_at": "2026-11-21T20:21:34.304933"
+    },
+    {
+      "english": "Can you help me set up Wi-Fi?",
+      "bosnian": "Možeš li pomoći da podesim Wi-Fi?",
+      "transliteration": "Možeš li pomoći da po-de-sim Wi-Fi?",
+      "category": "Technology",
+      "generated_at": "2026-11-21T20:21:34.304935"
+    },
+    {
+      "english": "The router lights blink, but internet works.",
+      "bosnian": "Svjetla na ruteru trepere, ali internet radi.",
+      "transliteration": "Svjetla na ru-te-ru tre-pe-ru, ali internet ra-di.",
+      "category": "Technology",
+      "generated_at": "2026-11-21T20:21:34.304937"
+    },
+    {
+      "english": "I backed up files, just in case.",
+      "bosnian": "Napravio sam sigurnosnu kopiju, za svaki slučaj.",
+      "transliteration": "Na-pra-vio sam sigur-nos-nu ko-pi-ju, za sva-ki slu-čaj.",
+      "category": "Technology",
+      "generated_at": "2026-11-21T20:21:34.304939"
     }
   ],
-  "last_updated": "2026-11-21T18:43:38.974762"
+  "last_updated": "2026-11-21T20:21:34.304941"
 }
