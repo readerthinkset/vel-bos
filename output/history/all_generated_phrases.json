@@ -25934,7 +25934,42 @@
       "transliteration": "Razumijem, ali polako.",
       "category": "Education",
       "generated_at": "2026-11-22T00:09:46.922683"
+    },
+    {
+      "english": "Do you have it in blue?",
+      "bosnian": "Imate li ovo u plavoj boji?",
+      "transliteration": "Imate li ovo u plavoj boji?",
+      "category": "Shopping",
+      "generated_at": "2026-11-22T04:48:17.258329"
+    },
+    {
+      "english": "Where is the fitting room?",
+      "bosnian": "Gdje je kabina za probu?",
+      "transliteration": "Gdje je kabina za probu?",
+      "category": "Shopping",
+      "generated_at": "2026-11-22T04:48:17.258342"
+    },
+    {
+      "english": "Do you have it in size M?",
+      "bosnian": "Imate li ovo u veličini M?",
+      "transliteration": "Imate li ovo u veličini M?",
+      "category": "Shopping",
+      "generated_at": "2026-11-22T04:48:17.258343"
+    },
+    {
+      "english": "Is there a warranty included?",
+      "bosnian": "Da li uključujete garanciju?",
+      "transliteration": "Da li uključujete garanciju?",
+      "category": "Shopping",
+      "generated_at": "2026-11-22T04:48:17.258345"
+    },
+    {
+      "english": "What material is this made of?",
+      "bosnian": "Od čega je ovo napravljeno?",
+      "transliteration": "Od čega je ovo napravljeno?",
+      "category": "Shopping",
+      "generated_at": "2026-11-22T04:48:17.258346"
     }
   ],
-  "last_updated": "2026-11-22T00:09:46.922685"
+  "last_updated": "2026-11-22T04:48:17.258347"
 }
