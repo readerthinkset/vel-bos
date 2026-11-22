@@ -26004,7 +26004,42 @@
       "transliteration": "Prašnjavo ružichasta, tiho blijedi s vremenom.",
       "category": "Colors",
       "generated_at": "2026-11-22T19:04:11.226153"
+    },
+    {
+      "english": "The sun is out, finally.",
+      "bosnian": "Sunce je konačno izašlo.",
+      "transliteration": "Sunce je konačno izašlo.",
+      "category": "Weather",
+      "generated_at": "2026-11-22T20:33:48.166281"
+    },
+    {
+      "english": "It’s chilly this morning, bundle up.",
+      "bosnian": "Jutros je hladno, obuci se slojevito.",
+      "transliteration": "Jutros je hladno, obuci se slojevito.",
+      "category": "Weather",
+      "generated_at": "2026-11-22T20:33:48.166298"
+    },
+    {
+      "english": "The temperature dropped fast, today.",
+      "bosnian": "Danas je temperatura brzo pala.",
+      "transliteration": "Danas je temperatura brzo pala.",
+      "category": "Weather",
+      "generated_at": "2026-11-22T20:33:48.166299"
+    },
+    {
+      "english": "Humidity makes the air feel heavy.",
+      "bosnian": "Vlažnost čini zrak teškim.",
+      "transliteration": "Vlažnost čini zrak teškim.",
+      "category": "Weather",
+      "generated_at": "2026-11-22T20:33:48.166300"
+    },
+    {
+      "english": "There’s a light breeze, not strong.",
+      "bosnian": "Povjetarac je blag, nije jak.",
+      "transliteration": "Povjetarac je blag, nije jak.",
+      "category": "Weather",
+      "generated_at": "2026-11-22T20:33:48.166301"
     }
   ],
-  "last_updated": "2026-11-22T19:04:11.226155"
+  "last_updated": "2026-11-22T20:33:48.166302"
 }
