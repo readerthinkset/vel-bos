@@ -25899,7 +25899,42 @@
       "transliteration": "Možeš li govoriti sporije?",
       "category": "Basic Phrases",
       "generated_at": "2026-11-21T22:04:15.831855"
+    },
+    {
+      "english": "Let's talk about your day.",
+      "bosnian": "Razgovarajmo o tvom danu.",
+      "transliteration": "Razgovarajmo o tvom danu.",
+      "category": "Education",
+      "generated_at": "2026-11-22T00:09:46.922662"
+    },
+    {
+      "english": "Where do you study, exactly?",
+      "bosnian": "Gdje tačno učiš?",
+      "transliteration": "Gdje tačno učiš?",
+      "category": "Education",
+      "generated_at": "2026-11-22T00:09:46.922676"
+    },
+    {
+      "english": "I learn Bosnian, little by little.",
+      "bosnian": "Učim bosanski, malo po malo.",
+      "transliteration": "Učim bosanski, malo po malo.",
+      "category": "Education",
+      "generated_at": "2026-11-22T00:09:46.922679"
+    },
+    {
+      "english": "Can you repeat that, please?",
+      "bosnian": "Možeš li ponoviti, molim te?",
+      "transliteration": "Možeš li ponoviti, molim te?",
+      "category": "Education",
+      "generated_at": "2026-11-22T00:09:46.922681"
+    },
+    {
+      "english": "I understand, but slowly.",
+      "bosnian": "Razumijem, ali polako.",
+      "transliteration": "Razumijem, ali polako.",
+      "category": "Education",
+      "generated_at": "2026-11-22T00:09:46.922683"
     }
   ],
-  "last_updated": "2026-11-21T22:04:15.831857"
+  "last_updated": "2026-11-22T00:09:46.922685"
 }
