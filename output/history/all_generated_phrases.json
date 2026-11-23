@@ -26109,7 +26109,42 @@
       "transliteration": "Povrijeden sam, molim vas, pomozite mi.",
       "category": "Emergency",
       "generated_at": "2026-11-23T00:38:47.675881"
+    },
+    {
+      "english": "You’ve got this, step by step.",
+      "bosnian": "Imaš ovo, korak po korak.",
+      "transliteration": "Imaš ovo, korak po korak.",
+      "category": "Kindness",
+      "generated_at": "2026-11-23T05:27:29.940507"
+    },
+    {
+      "english": "I notice your effort, really.",
+      "bosnian": "Primjećujem tvoj trud, stvarno.",
+      "transliteration": "Primjećujem tvoj trud, stvarno.",
+      "category": "Kindness",
+      "generated_at": "2026-11-23T05:27:29.940525"
+    },
+    {
+      "english": "Let’s do it together, okay?",
+      "bosnian": "Hajmo zajedno, dogovoreno?",
+      "transliteration": "Hajmo zajedno, dogovoreno?",
+      "category": "Kindness",
+      "generated_at": "2026-11-23T05:27:29.940526"
+    },
+    {
+      "english": "I’ll help, no worries at all.",
+      "bosnian": "Pomoći ću, bez brige.",
+      "transliteration": "Pomoći ću, bez brige.",
+      "category": "Kindness",
+      "generated_at": "2026-11-23T05:27:29.940528"
+    },
+    {
+      "english": "You’re doing fine, trust me.",
+      "bosnian": "Dobro ide, vjeruj mi.",
+      "transliteration": "Dobro ide, vjeruj mi.",
+      "category": "Kindness",
+      "generated_at": "2026-11-23T05:27:29.940529"
     }
   ],
-  "last_updated": "2026-11-23T00:38:47.675882"
+  "last_updated": "2026-11-23T05:27:29.940531"
 }
