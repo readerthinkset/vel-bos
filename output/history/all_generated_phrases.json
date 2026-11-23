@@ -26074,7 +26074,42 @@
       "transliteration": "Opusti šake, siguran si ovdje.",
       "category": "Inner Peace",
       "generated_at": "2026-11-22T22:20:09.017104"
+    },
+    {
+      "english": "Call 112 now, please, quickly.",
+      "bosnian": "Pozovite 112 odmah, molim vas, brzo.",
+      "transliteration": "Pozovite 112 odmah, molim vas, brzo.",
+      "category": "Emergency",
+      "generated_at": "2026-11-23T00:38:47.675864"
+    },
+    {
+      "english": "I need help urgently, something happened.",
+      "bosnian": "Treba mi hitna pomoć, nešto se desilo.",
+      "transliteration": "Treba mi hitna pomoc, nesto se desilo.",
+      "category": "Emergency",
+      "generated_at": "2026-11-23T00:38:47.675878"
+    },
+    {
+      "english": "Please send someone, this is urgent.",
+      "bosnian": "Molim vas, pošaljite nekoga, hitno je.",
+      "transliteration": "Molim vas, posaljite nekoga, hitno je.",
+      "category": "Emergency",
+      "generated_at": "2026-11-23T00:38:47.675879"
+    },
+    {
+      "english": "Stop, I think there is danger.",
+      "bosnian": "Stani, mislim da je opasno.",
+      "transliteration": "Stani, mislim da je opasno.",
+      "category": "Emergency",
+      "generated_at": "2026-11-23T00:38:47.675880"
+    },
+    {
+      "english": "I’ve been hurt, please help me.",
+      "bosnian": "Povrijeđen sam, molim vas, pomozite mi.",
+      "transliteration": "Povrijeden sam, molim vas, pomozite mi.",
+      "category": "Emergency",
+      "generated_at": "2026-11-23T00:38:47.675881"
     }
   ],
-  "last_updated": "2026-11-22T22:20:09.017106"
+  "last_updated": "2026-11-23T00:38:47.675882"
 }
