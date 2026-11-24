@@ -26354,7 +26354,42 @@
       "transliteration": "oro kruzi polako iznad brda",
       "category": "Animals",
       "generated_at": "2026-11-24T21:56:39.569215"
+    },
+    {
+      "english": "I feel uneasy, without knowing why.",
+      "bosnian": "Osjećam se nelagodno, bez jasnog razloga.",
+      "transliteration": "O-sje-cam se ne-la-god-no, bez ja-snog ra-zo-na.",
+      "category": "Feelings",
+      "generated_at": "2026-11-24T23:22:20.988847"
+    },
+    {
+      "english": "I’m feeling a bit nervous right now.",
+      "bosnian": "Trenutno mi je malo nervozno.",
+      "transliteration": "Trenut-no mi je ma-lo ne-rvo-zno.",
+      "category": "Feelings",
+      "generated_at": "2026-11-24T23:22:20.988861"
+    },
+    {
+      "english": "My stomach flips when I think of it.",
+      "bosnian": "Kad pomislim, osjetim leptiriće u stomaku.",
+      "transliteration": "Kad po-mi-slim, o-sje-tim lep-ti-ri-ce u sto-ma-ku.",
+      "category": "Feelings",
+      "generated_at": "2026-11-24T23:22:20.988867"
+    },
+    {
+      "english": "I feel tense, like I can’t relax.",
+      "bosnian": "Napeta sam, kao da se ne mogu opustiti.",
+      "transliteration": "Na-pe-ta sam, kao da se ne mo-gu opu-sti-ti.",
+      "category": "Feelings",
+      "generated_at": "2026-11-24T23:22:20.988868"
+    },
+    {
+      "english": "I’m irritated, but I’ll stay polite.",
+      "bosnian": "Razdražena sam, ali ću ostati pristojna.",
+      "transliteration": "Ra-zi-raz-dra-že-na sam, ali ću o-sta-ti pri-stoj-na.",
+      "category": "Feelings",
+      "generated_at": "2026-11-24T23:22:20.988870"
     }
   ],
-  "last_updated": "2026-11-24T21:56:39.569217"
+  "last_updated": "2026-11-24T23:22:20.988872"
 }
