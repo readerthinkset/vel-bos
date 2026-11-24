@@ -26179,7 +26179,42 @@
       "transliteration": "Uživaj u svakom trenutku, bez žurbe.",
       "category": "Holidays",
       "generated_at": "2026-11-23T23:25:14.887363"
+    },
+    {
+      "english": "You can do it today, really.",
+      "bosnian": "Možeš to danas, stvarno.",
+      "transliteration": "Mozhes to danas, stvarno.",
+      "category": "Confidence",
+      "generated_at": "2026-11-24T01:27:37.774444"
+    },
+    {
+      "english": "Slow down, but keep talking.",
+      "bosnian": "Uspori, ali nastavi pričati.",
+      "transliteration": "Usopiri, ali nastavi prichati.",
+      "category": "Confidence",
+      "generated_at": "2026-11-24T01:27:37.774462"
+    },
+    {
+      "english": "Start small, and you’ll improve fast.",
+      "bosnian": "Kreni s malim, i brzo ćeš napredovati.",
+      "transliteration": "Kreni s malim, i brzo chesh napredovati.",
+      "category": "Confidence",
+      "generated_at": "2026-11-24T01:27:37.774464"
+    },
+    {
+      "english": "Repeat after me, one more time.",
+      "bosnian": "Ponovi za mnom, još jednom.",
+      "transliteration": "Ponovi za mnom, jos jednom.",
+      "category": "Confidence",
+      "generated_at": "2026-11-24T01:27:37.774465"
+    },
+    {
+      "english": "Great job, that sounded good.",
+      "bosnian": "Bravo, to je zvučalo dobro.",
+      "transliteration": "Bravo, to je zvuchalo dobro.",
+      "category": "Confidence",
+      "generated_at": "2026-11-24T01:27:37.774467"
     }
   ],
-  "last_updated": "2026-11-23T23:25:14.887365"
+  "last_updated": "2026-11-24T01:27:37.774468"
 }
