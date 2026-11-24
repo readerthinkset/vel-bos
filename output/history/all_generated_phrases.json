@@ -26319,7 +26319,42 @@
       "transliteration": "Budi strpljiv, čak i kad je teško.",
       "category": "Patience",
       "generated_at": "2026-11-24T08:29:00.939669"
+    },
+    {
+      "english": "The rabbit freezes, then darts away.",
+      "bosnian": "Zec se ukoči, pa brzo odskakuje.",
+      "transliteration": "zec se ukoci, pa brzo odskočuva",
+      "category": "Animals",
+      "generated_at": "2026-11-24T21:56:39.569192"
+    },
+    {
+      "english": "A friendly dog brings you the stick.",
+      "bosnian": "Prijateljski pas donosi štap tebi.",
+      "transliteration": "prijateljski pas donosi štap tebi",
+      "category": "Animals",
+      "generated_at": "2026-11-24T21:56:39.569211"
+    },
+    {
+      "english": "The kitten taps the curious string.",
+      "bosnian": "Mače pipne znatiželjnu vrpcu.",
+      "transliteration": "mače pipne znatiželjnu vrpcu",
+      "category": "Animals",
+      "generated_at": "2026-11-24T21:56:39.569212"
+    },
+    {
+      "english": "The parrot talks, then tilts its head.",
+      "bosnian": "Papiga priča, pa nagne glavu.",
+      "transliteration": "papiga priča, pa nagne glavu",
+      "category": "Animals",
+      "generated_at": "2026-11-24T21:56:39.569213"
+    },
+    {
+      "english": "The eagle circles slowly above the hills.",
+      "bosnian": "Or’o kruži polako iznad brda.",
+      "transliteration": "oro kruzi polako iznad brda",
+      "category": "Animals",
+      "generated_at": "2026-11-24T21:56:39.569215"
     }
   ],
-  "last_updated": "2026-11-24T08:29:00.939671"
+  "last_updated": "2026-11-24T21:56:39.569217"
 }
