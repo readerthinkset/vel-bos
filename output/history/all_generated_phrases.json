@@ -26494,7 +26494,42 @@
       "transliteration": "uzmite prvu ulicu s lijeve strane",
       "category": "Directions",
       "generated_at": "2026-11-25T06:44:32.540353"
+    },
+    {
+      "english": "Morning comes, and we head out.",
+      "bosnian": "Jutro dolazi, i mi krećemo.",
+      "transliteration": "Jutro dolazi, i mi krećemo.",
+      "category": "Time",
+      "generated_at": "2026-11-25T21:05:15.555060"
+    },
+    {
+      "english": "Wait a minute, I’m on my way.",
+      "bosnian": "Sačekaj minut, dolazim odmah.",
+      "transliteration": "Sačekaj minut, dolazim odmah.",
+      "category": "Time",
+      "generated_at": "2026-11-25T21:05:15.555075"
+    },
+    {
+      "english": "The afternoon passes, we’ll meet later.",
+      "bosnian": "Popodne prolazi, vidimo se kasnije.",
+      "transliteration": "Popodne prolazi, vidimo se kasnije.",
+      "category": "Time",
+      "generated_at": "2026-11-25T21:05:15.555078"
+    },
+    {
+      "english": "Dinner’s soon, don’t be late.",
+      "bosnian": "Večera je uskoro, nemoj kasniti.",
+      "transliteration": "Večera je uskoro, nemoj kasniti.",
+      "category": "Time",
+      "generated_at": "2026-11-25T21:05:15.555079"
+    },
+    {
+      "english": "Let’s hurry, time is running out.",
+      "bosnian": "Hajde, žurimo, vrijeme ističe.",
+      "transliteration": "Hajde, žurimo, vrijeme ističe.",
+      "category": "Time",
+      "generated_at": "2026-11-25T21:05:15.555080"
     }
   ],
-  "last_updated": "2026-11-25T06:44:32.540355"
+  "last_updated": "2026-11-25T21:05:15.555082"
 }
