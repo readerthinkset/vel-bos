@@ -26459,7 +26459,42 @@
       "transliteration": "Neka ti oči odmore, samo sada.",
       "category": "Mindfulness",
       "generated_at": "2026-11-25T03:26:55.989453"
+    },
+    {
+      "english": "Go straight, then turn left.",
+      "bosnian": "Idi pravo, pa skreni lijevo.",
+      "transliteration": "idi pravo, pa skreni lijevo",
+      "category": "Directions",
+      "generated_at": "2026-11-25T06:44:32.540335"
+    },
+    {
+      "english": "Walk past the shop, please.",
+      "bosnian": "Prođi pored trgovine, molim.",
+      "transliteration": "prođi pored trgovine, molim",
+      "category": "Directions",
+      "generated_at": "2026-11-25T06:44:32.540348"
+    },
+    {
+      "english": "Follow me, I know the way.",
+      "bosnian": "Pođi za mnom, znam put.",
+      "transliteration": "pođi za mnom, znam put",
+      "category": "Directions",
+      "generated_at": "2026-11-25T06:44:32.540350"
+    },
+    {
+      "english": "Turn right at the corner.",
+      "bosnian": "Skreni desno na uglu.",
+      "transliteration": "skreni desno na uglu",
+      "category": "Directions",
+      "generated_at": "2026-11-25T06:44:32.540352"
+    },
+    {
+      "english": "Take the first street on your left.",
+      "bosnian": "Uzmite prvu ulicu s lijeve strane.",
+      "transliteration": "uzmite prvu ulicu s lijeve strane",
+      "category": "Directions",
+      "generated_at": "2026-11-25T06:44:32.540353"
     }
   ],
-  "last_updated": "2026-11-25T03:26:55.989455"
+  "last_updated": "2026-11-25T06:44:32.540355"
 }
