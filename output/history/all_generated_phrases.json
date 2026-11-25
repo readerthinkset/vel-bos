@@ -26529,7 +26529,42 @@
       "transliteration": "Hajde, žurimo, vrijeme ističe.",
       "category": "Time",
       "generated_at": "2026-11-25T21:05:15.555080"
+    },
+    {
+      "english": "You’re my friend, always on my side.",
+      "bosnian": "Tvoj prijatelj sam, uvijek uz mene.",
+      "transliteration": "Tvoj prijatelj sam, uvijek uz mene.",
+      "category": "Friendship",
+      "generated_at": "2026-11-25T22:54:40.833205"
+    },
+    {
+      "english": "Thanks for listening, even when I ramble.",
+      "bosnian": "Hvala ti što slušaš, i kad brbljam.",
+      "transliteration": "Hvala ti što slušaš, i kad brbljam.",
+      "category": "Friendship",
+      "generated_at": "2026-11-25T22:54:40.833223"
+    },
+    {
+      "english": "I trust you, fully, and it feels good.",
+      "bosnian": "Vjerujem ti, potpuno, i dobro mi je.",
+      "transliteration": "Vjerujem ti, potpuno, i dobro mi je.",
+      "category": "Friendship",
+      "generated_at": "2026-11-25T22:54:40.833226"
+    },
+    {
+      "english": "Whenever I’m down, you lift me up.",
+      "bosnian": "Kad sam tužan, ti me podigneš.",
+      "transliteration": "Kad sam tužan, ti me podigneš.",
+      "category": "Friendship",
+      "generated_at": "2026-11-25T22:54:40.833229"
+    },
+    {
+      "english": "Let’s grab coffee, just us two.",
+      "bosnian": "Hajde na kavu, samo nas dvoje.",
+      "transliteration": "Hajde na kavu, samo nas dvoje.",
+      "category": "Friendship",
+      "generated_at": "2026-11-25T22:54:40.833231"
     }
   ],
-  "last_updated": "2026-11-25T21:05:15.555082"
+  "last_updated": "2026-11-25T22:54:40.833233"
 }
