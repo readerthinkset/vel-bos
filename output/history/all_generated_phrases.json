@@ -26634,7 +26634,42 @@
       "transliteration": "Svakim danom sam sve hrabriji.",
       "category": "Growth",
       "generated_at": "2026-11-26T02:43:11.434200"
+    },
+    {
+      "english": "Hi! Where can I buy a ticket?",
+      "bosnian": "Zdravo! Gdje mogu kupiti kartu?",
+      "transliteration": "Zdravo! Gdje mogu kupiti kartu?",
+      "category": "Travel",
+      "generated_at": "2026-11-26T06:35:33.534605"
+    },
+    {
+      "english": "Is this the bus to Sarajevo?",
+      "bosnian": "Ide li ovo autobus za Sarajevo?",
+      "transliteration": "Ide li ovo autobus za Sarajevo?",
+      "category": "Travel",
+      "generated_at": "2026-11-26T06:35:33.534619"
+    },
+    {
+      "english": "How do I get to the center?",
+      "bosnian": "Kako mogu doći do centra?",
+      "transliteration": "Kako mogu doći do centra?",
+      "category": "Travel",
+      "generated_at": "2026-11-26T06:35:33.534621"
+    },
+    {
+      "english": "What’s the cheapest option today?",
+      "bosnian": "Koja je najjeftinija opcija danas?",
+      "transliteration": "Koja je najjeftinija opcija danas?",
+      "category": "Travel",
+      "generated_at": "2026-11-26T06:35:33.534622"
+    },
+    {
+      "english": "Please help me, I’m lost here.",
+      "bosnian": "Molim vas, pomozite mi, izgubljen sam.",
+      "transliteration": "Molin vas, pomozite mi, izgubljen sam.",
+      "category": "Travel",
+      "generated_at": "2026-11-26T06:35:33.534626"
     }
   ],
-  "last_updated": "2026-11-26T02:43:11.434201"
+  "last_updated": "2026-11-26T06:35:33.534628"
 }
