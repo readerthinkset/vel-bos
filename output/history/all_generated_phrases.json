@@ -26781,7 +26781,28 @@
       "transliteration": "Bra vo, vjež ba j da lje, br zo ćeš na pred o va ti.",
       "category": "Success",
       "generated_at": "2026-11-27T19:18:26.517591"
+    },
+    {
+      "english": "I wake up, and stretch my arms.",
+      "bosnian": "Probudiim se i ispružim ruke.",
+      "transliteration": "Probudim sei ispružim ruke.",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-28T03:40:58.840551"
+    },
+    {
+      "english": "I wash my hands, then I check time.",
+      "bosnian": "Operem ruke, pa provjerim vrijeme.",
+      "transliteration": "Operem ruke, pa provjerim vrijeme.",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-28T03:40:58.840567"
+    },
+    {
+      "english": "I take a shower, and feel fresh.",
+      "bosnian": "Istuširam se i osjetim svježinu.",
+      "transliteration": "Istuširam sei osjetim svježinu.",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-28T03:40:58.840570"
     }
   ],
-  "last_updated": "2026-11-27T19:18:26.517593"
+  "last_updated": "2026-11-28T03:40:58.840572"
 }
