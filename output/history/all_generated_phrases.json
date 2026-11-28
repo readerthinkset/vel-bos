@@ -26823,7 +26823,28 @@
       "transliteration": "Spreman/na sam da krenem dalje, s dobrotom.",
       "category": "Forgiveness",
       "generated_at": "2026-11-28T11:13:06.084960"
+    },
+    {
+      "english": "Dad, can you help me with this?",
+      "bosnian": "Tata, možeš li mi pomoći oko ovoga?",
+      "transliteration": "Tata, možeš li mi pomoći oko ovoga?",
+      "category": "Family Terms",
+      "generated_at": "2026-11-28T17:55:02.014180"
+    },
+    {
+      "english": "Mom, I'm home, are you okay?",
+      "bosnian": "Mama, stigao sam kući, jesi dobro?",
+      "transliteration": "Mama, stigao sam kući, jesi dobro?",
+      "category": "Family Terms",
+      "generated_at": "2026-11-28T17:55:02.014195"
+    },
+    {
+      "english": "I love you, Mom, thank you.",
+      "bosnian": "Volim te, mama, hvala ti.",
+      "transliteration": "Volim te, mama, hvala ti.",
+      "category": "Family Terms",
+      "generated_at": "2026-11-28T17:55:02.014197"
     }
   ],
-  "last_updated": "2026-11-28T11:13:06.084962"
+  "last_updated": "2026-11-28T17:55:02.014198"
 }
